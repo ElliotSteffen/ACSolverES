@@ -1,0 +1,44 @@
+{
+  "input_csv": "data/wandb_unsolved124_dual_triple.csv",
+  "presentation_count": 124,
+  "method_order": [
+    "Auto Dual GS",
+    "Triple GS"
+  ],
+  "tables": [
+    "outputs/processed_paired_results.csv",
+    "outputs/algorithm_summary.csv",
+    "outputs/head_to_head_summary.csv",
+    "outputs/reduction_coverage_summary.csv",
+    "outputs/triple_queue_summary.csv"
+  ],
+  "figures": [
+    "outputs/figures/paper/paired_best_total_length.png",
+    "outputs/figures/paper/paired_best_total_length.pdf",
+    "outputs/figures/paper/reduction_coverage.png",
+    "outputs/figures/paper/reduction_coverage.pdf",
+    "outputs/figures/paper/reduction_magnitude.png",
+    "outputs/figures/paper/reduction_magnitude.pdf",
+    "outputs/figures/paper/reduced_cases_matrix.png",
+    "outputs/figures/paper/reduced_cases_matrix.pdf",
+    "outputs/figures/paper/triple_queue_mix.png",
+    "outputs/figures/paper/triple_queue_mix.pdf",
+    "outputs/figures/slides/paired_best_total_length.png",
+    "outputs/figures/slides/paired_best_total_length.pdf",
+    "outputs/figures/slides/reduction_coverage.png",
+    "outputs/figures/slides/reduction_coverage.pdf",
+    "outputs/figures/slides/reduction_magnitude.png",
+    "outputs/figures/slides/reduction_magnitude.pdf",
+    "outputs/figures/slides/reduced_cases_matrix.png",
+    "outputs/figures/slides/reduced_cases_matrix.pdf",
+    "outputs/figures/slides/triple_queue_mix.png",
+    "outputs/figures/slides/triple_queue_mix.pdf"
+  ],
+  "key_findings": {
+    "auto_dual_reduced_count": 22,
+    "triple_reduced_count": 28,
+    "auto_dual_better_count": 0,
+    "tie_count": 115,
+    "triple_better_count": 9
+  }
+}

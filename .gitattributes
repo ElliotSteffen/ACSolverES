@@ -1,0 +1,15 @@
+* text=auto
+
+*.py text eol=lf
+*.cpp text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.ipynb text eol=lf
+*.sha256 text eol=lf
+
+# Preserve byte-for-byte checksummed experimental data on every platform.
+*.csv -text
+results/ms640_final_paper_v1/config.json -text
+
+*.png binary
+*.pdf binary

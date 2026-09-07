@@ -1,0 +1,3 @@
+algorithm,algorithm_label,presentations,node_budget_per_presentation,solved_count,reduced_count,unchanged_count,reduction_rate,mean_best_total_length,median_best_total_length,mean_length_reduction,median_length_reduction,maximum_length_reduction
+auto_dual,Auto Dual GS,124,1000000,0,22,102,0.1774193548387097,19.491935483870968,19.0,0.2903225806451613,0.0,3
+triple_gs,Triple GS,124,1000000,0,28,96,0.22580645161290322,19.39516129032258,19.0,0.3870967741935484,0.0,3

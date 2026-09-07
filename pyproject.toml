@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68", "wheel", "pybind11>=2.12"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ac-final-paper-experiments"
+version = "0.1.0"
+description = "Reproducible Dual and Triple Greedy Search experiments for Andrews-Curtis presentations"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+authors = [{name = "Elliot Steffen"}]
+dependencies = [
+  "matplotlib>=3.9",
+  "nbformat>=5.10",
+  "numba>=0.60",
+  "numpy>=1.26",
+  "tqdm>=4.66",
+]
+
+[project.urls]
+Repository = "https://github.com/ElliotSteffen/ACSolverES"
+Issues = "https://github.com/ElliotSteffen/ACSolverES/issues"
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests", "analysis/unsolved_124/tests"]
+addopts = "-ra"

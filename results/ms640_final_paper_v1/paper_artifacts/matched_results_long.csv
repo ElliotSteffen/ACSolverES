@@ -1,0 +1,2561 @@
+algorithm,algorithm_label,pres_id,r1,r2,nodes_explored,path_length,sub_moves_in_path,single_auto_cov_moves_in_path,automorphism_moves_in_path,non_auto_cov_moves_in_path
+sub_only,Sub-only GS,0,YYXyx,Yx,3,2,2,0,0,0
+sub_only,Sub-only GS,1,YYXyx,YX,3,2,2,0,0,0
+sub_only,Sub-only GS,2,YYXyx,YYx,4,3,3,0,0,0
+sub_only,Sub-only GS,3,YYX,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,4,YYYx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,5,YYYX,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,6,YYXyx,YXYxx,7,5,5,0,0,0
+sub_only,Sub-only GS,7,YYXyx,YXXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,8,YYYYx,YYXyx,6,5,5,0,0,0
+sub_only,Sub-only GS,9,YYXyx,YXyxx,4,3,3,0,0,0
+sub_only,Sub-only GS,10,YYXyx,YXXYx,7,5,5,0,0,0
+sub_only,Sub-only GS,11,YYYYX,YYXyx,6,5,5,0,0,0
+sub_only,Sub-only GS,12,YYXYxx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,13,YYXyx,YXYxYx,7,6,6,0,0,0
+sub_only,Sub-only GS,14,YYXyx,YXYxyx,5,4,4,0,0,0
+sub_only,Sub-only GS,15,YYXyx,YXyXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,16,YYXyx,YXYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,17,YYXXyx,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,18,YYXyx,YYxxYX,10,8,8,0,0,0
+sub_only,Sub-only GS,19,YYXyx,YYxxyX,8,6,6,0,0,0
+sub_only,Sub-only GS,20,YYYYYx,YYXyx,7,6,6,0,0,0
+sub_only,Sub-only GS,21,YYXyx,YXyxYx,4,3,3,0,0,0
+sub_only,Sub-only GS,22,YYXyx,YXyXYx,5,4,4,0,0,0
+sub_only,Sub-only GS,23,YYXyx,YYXyxx,4,3,3,0,0,0
+sub_only,Sub-only GS,24,YYXXYx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,25,YYXyx,YYxyXX,8,6,6,0,0,0
+sub_only,Sub-only GS,26,YYXyx,YYxYXX,10,8,8,0,0,0
+sub_only,Sub-only GS,27,YYXyx,YXYxyX,5,4,4,0,0,0
+sub_only,Sub-only GS,28,YYXyx,YXYXYx,7,6,6,0,0,0
+sub_only,Sub-only GS,29,YYYYYX,YYXyx,7,6,6,0,0,0
+sub_only,Sub-only GS,30,YYXyx,YXXYxxx,10,9,9,0,0,0
+sub_only,Sub-only GS,31,YYXyx,YXXXyxx,9,7,7,0,0,0
+sub_only,Sub-only GS,32,YYYXYxx,YYXyx,8,7,7,0,0,0
+sub_only,Sub-only GS,33,YYXYxYx,YYXyx,6,5,5,0,0,0
+sub_only,Sub-only GS,34,YYXYxyx,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,35,YYXyx,YYxYXYx,8,7,7,0,0,0
+sub_only,Sub-only GS,36,YYXyx,YYXyxyX,4,3,3,0,0,0
+sub_only,Sub-only GS,37,YYXyx,YYxyXYx,6,5,5,0,0,0
+sub_only,Sub-only GS,38,YYXyxYX,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,39,YYXyXyx,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,40,YYXYXyx,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,41,YYYXXyx,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,42,YYXYYxx,YYXyx,6,5,5,0,0,0
+sub_only,Sub-only GS,43,YYXyx,YYxYxYX,13,9,9,0,0,0
+sub_only,Sub-only GS,44,YYXyx,YYxyxYX,8,7,7,0,0,0
+sub_only,Sub-only GS,45,YYXyx,YYxYxyX,8,7,7,0,0,0
+sub_only,Sub-only GS,46,YYXyx,YYxyxyX,6,5,5,0,0,0
+sub_only,Sub-only GS,47,YYXXyyx,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,48,YYYxxYX,YYXyx,18,11,11,0,0,0
+sub_only,Sub-only GS,49,YYYxxyX,YYXyx,11,9,9,0,0,0
+sub_only,Sub-only GS,50,YYYYYYx,YYXyx,8,7,7,0,0,0
+sub_only,Sub-only GS,51,YYXyx,YYxYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,52,YYXyx,YYxyXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,53,YYXyxYx,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,54,YYXyXYx,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,55,YYXyx,YYxyXyX,6,5,5,0,0,0
+sub_only,Sub-only GS,56,YYXyx,YYxYXyX,8,7,7,0,0,0
+sub_only,Sub-only GS,57,YYXyx,YXXyxxx,9,7,7,0,0,0
+sub_only,Sub-only GS,58,YYXyx,YXXXYxx,10,9,9,0,0,0
+sub_only,Sub-only GS,59,YYYXyxx,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,60,YYYXXYx,YYXyx,8,7,7,0,0,0
+sub_only,Sub-only GS,61,YYXyx,YYXyyxx,4,3,3,0,0,0
+sub_only,Sub-only GS,62,YYXXYYx,YYXyx,6,5,5,0,0,0
+sub_only,Sub-only GS,63,YYYxyXX,YYXyx,11,9,9,0,0,0
+sub_only,Sub-only GS,64,YYYxYXX,YYXyx,18,11,11,0,0,0
+sub_only,Sub-only GS,65,YYXyx,YYXyxyx,4,3,3,0,0,0
+sub_only,Sub-only GS,66,YYXYxyX,YYXyx,6,5,5,0,0,0
+sub_only,Sub-only GS,67,YYXYxYX,YYXyx,8,7,7,0,0,0
+sub_only,Sub-only GS,68,YYXYXYx,YYXyx,6,5,5,0,0,0
+sub_only,Sub-only GS,69,YYXyx,YYxyXYX,8,7,7,0,0,0
+sub_only,Sub-only GS,70,YYXyx,YYxYXYX,11,9,9,0,0,0
+sub_only,Sub-only GS,71,YYYYYYX,YYXyx,8,7,7,0,0,0
+sub_only,Sub-only GS,72,YYXXYxxx,YYXyx,8,6,6,0,0,0
+sub_only,Sub-only GS,73,YYXyx,YXXYxxYx,13,10,10,0,0,0
+sub_only,Sub-only GS,74,YYXyx,YXXYxYxx,18,12,12,0,0,0
+sub_only,Sub-only GS,75,YYXyx,YXXYxyxx,8,6,6,0,0,0
+sub_only,Sub-only GS,76,YYXyx,YXXYxxyx,10,8,8,0,0,0
+sub_only,Sub-only GS,77,YYXyx,YXyXXyxx,11,8,8,0,0,0
+sub_only,Sub-only GS,78,YYXyx,YXXyXyxx,12,10,10,0,0,0
+sub_only,Sub-only GS,79,YYXyx,YXXYXyxx,5,4,4,0,0,0
+sub_only,Sub-only GS,80,YYXyx,YXYXXyxx,7,6,6,0,0,0
+sub_only,Sub-only GS,81,YYXXXyxx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,82,YYXyx,YXYXYxxx,18,12,12,0,0,0
+sub_only,Sub-only GS,83,YYXyx,YXYxxxyX,12,10,10,0,0,0
+sub_only,Sub-only GS,84,YYYYXYxx,YYXyx,7,6,6,0,0,0
+sub_only,Sub-only GS,85,YYYXYxYx,YYXyx,9,8,8,0,0,0
+sub_only,Sub-only GS,86,YYYXYxyx,YYXyx,8,6,6,0,0,0
+sub_only,Sub-only GS,87,YYXYxYYx,YYXyx,7,6,6,0,0,0
+sub_only,Sub-only GS,88,YYXYxyyx,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,89,YYYxYXYx,YYXyx,9,8,8,0,0,0
+sub_only,Sub-only GS,90,YYYXyxyX,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,91,YYXyx,YXyXYxxx,8,6,6,0,0,0
+sub_only,Sub-only GS,92,YYXyx,YXXXyxYx,5,4,4,0,0,0
+sub_only,Sub-only GS,93,YYYxyXYx,YYXyx,7,6,6,0,0,0
+sub_only,Sub-only GS,94,YYYXyxYX,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,95,YYXyx,YYXyyXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,96,YYXYYXyx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,97,YYYXyXyx,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,98,YYYXYXyx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,99,YYYYXXyx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,100,YYXyx,YYxxxYXX,34,18,18,0,0,0
+sub_only,Sub-only GS,101,YYXyx,YYxxxyXX,21,14,14,0,0,0
+sub_only,Sub-only GS,102,YYYXYYxx,YYXyx,15,10,10,0,0,0
+sub_only,Sub-only GS,103,YYXYYxYx,YYXyx,7,6,6,0,0,0
+sub_only,Sub-only GS,104,YYXYYxyx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,105,YYXyx,YYxYXYYx,18,12,12,0,0,0
+sub_only,Sub-only GS,106,YYXyx,YYXyyxyX,8,6,6,0,0,0
+sub_only,Sub-only GS,107,YYXyx,YYxYYxyX,11,8,8,0,0,0
+sub_only,Sub-only GS,108,YYXyx,YYXyyxYX,5,4,4,0,0,0
+sub_only,Sub-only GS,109,YYXyXyyx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,110,YYXYXyyx,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,111,YYYXXyyx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,112,YYYxxYYX,YYXyx,7,6,6,0,0,0
+sub_only,Sub-only GS,113,YYYxYxYX,YYXyx,24,14,14,0,0,0
+sub_only,Sub-only GS,114,YYYxyxYX,YYXyx,13,10,10,0,0,0
+sub_only,Sub-only GS,115,YYYxYxyX,YYXyx,16,10,10,0,0,0
+sub_only,Sub-only GS,116,YYYxyxyX,YYXyx,9,8,8,0,0,0
+sub_only,Sub-only GS,117,YYYxxyyX,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,118,YYYYxxYX,YYXyx,32,16,16,0,0,0
+sub_only,Sub-only GS,119,YYYYxxyX,YYXyx,18,12,12,0,0,0
+sub_only,Sub-only GS,120,YYYYYYYx,YYXyx,9,8,8,0,0,0
+sub_only,Sub-only GS,121,YYYxYXyx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,122,YYYxyXyx,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,123,YYXyxYYx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,124,YYXyx,YYXyyXYx,4,3,3,0,0,0
+sub_only,Sub-only GS,125,YYXyx,YYxYXyyx,5,4,4,0,0,0
+sub_only,Sub-only GS,126,YYXyx,YYxYXyyX,8,6,6,0,0,0
+sub_only,Sub-only GS,127,YYXyx,YXXyxxYx,7,6,6,0,0,0
+sub_only,Sub-only GS,128,YYXyx,YXyXXYxx,10,8,8,0,0,0
+sub_only,Sub-only GS,129,YYXyx,YXXyxYxx,5,4,4,0,0,0
+sub_only,Sub-only GS,130,YYXyx,YXXyXYxx,8,6,6,0,0,0
+sub_only,Sub-only GS,131,YYYXyxYx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,132,YYYXyXYx,YYXyx,8,6,6,0,0,0
+sub_only,Sub-only GS,133,YYXyx,YYXyyxYx,4,3,3,0,0,0
+sub_only,Sub-only GS,134,YYXyXYYx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,135,YYYxyXyX,YYXyx,9,8,8,0,0,0
+sub_only,Sub-only GS,136,YYYxYXyX,YYXyx,13,10,10,0,0,0
+sub_only,Sub-only GS,137,YYXXyxxx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,138,YYXXXYxx,YYXyx,8,6,6,0,0,0
+sub_only,Sub-only GS,139,YYXyx,YXYXyxxx,5,4,4,0,0,0
+sub_only,Sub-only GS,140,YYXyx,YXXXYxyx,8,6,6,0,0,0
+sub_only,Sub-only GS,141,YYXyx,YXyXyxxx,12,10,10,0,0,0
+sub_only,Sub-only GS,142,YYXyx,YXXXYxYx,18,12,12,0,0,0
+sub_only,Sub-only GS,143,YYXyx,YYxxyXXX,21,14,14,0,0,0
+sub_only,Sub-only GS,144,YYXyx,YYxxYXXX,34,18,18,0,0,0
+sub_only,Sub-only GS,145,YYXyx,YXXYxxyX,11,8,8,0,0,0
+sub_only,Sub-only GS,146,YYXyx,YXYXXYxx,11,10,10,0,0,0
+sub_only,Sub-only GS,147,YYYYXyxx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,148,YYYYXXYx,YYXyx,7,6,6,0,0,0
+sub_only,Sub-only GS,149,YYXyx,YXYxxyXX,12,10,10,0,0,0
+sub_only,Sub-only GS,150,YYXyx,YXYxxYXX,18,12,12,0,0,0
+sub_only,Sub-only GS,151,YYYXyyxx,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,152,YYYXXYYx,YYXyx,16,10,10,0,0,0
+sub_only,Sub-only GS,153,YYYxyyXX,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,154,YYYxYYXX,YYXyx,7,6,6,0,0,0
+sub_only,Sub-only GS,155,YYYYxyXX,YYXyx,18,12,12,0,0,0
+sub_only,Sub-only GS,156,YYYYxYXX,YYXyx,32,16,16,0,0,0
+sub_only,Sub-only GS,157,YYYXyxyx,YYXyx,4,3,3,0,0,0
+sub_only,Sub-only GS,158,YYXYxyyX,YYXyx,5,4,4,0,0,0
+sub_only,Sub-only GS,159,YYYXYxyX,YYXyx,7,6,6,0,0,0
+sub_only,Sub-only GS,160,YYYXYxYX,YYXyx,9,8,8,0,0,0
+sub_only,Sub-only GS,161,YYXYYXYx,YYXyx,7,6,6,0,0,0
+sub_only,Sub-only GS,162,YYYXYXYx,YYXyx,9,8,8,0,0,0
+sub_only,Sub-only GS,163,YYXyx,YYXyyxyx,5,4,4,0,0,0
+sub_only,Sub-only GS,164,YYXYXYYx,YYXyx,7,6,6,0,0,0
+sub_only,Sub-only GS,165,YYYxyXYX,YYXyx,16,10,10,0,0,0
+sub_only,Sub-only GS,166,YYYxYXYX,YYXyx,24,14,14,0,0,0
+sub_only,Sub-only GS,167,YYXYYxyX,YYXyx,9,8,8,0,0,0
+sub_only,Sub-only GS,168,YYXYYxYX,YYXyx,18,12,12,0,0,0
+sub_only,Sub-only GS,169,YYYYYYYX,YYXyx,9,8,8,0,0,0
+sub_only,Sub-only GS,170,YYYXyyx,Yx,3,2,2,0,0,0
+sub_only,Sub-only GS,171,YYYXyyx,YX,3,2,2,0,0,0
+sub_only,Sub-only GS,172,YYYXyyx,YYx,4,3,3,0,0,0
+sub_only,Sub-only GS,173,YYYXyyx,YYX,4,3,3,0,0,0
+sub_only,Sub-only GS,174,YYYXyyx,YYYx,5,4,4,0,0,0
+sub_only,Sub-only GS,175,YYYX,YYYXyyx,5,4,4,0,0,0
+sub_only,Sub-only GS,176,YYYXyyx,YXYxx,68,10,10,0,0,0
+sub_only,Sub-only GS,177,YYYXyyx,YXXyx,8,7,7,0,0,0
+sub_only,Sub-only GS,178,YYYYx,YYYXyyx,6,5,5,0,0,0
+sub_only,Sub-only GS,179,YYYXyyx,YXyxx,8,7,7,0,0,0
+sub_only,Sub-only GS,180,YYYXyyx,YXXYx,55,10,10,0,0,0
+sub_only,Sub-only GS,181,YYYYX,YYYXyyx,6,5,5,0,0,0
+sub_only,Sub-only GS,182,YYYXyyx,YYXYxx,44,12,12,0,0,0
+sub_only,Sub-only GS,183,YYYXyyx,YXYxYx,108,13,13,0,0,0
+sub_only,Sub-only GS,184,YYYXyyx,YXYxyx,33,8,8,0,0,0
+sub_only,Sub-only GS,185,YYYXyyx,YXyXyx,23,8,8,0,0,0
+sub_only,Sub-only GS,186,YYYXyyx,YXYXyx,10,8,8,0,0,0
+sub_only,Sub-only GS,187,YYYXyyx,YYXXyx,8,7,7,0,0,0
+sub_only,Sub-only GS,188,YYYXyyx,YYxxYX,8,7,7,0,0,0
+sub_only,Sub-only GS,189,YYYXyyx,YYxxyX,5,4,4,0,0,0
+sub_only,Sub-only GS,190,YYYYYx,YYYXyyx,7,6,6,0,0,0
+sub_only,Sub-only GS,191,YYYXyyx,YXyxYx,9,8,8,0,0,0
+sub_only,Sub-only GS,192,YYYXyyx,YXyXYx,31,8,8,0,0,0
+sub_only,Sub-only GS,193,YYYXyyx,YYXyxx,8,7,7,0,0,0
+sub_only,Sub-only GS,194,YYYXyyx,YYXXYx,53,12,12,0,0,0
+sub_only,Sub-only GS,195,YYYXyyx,YYxyXX,5,4,4,0,0,0
+sub_only,Sub-only GS,196,YYYXyyx,YYxYXX,8,7,7,0,0,0
+sub_only,Sub-only GS,197,YYYXyyx,YXYxyX,23,8,8,0,0,0
+sub_only,Sub-only GS,198,YYYXyyx,YXYXYx,79,13,13,0,0,0
+sub_only,Sub-only GS,199,YYYYYX,YYYXyyx,7,6,6,0,0,0
+sub_only,Sub-only GS,200,YYYXYxx,YYYXyyx,6,5,5,0,0,0
+sub_only,Sub-only GS,201,YYYXyyx,YYXYxYx,61,15,15,0,0,0
+sub_only,Sub-only GS,202,YYYXyyx,YYXYxyx,25,9,9,0,0,0
+sub_only,Sub-only GS,203,YYYXyyx,YYxYXYx,116,16,16,0,0,0
+sub_only,Sub-only GS,204,YYYXyyx,YYXyxyX,9,8,8,0,0,0
+sub_only,Sub-only GS,205,YYYXyyx,YYxyXYx,33,11,11,0,0,0
+sub_only,Sub-only GS,206,YYYXyyx,YYXyxYX,21,8,8,0,0,0
+sub_only,Sub-only GS,207,YYYXyyx,YYXyXyx,11,8,8,0,0,0
+sub_only,Sub-only GS,208,YYYXyyx,YYXYXyx,24,8,8,0,0,0
+sub_only,Sub-only GS,209,YYYXXyx,YYYXyyx,5,4,4,0,0,0
+sub_only,Sub-only GS,210,YYYXyyx,YYXYYxx,9,7,7,0,0,0
+sub_only,Sub-only GS,211,YYYXyyx,YYxYxYX,8,7,7,0,0,0
+sub_only,Sub-only GS,212,YYYXyyx,YYxyxYX,6,5,5,0,0,0
+sub_only,Sub-only GS,213,YYYXyyx,YYxYxyX,6,5,5,0,0,0
+sub_only,Sub-only GS,214,YYYXyyx,YYxyxyX,4,3,3,0,0,0
+sub_only,Sub-only GS,215,YYYXyyx,YYXXyyx,5,4,4,0,0,0
+sub_only,Sub-only GS,216,YYYXyyx,YYYxxYX,121,18,18,0,0,0
+sub_only,Sub-only GS,217,YYYXyyx,YYYxxyX,57,13,13,0,0,0
+sub_only,Sub-only GS,218,YYYYYYx,YYYXyyx,8,7,7,0,0,0
+sub_only,Sub-only GS,219,YYYXyyx,YYxYXyx,34,8,8,0,0,0
+sub_only,Sub-only GS,220,YYYXyyx,YYxyXyx,11,8,8,0,0,0
+sub_only,Sub-only GS,221,YYYXyyx,YYXyxYx,24,8,8,0,0,0
+sub_only,Sub-only GS,222,YYYXyyx,YYXyXYx,25,9,9,0,0,0
+sub_only,Sub-only GS,223,YYYXyyx,YYxyXyX,4,3,3,0,0,0
+sub_only,Sub-only GS,224,YYYXyyx,YYxYXyX,6,5,5,0,0,0
+sub_only,Sub-only GS,225,YYYXyxx,YYYXyyx,5,4,4,0,0,0
+sub_only,Sub-only GS,226,YYYXXYx,YYYXyyx,6,5,5,0,0,0
+sub_only,Sub-only GS,227,YYYXyyx,YYXyyxx,5,4,4,0,0,0
+sub_only,Sub-only GS,228,YYYXyyx,YYXXYYx,9,7,7,0,0,0
+sub_only,Sub-only GS,229,YYYXyyx,YYYxyXX,66,13,13,0,0,0
+sub_only,Sub-only GS,230,YYYXyyx,YYYxYXX,109,18,18,0,0,0
+sub_only,Sub-only GS,231,YYYXyyx,YYXyxyx,10,8,8,0,0,0
+sub_only,Sub-only GS,232,YYYXyyx,YYXYxyX,42,11,11,0,0,0
+sub_only,Sub-only GS,233,YYYXyyx,YYXYxYX,102,16,16,0,0,0
+sub_only,Sub-only GS,234,YYYXyyx,YYXYXYx,70,15,15,0,0,0
+sub_only,Sub-only GS,235,YYYXyyx,YYxyXYX,6,5,5,0,0,0
+sub_only,Sub-only GS,236,YYYXyyx,YYxYXYX,8,7,7,0,0,0
+sub_only,Sub-only GS,237,YYYYYYX,YYYXyyx,8,7,7,0,0,0
+sub_only,Sub-only GS,238,YYYYXYxx,YYYXyyx,118,17,17,0,0,0
+sub_only,Sub-only GS,239,YYYXYxYx,YYYXyyx,7,6,6,0,0,0
+sub_only,Sub-only GS,240,YYYXYxyx,YYYXyyx,5,4,4,0,0,0
+sub_only,Sub-only GS,241,YYYXyyx,YYXYxYYx,65,18,18,0,0,0
+sub_only,Sub-only GS,242,YYYXyyx,YYXYxyyx,9,8,8,0,0,0
+sub_only,Sub-only GS,243,YYYXyyx,YYYxYXYx,121,19,19,0,0,0
+sub_only,Sub-only GS,244,YYYXyxyX,YYYXyyx,9,8,8,0,0,0
+sub_only,Sub-only GS,245,YYYXyyx,YYYxyXYx,61,14,14,0,0,0
+sub_only,Sub-only GS,246,YYYXyxYX,YYYXyyx,56,11,11,0,0,0
+sub_only,Sub-only GS,247,YYYXyyx,YYXyyXyx,46,9,9,0,0,0
+sub_only,Sub-only GS,248,YYYXyyx,YYXYYXyx,31,10,10,0,0,0
+sub_only,Sub-only GS,249,YYYXyXyx,YYYXyyx,4,3,3,0,0,0
+sub_only,Sub-only GS,250,YYYXYXyx,YYYXyyx,5,4,4,0,0,0
+sub_only,Sub-only GS,251,YYYYXXyx,YYYXyyx,33,9,9,0,0,0
+sub_only,Sub-only GS,252,YYYXyyx,YYxxxYXX,121,19,19,0,0,0
+sub_only,Sub-only GS,253,YYYXyyx,YYxxxyXX,58,14,14,0,0,0
+sub_only,Sub-only GS,254,YYYXYYxx,YYYXyyx,7,6,6,0,0,0
+sub_only,Sub-only GS,255,YYYXyyx,YYXYYxYx,9,8,8,0,0,0
+sub_only,Sub-only GS,256,YYYXyyx,YYXYYxyx,7,6,6,0,0,0
+sub_only,Sub-only GS,257,YYYXyyx,YYxYXYYx,9,8,8,0,0,0
+sub_only,Sub-only GS,258,YYYXyyx,YYXyyxyX,5,4,4,0,0,0
+sub_only,Sub-only GS,259,YYYXyyx,YYxYYxyX,7,6,6,0,0,0
+sub_only,Sub-only GS,260,YYYXyyx,YYXyyxYX,4,3,3,0,0,0
+sub_only,Sub-only GS,261,YYYXyyx,YYXyXyyx,5,4,4,0,0,0
+sub_only,Sub-only GS,262,YYYXyyx,YYXYXyyx,4,3,3,0,0,0
+sub_only,Sub-only GS,263,YYYXXyyx,YYYXyyx,4,3,3,0,0,0
+sub_only,Sub-only GS,264,YYYXyyx,YYYxxYYX,69,20,20,0,0,0
+sub_only,Sub-only GS,265,YYYXyyx,YYYxYxYX,121,21,21,0,0,0
+sub_only,Sub-only GS,266,YYYXyyx,YYYxyxYX,111,15,15,0,0,0
+sub_only,Sub-only GS,267,YYYXyyx,YYYxYxyX,61,16,16,0,0,0
+sub_only,Sub-only GS,268,YYYXyyx,YYYxyxyX,26,10,10,0,0,0
+sub_only,Sub-only GS,269,YYYXyyx,YYYxxyyX,69,11,11,0,0,0
+sub_only,Sub-only GS,270,YYYYxxYX,YYYXyyx,11,10,10,0,0,0
+sub_only,Sub-only GS,271,YYYYxxyX,YYYXyyx,10,8,8,0,0,0
+sub_only,Sub-only GS,272,YYYYYYYx,YYYXyyx,9,8,8,0,0,0
+sub_only,Sub-only GS,273,YYYXyyx,YYYxYXyx,69,11,11,0,0,0
+sub_only,Sub-only GS,274,YYYXyyx,YYYxyXyx,9,8,8,0,0,0
+sub_only,Sub-only GS,275,YYYXyyx,YYXyxYYx,26,10,10,0,0,0
+sub_only,Sub-only GS,276,YYYXyyx,YYXyyXYx,9,8,8,0,0,0
+sub_only,Sub-only GS,277,YYYXyyx,YYxYXyyx,4,3,3,0,0,0
+sub_only,Sub-only GS,278,YYYXyyx,YYxYXyyX,5,4,4,0,0,0
+sub_only,Sub-only GS,279,YYYXyxYx,YYYXyyx,5,4,4,0,0,0
+sub_only,Sub-only GS,280,YYYXyXYx,YYYXyyx,5,4,4,0,0,0
+sub_only,Sub-only GS,281,YYYXyyx,YYXyyxYx,4,3,3,0,0,0
+sub_only,Sub-only GS,282,YYYXyyx,YYXyXYYx,7,6,6,0,0,0
+sub_only,Sub-only GS,283,YYYXyyx,YYYxyXyX,31,10,10,0,0,0
+sub_only,Sub-only GS,284,YYYXyyx,YYYxYXyX,99,15,15,0,0,0
+sub_only,Sub-only GS,285,YYYXyyx,YYxxyXXX,67,14,14,0,0,0
+sub_only,Sub-only GS,286,YYYXyyx,YYxxYXXX,109,19,19,0,0,0
+sub_only,Sub-only GS,287,YYYYXyxx,YYYXyyx,46,9,9,0,0,0
+sub_only,Sub-only GS,288,YYYYXXYx,YYYXyyx,106,17,17,0,0,0
+sub_only,Sub-only GS,289,YYYXyyx,YYYXyyxx,4,3,3,0,0,0
+sub_only,Sub-only GS,290,YYYXXYYx,YYYXyyx,7,6,6,0,0,0
+sub_only,Sub-only GS,291,YYYXyyx,YYYxyyXX,56,11,11,0,0,0
+sub_only,Sub-only GS,292,YYYXyyx,YYYxYYXX,78,20,20,0,0,0
+sub_only,Sub-only GS,293,YYYYxyXX,YYYXyyx,10,8,8,0,0,0
+sub_only,Sub-only GS,294,YYYYxYXX,YYYXyyx,11,10,10,0,0,0
+sub_only,Sub-only GS,295,YYYXyxyx,YYYXyyx,4,3,3,0,0,0
+sub_only,Sub-only GS,296,YYYXyyx,YYXYxyyX,33,9,9,0,0,0
+sub_only,Sub-only GS,297,YYYXYxyX,YYYXyyx,70,14,14,0,0,0
+sub_only,Sub-only GS,298,YYYXYxYX,YYYXyyx,109,19,19,0,0,0
+sub_only,Sub-only GS,299,YYYXyyx,YYXYYXYx,72,18,18,0,0,0
+sub_only,Sub-only GS,300,YYYXYXYx,YYYXyyx,7,6,6,0,0,0
+sub_only,Sub-only GS,301,YYYXyyx,YYXyyxyx,5,4,4,0,0,0
+sub_only,Sub-only GS,302,YYYXyyx,YYXYXYYx,9,8,8,0,0,0
+sub_only,Sub-only GS,303,YYYXyyx,YYYxyXYX,70,16,16,0,0,0
+sub_only,Sub-only GS,304,YYYXyyx,YYYxYXYX,109,21,21,0,0,0
+sub_only,Sub-only GS,305,YYYXyyx,YYXYYxyX,7,6,6,0,0,0
+sub_only,Sub-only GS,306,YYYXyyx,YYXYYxYX,9,8,8,0,0,0
+sub_only,Sub-only GS,307,YYYYYYYX,YYYXyyx,9,8,8,0,0,0
+sub_only,Sub-only GS,308,YYYYXyyyx,Yx,3,2,2,0,0,0
+sub_only,Sub-only GS,309,YYYYXyyyx,YX,3,2,2,0,0,0
+sub_only,Sub-only GS,310,YYYYXyyyx,YYx,4,3,3,0,0,0
+sub_only,Sub-only GS,311,YYYYXyyyx,YYX,4,3,3,0,0,0
+sub_only,Sub-only GS,312,YYYYXyyyx,YYYx,5,4,4,0,0,0
+sub_only,Sub-only GS,313,YYYYXyyyx,YYYX,5,4,4,0,0,0
+sub_only,Sub-only GS,314,YYYYXyyyx,YXXyx,22,15,15,0,0,0
+sub_only,Sub-only GS,315,YYYYXyyyx,YYYYx,6,5,5,0,0,0
+sub_only,Sub-only GS,316,YYYYXyyyx,YXyxx,22,17,17,0,0,0
+sub_only,Sub-only GS,317,YYYYX,YYYYXyyyx,6,5,5,0,0,0
+sub_only,Sub-only GS,318,YYYYXyyyx,YYXYxx,51,10,10,0,0,0
+sub_only,Sub-only GS,319,YYYYXyyyx,YXyXyx,105,22,22,0,0,0
+sub_only,Sub-only GS,320,YYYYXyyyx,YXYXyx,72,17,17,0,0,0
+sub_only,Sub-only GS,321,YYYYXyyyx,YYXXyx,10,8,8,0,0,0
+sub_only,Sub-only GS,322,YYYYXyyyx,YYxxYX,274,29,29,0,0,0
+sub_only,Sub-only GS,323,YYYYYx,YYYYXyyyx,7,6,6,0,0,0
+sub_only,Sub-only GS,324,YYYYXyyyx,YXyxYx,100,19,19,0,0,0
+sub_only,Sub-only GS,325,YYYYXyyyx,YYXyxx,9,8,8,0,0,0
+sub_only,Sub-only GS,326,YYYYXyyyx,YYXXYx,31,10,10,0,0,0
+sub_only,Sub-only GS,327,YYYYXyyyx,YYxYXX,273,29,29,0,0,0
+sub_only,Sub-only GS,328,YYYYXyyyx,YXYxyX,106,22,22,0,0,0
+sub_only,Sub-only GS,329,YYYYYX,YYYYXyyyx,7,6,6,0,0,0
+sub_only,Sub-only GS,330,YYYYXyyyx,YYYXYxx,381,38,38,0,0,0
+sub_only,Sub-only GS,331,YYYYXyyyx,YYXYxYx,93,24,24,0,0,0
+sub_only,Sub-only GS,332,YYYYXyyyx,YYXYxyx,22,9,9,0,0,0
+sub_only,Sub-only GS,333,YYYYXyyyx,YYxyXYx,313,35,35,0,0,0
+sub_only,Sub-only GS,334,YYYYXyyyx,YYXyxYX,94,24,24,0,0,0
+sub_only,Sub-only GS,335,YYYYXyyyx,YYXyXyx,9,8,8,0,0,0
+sub_only,Sub-only GS,336,YYYYXyyyx,YYXYXyx,25,9,9,0,0,0
+sub_only,Sub-only GS,337,YYYYXyyyx,YYXYYxx,67,18,18,0,0,0
+sub_only,Sub-only GS,338,YYYYXyyyx,YYxYxYX,324,32,32,0,0,0
+sub_only,Sub-only GS,339,YYYYXyyyx,YYxyxYX,175,26,26,0,0,0
+sub_only,Sub-only GS,340,YYYYXyyyx,YYXXyyx,9,8,8,0,0,0
+sub_only,Sub-only GS,341,YYYYXyyyx,YYYxxYX,9,8,8,0,0,0
+sub_only,Sub-only GS,342,YYYYXyyyx,YYYxxyX,6,5,5,0,0,0
+sub_only,Sub-only GS,343,YYYYYYx,YYYYXyyyx,8,7,7,0,0,0
+sub_only,Sub-only GS,344,YYYYXyyyx,YYxYXyx,98,24,24,0,0,0
+sub_only,Sub-only GS,345,YYYYXyyyx,YYXyxYx,26,9,9,0,0,0
+sub_only,Sub-only GS,346,YYYYXyyyx,YYXyXYx,22,9,9,0,0,0
+sub_only,Sub-only GS,347,YYYYXyyyx,YYxYXyX,171,26,26,0,0,0
+sub_only,Sub-only GS,348,YYYYXyyyx,YYYXXYx,297,32,32,0,0,0
+sub_only,Sub-only GS,349,YYYYXyyyx,YYXyyxx,10,8,8,0,0,0
+sub_only,Sub-only GS,350,YYYYXyyyx,YYXXYYx,75,18,18,0,0,0
+sub_only,Sub-only GS,351,YYYYXyyyx,YYYxyXX,6,5,5,0,0,0
+sub_only,Sub-only GS,352,YYYYXyyyx,YYYxYXX,9,8,8,0,0,0
+sub_only,Sub-only GS,353,YYYYXyyyx,YYXyxyx,9,8,8,0,0,0
+sub_only,Sub-only GS,354,YYYYXyyyx,YYXYxyX,224,29,29,0,0,0
+sub_only,Sub-only GS,355,YYYYXyyyx,YYXYXYx,90,24,24,0,0,0
+sub_only,Sub-only GS,356,YYYYXyyyx,YYxYXYX,323,32,32,0,0,0
+sub_only,Sub-only GS,357,YYYYYYX,YYYYXyyyx,8,7,7,0,0,0
+sub_only,Sub-only GS,358,YYYYXYxx,YYYYXyyyx,7,6,6,0,0,0
+sub_only,Sub-only GS,359,YYYYXyyyx,YYYXYxyx,320,35,35,0,0,0
+sub_only,Sub-only GS,360,YYYYXyyyx,YYXYxYYx,278,32,32,0,0,0
+sub_only,Sub-only GS,361,YYYYXyyyx,YYXYxyyx,9,8,8,0,0,0
+sub_only,Sub-only GS,362,YYYYXyyyx,YYYxyXYx,380,37,37,0,0,0
+sub_only,Sub-only GS,363,YYYYXyyyx,YYYXyxYX,178,27,27,0,0,0
+sub_only,Sub-only GS,364,YYYYXyyyx,YYXyyXyx,22,9,9,0,0,0
+sub_only,Sub-only GS,365,YYYYXyyyx,YYXYYXyx,28,13,13,0,0,0
+sub_only,Sub-only GS,366,YYYYXXyx,YYYYXyyyx,6,5,5,0,0,0
+sub_only,Sub-only GS,367,YYYYXyyyx,YYXYYxYx,83,21,21,0,0,0
+sub_only,Sub-only GS,368,YYYYXyyyx,YYXYYxyx,39,15,15,0,0,0
+sub_only,Sub-only GS,369,YYYYXyyyx,YYxYXYYx,361,35,35,0,0,0
+sub_only,Sub-only GS,370,YYYYXyyyx,YYXyyxyX,124,23,23,0,0,0
+sub_only,Sub-only GS,371,YYYYXyyyx,YYXyXyyx,26,9,9,0,0,0
+sub_only,Sub-only GS,372,YYYYXyyyx,YYXYXyyx,9,8,8,0,0,0
+sub_only,Sub-only GS,373,YYYYXyyyx,YYYXXyyx,23,17,17,0,0,0
+sub_only,Sub-only GS,374,YYYYXyyyx,YYYxxYYX,10,9,9,0,0,0
+sub_only,Sub-only GS,375,YYYYXyyyx,YYYxYxYX,10,9,9,0,0,0
+sub_only,Sub-only GS,376,YYYYXyyyx,YYYxyxYX,8,7,7,0,0,0
+sub_only,Sub-only GS,377,YYYYXyyyx,YYYxYxyX,7,6,6,0,0,0
+sub_only,Sub-only GS,378,YYYYXyyyx,YYYxyxyX,5,4,4,0,0,0
+sub_only,Sub-only GS,379,YYYYXyyyx,YYYxxyyX,6,5,5,0,0,0
+sub_only,Sub-only GS,380,YYYYXyyyx,YYYYxxyX,381,39,39,0,0,0
+sub_only,Sub-only GS,381,YYYYYYYx,YYYYXyyyx,9,8,8,0,0,0
+sub_only,Sub-only GS,382,YYYYXyyyx,YYYxYXyx,177,27,27,0,0,0
+sub_only,Sub-only GS,383,YYYYXyyyx,YYXyxYYx,29,13,13,0,0,0
+sub_only,Sub-only GS,384,YYYYXyyyx,YYXyyXYx,9,8,8,0,0,0
+sub_only,Sub-only GS,385,YYYYXyyyx,YYxYXyyX,95,24,24,0,0,0
+sub_only,Sub-only GS,386,YYYYXyyyx,YYYXyXYx,231,29,29,0,0,0
+sub_only,Sub-only GS,387,YYYYXyyyx,YYXyyxYx,9,8,8,0,0,0
+sub_only,Sub-only GS,388,YYYYXyyyx,YYXyXYYx,47,15,15,0,0,0
+sub_only,Sub-only GS,389,YYYYXyyyx,YYYxyXyX,5,4,4,0,0,0
+sub_only,Sub-only GS,390,YYYYXyyyx,YYYxYXyX,8,7,7,0,0,0
+sub_only,Sub-only GS,391,YYYYXyxx,YYYYXyyyx,6,5,5,0,0,0
+sub_only,Sub-only GS,392,YYYYXXYx,YYYYXyyyx,7,6,6,0,0,0
+sub_only,Sub-only GS,393,YYYYXyyyx,YYYXyyxx,23,15,15,0,0,0
+sub_only,Sub-only GS,394,YYYYXyyyx,YYYxyyXX,6,5,5,0,0,0
+sub_only,Sub-only GS,395,YYYYXyyyx,YYYxYYXX,10,9,9,0,0,0
+sub_only,Sub-only GS,396,YYYYXyyyx,YYYYxyXX,296,33,33,0,0,0
+sub_only,Sub-only GS,397,YYYYXyyyx,YYXYxyyX,22,9,9,0,0,0
+sub_only,Sub-only GS,398,YYYYXyyyx,YYYXYxyX,293,31,31,0,0,0
+sub_only,Sub-only GS,399,YYYYXyyyx,YYXYYXYx,224,29,29,0,0,0
+sub_only,Sub-only GS,400,YYYYXyyyx,YYXyyxyx,25,9,9,0,0,0
+sub_only,Sub-only GS,401,YYYYXyyyx,YYXYXYYx,92,21,21,0,0,0
+sub_only,Sub-only GS,402,YYYYXyyyx,YYYxyXYX,7,6,6,0,0,0
+sub_only,Sub-only GS,403,YYYYXyyyx,YYYxYXYX,10,9,9,0,0,0
+sub_only,Sub-only GS,404,YYYYXyyyx,YYXYYxYX,334,35,35,0,0,0
+sub_only,Sub-only GS,405,YYYYYYYX,YYYYXyyyx,9,8,8,0,0,0
+sub_only,Sub-only GS,406,YYYYYXyyyyx,Yx,3,2,2,0,0,0
+sub_only,Sub-only GS,407,YYYYYXyyyyx,YX,3,2,2,0,0,0
+sub_only,Sub-only GS,408,YYYYYXyyyyx,YYx,4,3,3,0,0,0
+sub_only,Sub-only GS,409,YYYYYXyyyyx,YYX,4,3,3,0,0,0
+sub_only,Sub-only GS,410,YYYYYXyyyyx,YYYx,5,4,4,0,0,0
+sub_only,Sub-only GS,411,YYYYYXyyyyx,YYYX,5,4,4,0,0,0
+sub_only,Sub-only GS,412,YYYYYXyyyyx,YXXyx,109,41,41,0,0,0
+sub_only,Sub-only GS,413,YYYYYXyyyyx,YYYYx,6,5,5,0,0,0
+sub_only,Sub-only GS,414,YYYYYXyyyyx,YXyxx,122,43,43,0,0,0
+sub_only,Sub-only GS,415,YYYYYXyyyyx,YYYYX,6,5,5,0,0,0
+sub_only,Sub-only GS,416,YYYYYXyyyyx,YXyXyx,485,52,52,0,0,0
+sub_only,Sub-only GS,417,YYYYYXyyyyx,YXYXyx,299,47,47,0,0,0
+sub_only,Sub-only GS,418,YYYYYXyyyyx,YYxxyX,64,15,15,0,0,0
+sub_only,Sub-only GS,419,YYYYYXyyyyx,YYYYYx,7,6,6,0,0,0
+sub_only,Sub-only GS,420,YYYYYXyyyyx,YXyxYx,295,47,47,0,0,0
+sub_only,Sub-only GS,421,YYYYYXyyyyx,YYxyXX,62,15,15,0,0,0
+sub_only,Sub-only GS,422,YYYYYXyyyyx,YXYxyX,490,52,52,0,0,0
+sub_only,Sub-only GS,423,YYYYYX,YYYYYXyyyyx,7,6,6,0,0,0
+sub_only,Sub-only GS,424,YYYYYXyyyyx,YYXyxYX,228,54,54,0,0,0
+sub_only,Sub-only GS,425,YYYYYXyyyyx,YYXYYxx,315,21,21,0,0,0
+sub_only,Sub-only GS,426,YYYYYXyyyyx,YYxyxYX,183,20,20,0,0,0
+sub_only,Sub-only GS,427,YYYYYXyyyyx,YYxYxyX,205,22,22,0,0,0
+sub_only,Sub-only GS,428,YYYYYXyyyyx,YYxyxyX,16,12,12,0,0,0
+sub_only,Sub-only GS,429,YYYYYXyyyyx,YYXXyyx,10,9,9,0,0,0
+sub_only,Sub-only GS,430,YYYYYYx,YYYYYXyyyyx,8,7,7,0,0,0
+sub_only,Sub-only GS,431,YYYYYXyyyyx,YYxYXyx,230,54,54,0,0,0
+sub_only,Sub-only GS,432,YYYYYXyyyyx,YYxyXyX,16,12,12,0,0,0
+sub_only,Sub-only GS,433,YYYYYXyyyyx,YYxYXyX,188,20,20,0,0,0
+sub_only,Sub-only GS,434,YYYYYXyyyyx,YYXyyxx,10,9,9,0,0,0
+sub_only,Sub-only GS,435,YYYYYXyyyyx,YYXXYYx,322,21,21,0,0,0
+sub_only,Sub-only GS,436,YYYYYXyyyyx,YYxyXYX,213,22,22,0,0,0
+sub_only,Sub-only GS,437,YYYYYYX,YYYYYXyyyyx,8,7,7,0,0,0
+sub_only,Sub-only GS,438,YYYYYXyyyyx,YYYXYYxx,188,27,27,0,0,0
+sub_only,Sub-only GS,439,YYYYYXyyyyx,YYXYYxyx,111,19,19,0,0,0
+sub_only,Sub-only GS,440,YYYYYXyyyyx,YYXyyxyX,77,17,17,0,0,0
+sub_only,Sub-only GS,441,YYYYYXyyyyx,YYXyyxYX,13,12,12,0,0,0
+sub_only,Sub-only GS,442,YYYYYXyyyyx,YYXyXyyx,22,10,10,0,0,0
+sub_only,Sub-only GS,443,YYYYYXyyyyx,YYXYXyyx,11,9,9,0,0,0
+sub_only,Sub-only GS,444,YYYYYXyyyyx,YYYXXyyx,10,9,9,0,0,0
+sub_only,Sub-only GS,445,YYYYYXyyyyx,YYYYxxYX,10,9,9,0,0,0
+sub_only,Sub-only GS,446,YYYYYXyyyyx,YYYYxxyX,7,6,6,0,0,0
+sub_only,Sub-only GS,447,YYYYYYYx,YYYYYXyyyyx,9,8,8,0,0,0
+sub_only,Sub-only GS,448,YYYYYXyyyyx,YYxYXyyx,13,12,12,0,0,0
+sub_only,Sub-only GS,449,YYYYYXyyyyx,YYxYXyyX,77,17,17,0,0,0
+sub_only,Sub-only GS,450,YYYYYXyyyyx,YYXyyxYx,13,11,11,0,0,0
+sub_only,Sub-only GS,451,YYYYYXyyyyx,YYXyXYYx,118,19,19,0,0,0
+sub_only,Sub-only GS,452,YYYYYXyyyyx,YYYXyyxx,10,9,9,0,0,0
+sub_only,Sub-only GS,453,YYYYYXyyyyx,YYYXXYYx,204,23,23,0,0,0
+sub_only,Sub-only GS,454,YYYYYXyyyyx,YYYYxyXX,7,6,6,0,0,0
+sub_only,Sub-only GS,455,YYYYYXyyyyx,YYYYxYXX,10,9,9,0,0,0
+sub_only,Sub-only GS,456,YYYYYXyyyyx,YYXyyxyx,22,10,10,0,0,0
+sub_only,Sub-only GS,457,YYYYYYYX,YYYYYXyyyyx,9,8,8,0,0,0
+sub_only,Sub-only GS,458,YYYYYYXyyyyyx,Yx,3,2,2,0,0,0
+sub_only,Sub-only GS,459,YYYYYYXyyyyyx,YX,3,2,2,0,0,0
+sub_only,Sub-only GS,460,YYYYYYXyyyyyx,YYx,4,3,3,0,0,0
+sub_only,Sub-only GS,461,YYYYYYXyyyyyx,YYX,4,3,3,0,0,0
+sub_only,Sub-only GS,462,YYYYYYXyyyyyx,YYYx,5,4,4,0,0,0
+sub_only,Sub-only GS,463,YYYYYYXyyyyyx,YYYX,5,4,4,0,0,0
+sub_only,Sub-only GS,464,YYYYYYXyyyyyx,YXXyx,592,99,99,0,0,0
+sub_only,Sub-only GS,465,YYYYYYXyyyyyx,YYYYx,6,5,5,0,0,0
+sub_only,Sub-only GS,466,YYYYYYXyyyyyx,YXyxx,614,101,101,0,0,0
+sub_only,Sub-only GS,467,YYYYYYXyyyyyx,YYYYX,6,5,5,0,0,0
+sub_only,Sub-only GS,468,YYYYYYXyyyyyx,YYYYYx,7,6,6,0,0,0
+sub_only,Sub-only GS,469,YYYYYYXyyyyyx,YYYYYX,7,6,6,0,0,0
+sub_only,Sub-only GS,470,YYYYYYXyyyyyx,YYYXYxx,208,23,23,0,0,0
+sub_only,Sub-only GS,471,YYYYYYXyyyyyx,YYYXXyx,57,15,15,0,0,0
+sub_only,Sub-only GS,472,YYYYYYXyyyyyx,YYXXyyx,26,17,17,0,0,0
+sub_only,Sub-only GS,473,YYYYYYXyyyyyx,YYYYYYx,8,7,7,0,0,0
+sub_only,Sub-only GS,474,YYYYYYXyyyyyx,YYYXyxx,57,15,15,0,0,0
+sub_only,Sub-only GS,475,YYYYYYXyyyyyx,YYYXXYx,215,23,23,0,0,0
+sub_only,Sub-only GS,476,YYYYYYXyyyyyx,YYXyyxx,26,18,18,0,0,0
+sub_only,Sub-only GS,477,YYYYYYX,YYYYYYXyyyyyx,8,7,7,0,0,0
+sub_only,Sub-only GS,478,YYYYYYXyyyyyx,YYYXYxyx,156,20,20,0,0,0
+sub_only,Sub-only GS,479,YYYYYYXyyyyyx,YYYXyXyx,13,12,12,0,0,0
+sub_only,Sub-only GS,480,YYYYYYXyyyyyx,YYYXYXyx,167,20,20,0,0,0
+sub_only,Sub-only GS,481,YYYYYYXyyyyyx,YYXyXyyx,125,28,28,0,0,0
+sub_only,Sub-only GS,482,YYYYYYXyyyyyx,YYXYXyyx,103,22,22,0,0,0
+sub_only,Sub-only GS,483,YYYYYYXyyyyyx,YYYXXyyx,12,10,10,0,0,0
+sub_only,Sub-only GS,484,YYYYYYYx,YYYYYYXyyyyyx,9,8,8,0,0,0
+sub_only,Sub-only GS,485,YYYYYYXyyyyyx,YYYXyxYx,156,20,20,0,0,0
+sub_only,Sub-only GS,486,YYYYYYXyyyyyx,YYYXyXYx,156,20,20,0,0,0
+sub_only,Sub-only GS,487,YYYYYYXyyyyyx,YYXyyxYx,104,22,22,0,0,0
+sub_only,Sub-only GS,488,YYYYYYXyyyyyx,YYYXyyxx,14,12,12,0,0,0
+sub_only,Sub-only GS,489,YYYYYYXyyyyyx,YYYXXYYx,186,26,26,0,0,0
+sub_only,Sub-only GS,490,YYYYYYXyyyyyx,YYYXyxyx,13,12,12,0,0,0
+sub_only,Sub-only GS,491,YYYYYYXyyyyyx,YYXyyxyx,126,28,28,0,0,0
+sub_only,Sub-only GS,492,YYYYYYYX,YYYYYYXyyyyyx,9,8,8,0,0,0
+sub_only,Sub-only GS,493,YYYYYYYXyyyyyyx,Yx,3,2,2,0,0,0
+sub_only,Sub-only GS,494,YYYYYYYXyyyyyyx,YX,3,2,2,0,0,0
+sub_only,Sub-only GS,495,YYYYYYYXyyyyyyx,YYx,4,3,3,0,0,0
+sub_only,Sub-only GS,496,YYYYYYYXyyyyyyx,YYX,4,3,3,0,0,0
+sub_only,Sub-only GS,497,YYYYYYYXyyyyyyx,YYYx,5,4,4,0,0,0
+sub_only,Sub-only GS,498,YYYYYYYXyyyyyyx,YYYX,5,4,4,0,0,0
+sub_only,Sub-only GS,499,YYYYYYYXyyyyyyx,YYYYx,6,5,5,0,0,0
+sub_only,Sub-only GS,500,YYYYYYYXyyyyyyx,YYYYX,6,5,5,0,0,0
+sub_only,Sub-only GS,501,YYYYYYYXyyyyyyx,YYYYYx,7,6,6,0,0,0
+sub_only,Sub-only GS,502,YYYYYYYXyyyyyyx,YYYYYX,7,6,6,0,0,0
+sub_only,Sub-only GS,503,YYYYYYYXyyyyyyx,YYXXyyx,33,21,21,0,0,0
+sub_only,Sub-only GS,504,YYYYYYYXyyyyyyx,YYYYYYx,8,7,7,0,0,0
+sub_only,Sub-only GS,505,YYYYYYYXyyyyyyx,YYXyyxx,34,23,23,0,0,0
+sub_only,Sub-only GS,506,YYYYYYYXyyyyyyx,YYYYYYX,8,7,7,0,0,0
+sub_only,Sub-only GS,507,YYYYYYYXyyyyyyx,YYXyXyyx,141,36,36,0,0,0
+sub_only,Sub-only GS,508,YYYYYYYXyyyyyyx,YYXYXyyx,116,29,29,0,0,0
+sub_only,Sub-only GS,509,YYYYYYYXyyyyyyx,YYYxyxyX,135,32,32,0,0,0
+sub_only,Sub-only GS,510,YYYYYYYXyyyyyyx,YYYxxyyX,50,17,17,0,0,0
+sub_only,Sub-only GS,511,YYYYYYYXyyyyyyx,YYYYYYYx,9,8,8,0,0,0
+sub_only,Sub-only GS,512,YYYYYYYXyyyyyyx,YYXyyxYx,117,29,29,0,0,0
+sub_only,Sub-only GS,513,YYYYYYYXyyyyyyx,YYYxyXyX,132,32,32,0,0,0
+sub_only,Sub-only GS,514,YYYYYYYXyyyyyyx,YYYxyyXX,48,17,17,0,0,0
+sub_only,Sub-only GS,515,YYYYYYYXyyyyyyx,YYXyyxyx,140,36,36,0,0,0
+sub_only,Sub-only GS,516,YYYYYYYX,YYYYYYYXyyyyyyx,9,8,8,0,0,0
+sub_only,Sub-only GS,517,YYYYYYYYXyyyyyyyx,Yx,3,2,2,0,0,0
+sub_only,Sub-only GS,518,YYYYYYYYXyyyyyyyx,YX,3,2,2,0,0,0
+sub_only,Sub-only GS,519,YYYYYYYYXyyyyyyyx,YYx,4,3,3,0,0,0
+sub_only,Sub-only GS,520,YYYYYYYYXyyyyyyyx,YYX,4,3,3,0,0,0
+sub_only,Sub-only GS,521,YYYYYYYYXyyyyyyyx,YYYx,5,4,4,0,0,0
+sub_only,Sub-only GS,522,YYYYYYYYXyyyyyyyx,YYYX,5,4,4,0,0,0
+sub_only,Sub-only GS,523,YYYYYYYYXyyyyyyyx,YYYYx,6,5,5,0,0,0
+sub_only,Sub-only GS,524,YYYYYYYYXyyyyyyyx,YYYYX,6,5,5,0,0,0
+sub_only,Sub-only GS,525,YYYYYYYYXyyyyyyyx,YYYYYx,7,6,6,0,0,0
+sub_only,Sub-only GS,526,YYYYYYYYXyyyyyyyx,YYYYYX,7,6,6,0,0,0
+sub_only,Sub-only GS,527,YYYYYYYYXyyyyyyyx,YYXXyyx,430,49,49,0,0,0
+sub_only,Sub-only GS,528,YYYYYYYYXyyyyyyyx,YYYYYYx,8,7,7,0,0,0
+sub_only,Sub-only GS,529,YYYYYYYYXyyyyyyyx,YYXyyxx,414,51,51,0,0,0
+sub_only,Sub-only GS,530,YYYYYYYYXyyyyyyyx,YYYYYYX,8,7,7,0,0,0
+sub_only,Sub-only GS,531,YYYYYYYYXyyyyyyyx,YYYYYYYx,9,8,8,0,0,0
+sub_only,Sub-only GS,532,YYYYYYYYXyyyyyyyx,YYYYYYYX,9,8,8,0,0,0
+sub_only,Sub-only GS,533,YYYYXyyyx,YYYXYxYx,438,43,43,0,0,0
+sub_only,Sub-only GS,534,YYYYXyyyx,YYYXYXYx,350,37,37,0,0,0
+sub_only,Sub-only GS,535,YYYYYXyyyyx,YYxxYX,641,25,25,0,0,0
+sub_only,Sub-only GS,536,YYYYYXyyyyx,YYxYXX,629,23,23,0,0,0
+sub_only,Sub-only GS,537,YYYYYXyyyyx,YYxyXYx,579,73,73,0,0,0
+sub_only,Sub-only GS,538,YYYYYXyyyyx,YYxYxYX,2261,25,25,0,0,0
+sub_only,Sub-only GS,539,YYYYYXyyyyx,YYYxxYX,1386,76,76,0,0,0
+sub_only,Sub-only GS,540,YYYYYXyyyyx,YYYxYXX,1322,76,76,0,0,0
+sub_only,Sub-only GS,541,YYYYYXyyyyx,YYXYxyX,474,67,67,0,0,0
+sub_only,Sub-only GS,542,YYYYYXyyyyx,YYxYXYX,2271,25,25,0,0,0
+sub_only,Sub-only GS,543,YYYYYXyyyyx,YYYYXYxx,1813,81,81,0,0,0
+sub_only,Sub-only GS,544,YYYYYXyyyyx,YYYxyXYx,1569,75,75,0,0,0
+sub_only,Sub-only GS,545,YYYYYXyyyyx,YYYXyxYX,914,69,69,0,0,0
+sub_only,Sub-only GS,546,YYYYYXyyyyx,YYXYYxYx,398,24,24,0,0,0
+sub_only,Sub-only GS,547,YYYYYXyyyyx,YYxYXYYx,3848,28,28,0,0,0
+sub_only,Sub-only GS,548,YYYYYXyyyyx,YYxYYxyX,661,28,28,0,0,0
+sub_only,Sub-only GS,549,YYYYYXyyyyx,YYYxYxYX,1411,79,79,0,0,0
+sub_only,Sub-only GS,550,YYYYYXyyyyx,YYYxyxYX,1191,71,71,0,0,0
+sub_only,Sub-only GS,551,YYYYYXyyyyx,YYYxYXyx,990,69,69,0,0,0
+sub_only,Sub-only GS,552,YYYYYXyyyyx,YYYxYXyX,1115,71,71,0,0,0
+sub_only,Sub-only GS,553,YYYYYXyyyyx,YYYYXXYx,1708,75,75,0,0,0
+sub_only,Sub-only GS,554,YYYYYXyyyyx,YYYXYxyX,1464,69,69,0,0,0
+sub_only,Sub-only GS,555,YYYYYXyyyyx,YYXYXYYx,406,24,24,0,0,0
+sub_only,Sub-only GS,556,YYYYYXyyyyx,YYYxYXYX,1337,79,79,0,0,0
+sub_only,Sub-only GS,557,YYYYYXyyyyx,YYXYYxyX,489,27,27,0,0,0
+sub_only,Sub-only GS,558,YYYYYXyyyyx,YYXYYxYX,2611,28,28,0,0,0
+sub_only,Sub-only GS,559,YYYYYYXyyyyyx,YXyXyx,1934,116,116,0,0,0
+sub_only,Sub-only GS,560,YYYYYYXyyyyyx,YXYXyx,1450,109,109,0,0,0
+sub_only,Sub-only GS,561,YYYYYYXyyyyyx,YYXXyx,6791,44,44,0,0,0
+sub_only,Sub-only GS,562,YYYYYYXyyyyyx,YXyxYx,1436,109,109,0,0,0
+sub_only,Sub-only GS,563,YYYYYYXyyyyyx,YYXyxx,6927,45,45,0,0,0
+sub_only,Sub-only GS,564,YYYYYYXyyyyyx,YXYxyX,1934,116,116,0,0,0
+sub_only,Sub-only GS,565,YYYYYYXyyyyyx,YYxyXYx,1404,145,145,0,0,0
+sub_only,Sub-only GS,566,YYYYYYXyyyyyx,YYXyxYX,1446,134,134,0,0,0
+sub_only,Sub-only GS,567,YYYYYYXyyyyyx,YYXyXyx,3402,41,41,0,0,0
+sub_only,Sub-only GS,568,YYYYYYXyyyyyx,YYXYXyx,15814,48,48,0,0,0
+sub_only,Sub-only GS,569,YYYYYYXyyyyyx,YYxYXyx,1442,134,134,0,0,0
+sub_only,Sub-only GS,570,YYYYYYXyyyyyx,YYXyxYx,15935,49,49,0,0,0
+sub_only,Sub-only GS,571,YYYYYYXyyyyyx,YYXyxyx,3536,40,40,0,0,0
+sub_only,Sub-only GS,572,YYYYYYXyyyyyx,YYXYxyX,1319,139,139,0,0,0
+sub_only,Sub-only GS,573,YYYYYYXyyyyyx,YYYYXYxx,13393,63,63,0,0,0
+sub_only,Sub-only GS,574,YYYYYYXyyyyyx,YYYXYxYx,526,38,38,0,0,0
+sub_only,Sub-only GS,575,YYYYYYXyyyyyx,YYYxyXYx,14383,156,156,0,0,0
+sub_only,Sub-only GS,576,YYYYYYXyyyyyx,YYYXyxYX,7029,141,141,0,0,0
+sub_only,Sub-only GS,577,YYYYYYXyyyyyx,YYXyyXyx,5957,52,52,0,0,0
+sub_only,Sub-only GS,578,YYYYYYXyyyyyx,YYXYYXyx,15873,50,50,0,0,0
+sub_only,Sub-only GS,579,YYYYYYXyyyyyx,YYYXYYxx,366,26,26,0,0,0
+sub_only,Sub-only GS,580,YYYYYYXyyyyyx,YYYxxYYX,875,47,47,0,0,0
+sub_only,Sub-only GS,581,YYYYYYXyyyyyx,YYYYxxYX,9567,153,153,0,0,0
+sub_only,Sub-only GS,582,YYYYYYXyyyyyx,YYYxYXyx,7442,141,141,0,0,0
+sub_only,Sub-only GS,583,YYYYYYXyyyyyx,YYXyxYYx,16111,52,52,0,0,0
+sub_only,Sub-only GS,584,YYYYYYXyyyyyx,YYYYXXYx,13591,62,62,0,0,0
+sub_only,Sub-only GS,585,YYYYYYXyyyyyx,YYYxYYXX,869,47,47,0,0,0
+sub_only,Sub-only GS,586,YYYYYYXyyyyyx,YYYYxYXX,9162,153,153,0,0,0
+sub_only,Sub-only GS,587,YYYYYYXyyyyyx,YYXYxyyX,6070,51,51,0,0,0
+sub_only,Sub-only GS,588,YYYYYYXyyyyyx,YYYXYxyX,14054,150,150,0,0,0
+sub_only,Sub-only GS,589,YYYYYYXyyyyyx,YYYXYXYx,558,46,46,0,0,0
+sub_only,Sub-only GS,590,YYYYYYYXyyyyyyx,YXXyx,3340,231,231,0,0,0
+sub_only,Sub-only GS,591,YYYYYYYXyyyyyyx,YXyxx,3350,233,233,0,0,0
+sub_only,Sub-only GS,592,YYYYYYYXyyyyyyx,YXyXyx,5760,244,244,0,0,0
+sub_only,Sub-only GS,593,YYYYYYYXyyyyyyx,YXYXyx,5097,235,235,0,0,0
+sub_only,Sub-only GS,594,YYYYYYYXyyyyyyx,YXyxYx,5080,235,235,0,0,0
+sub_only,Sub-only GS,595,YYYYYYYXyyyyyyx,YXYxyX,5755,244,244,0,0,0
+sub_only,Sub-only GS,596,YYYYYYYXyyyyyyx,YYxyXYx,16168,337,337,0,0,0
+sub_only,Sub-only GS,597,YYYYYYYXyyyyyyx,YYXyxYX,9407,294,294,0,0,0
+sub_only,Sub-only GS,598,YYYYYYYXyyyyyyx,YYYxxYX,7612,64,64,0,0,0
+sub_only,Sub-only GS,599,YYYYYYYXyyyyyyx,YYYxxyX,478,40,40,0,0,0
+sub_only,Sub-only GS,600,YYYYYYYXyyyyyyx,YYxYXyx,9501,294,294,0,0,0
+sub_only,Sub-only GS,601,YYYYYYYXyyyyyyx,YYYxyXX,476,40,40,0,0,0
+sub_only,Sub-only GS,602,YYYYYYYXyyyyyyx,YYYxYXX,6285,56,56,0,0,0
+sub_only,Sub-only GS,603,YYYYYYYXyyyyyyx,YYXYxyX,16096,331,331,0,0,0
+sub_only,Sub-only GS,604,YYYYYYYXyyyyyyx,YYYxyXYx,46491,322,322,0,0,0
+sub_only,Sub-only GS,605,YYYYYYYXyyyyyyx,YYYXyxYX,60593,307,307,0,0,0
+sub_only,Sub-only GS,606,YYYYYYYXyyyyyyx,YYYxxYYX,2023,39,39,0,0,0
+sub_only,Sub-only GS,607,YYYYYYYXyyyyyyx,YYYxYxYX,6641,63,63,0,0,0
+sub_only,Sub-only GS,608,YYYYYYYXyyyyyyx,YYYxyxYX,1258,61,61,0,0,0
+sub_only,Sub-only GS,609,YYYYYYYXyyyyyyx,YYYxYxyX,1217,56,56,0,0,0
+sub_only,Sub-only GS,610,YYYYYYYXyyyyyyx,YYYxYXyx,61366,309,309,0,0,0
+sub_only,Sub-only GS,611,YYYYYYYXyyyyyyx,YYYxYXyX,1166,55,55,0,0,0
+sub_only,Sub-only GS,612,YYYYYYYXyyyyyyx,YYYxYYXX,2048,48,48,0,0,0
+sub_only,Sub-only GS,613,YYYYYYYXyyyyyyx,YYYXYxyX,46481,314,314,0,0,0
+sub_only,Sub-only GS,614,YYYYYYYXyyyyyyx,YYYxyXYX,1160,56,56,0,0,0
+sub_only,Sub-only GS,615,YYYYYYYXyyyyyyx,YYYxYXYX,6648,62,62,0,0,0
+sub_only,Sub-only GS,616,YYYYYYYYXyyyyyyyx,YXXyx,18320,491,491,0,0,0
+sub_only,Sub-only GS,617,YYYYYYYYXyyyyyyyx,YXyxx,18341,493,493,0,0,0
+sub_only,Sub-only GS,618,YYYYYYYYXyyyyyyyx,YXyXyx,15389,500,500,0,0,0
+sub_only,Sub-only GS,619,YYYYYYYYXyyyyyyyx,YXYXyx,14455,489,489,0,0,0
+sub_only,Sub-only GS,620,YYYYYYYYXyyyyyyyx,YXyxYx,14415,489,489,0,0,0
+sub_only,Sub-only GS,621,YYYYYYYYXyyyyyyyx,YXYxyX,15371,500,500,0,0,0
+sub_only,Sub-only GS,622,YYYYYYYYXyyyyyyyx,YYxyXYx,78774,671,671,0,0,0
+sub_only,Sub-only GS,623,YYYYYYYYXyyyyyyyx,YYXyxYX,59710,708,708,0,0,0
+sub_only,Sub-only GS,624,YYYYYYYYXyyyyyyyx,YYxYXyx,59971,706,706,0,0,0
+sub_only,Sub-only GS,625,YYYYYYYYXyyyyyyyx,YYXYxyX,78770,665,665,0,0,0
+sub_only,Sub-only GS,626,YYYYYYYYXyyyyyyyx,YYYYXYxx,6517,56,56,0,0,0
+sub_only,Sub-only GS,627,YYYYYYYYXyyyyyyyx,YYYYXXyx,477,40,40,0,0,0
+sub_only,Sub-only GS,628,YYYYYYYYXyyyyyyyx,YYXyXyyx,26774,81,81,0,0,0
+sub_only,Sub-only GS,629,YYYYYYYYXyyyyyyyx,YYXYXyyx,12452,79,79,0,0,0
+sub_only,Sub-only GS,630,YYYYYYYYXyyyyyyyx,YYXyyxYx,12429,79,79,0,0,0
+sub_only,Sub-only GS,631,YYYYYYYYXyyyyyyyx,YYYYXyxx,481,40,40,0,0,0
+sub_only,Sub-only GS,632,YYYYYYYYXyyyyyyyx,YYYYXXYx,6425,56,56,0,0,0
+sub_only,Sub-only GS,633,YYYYYYYYXyyyyyyyx,YYXyyxyx,26838,83,83,0,0,0
+sub_only,Sub-only GS,634,YYYYYYYXyyyyyyx,YYYXyyxx,574348,80,80,0,0,0
+sub_only,Sub-only GS,635,YYYYYYYXyyyyyyx,YYYXXyyx,574959,80,80,0,0,0
+sub_only,Sub-only GS,636,YYYYYYYYXyyyyyyyx,YYYXYxyX,213882,678,678,0,0,0
+sub_only,Sub-only GS,637,YYYYYYYYXyyyyyyyx,YYYXyxYX,271866,667,667,0,0,0
+sub_only,Sub-only GS,638,YYYYYYYYXyyyyyyyx,YYYxyXYx,213878,672,672,0,0,0
+sub_only,Sub-only GS,639,YYYYYYYYXyyyyyyyx,YYYxYXyx,272953,669,669,0,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,0,YYXyx,Yx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,1,YYXyx,YX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,2,YYXyx,YYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,3,YYX,YYXyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,4,YYYx,YYXyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,5,YYYX,YYXyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,6,YYXyx,YXYxx,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,7,YYXyx,YXXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,8,YYYYx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,9,YYXyx,YXyxx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,10,YYXyx,YXXYx,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,11,YYYYX,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,12,YYXYxx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,13,YYXyx,YXYxYx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,14,YYXyx,YXYxyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,15,YYXyx,YXyXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,16,YYXyx,YXYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,17,YYXXyx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,18,YYXyx,YYxxYX,12,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,19,YYXyx,YYxxyX,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,20,YYYYYx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,21,YYXyx,YXyxYx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,22,YYXyx,YXyXYx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,23,YYXyx,YYXyxx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,24,YYXXYx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,25,YYXyx,YYxyXX,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,26,YYXyx,YYxYXX,12,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,27,YYXyx,YXYxyX,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,28,YYXyx,YXYXYx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,29,YYYYYX,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,30,YYXyx,YXXYxxx,10,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,31,YYXyx,YXXXyxx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,32,YYYXYxx,YYXyx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,33,YYXYxYx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,34,YYXYxyx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,35,YYXyx,YYxYXYx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,36,YYXyx,YYXyxyX,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,37,YYXyx,YYxyXYx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,38,YYXyxYX,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,39,YYXyXyx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,40,YYXYXyx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,41,YYYXXyx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,42,YYXYYxx,YYXyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,43,YYXyx,YYxYxYX,10,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,44,YYXyx,YYxyxYX,10,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,45,YYXyx,YYxYxyX,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,46,YYXyx,YYxyxyX,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,47,YYXXyyx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,48,YYYxxYX,YYXyx,16,12,11,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,49,YYYxxyX,YYXyx,10,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,50,YYYYYYx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,51,YYXyx,YYxYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,52,YYXyx,YYxyXyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,53,YYXyxYx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,54,YYXyXYx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,55,YYXyx,YYxyXyX,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,56,YYXyx,YYxYXyX,10,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,57,YYXyx,YXXyxxx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,58,YYXyx,YXXXYxx,10,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,59,YYYXyxx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,60,YYYXXYx,YYXyx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,61,YYXyx,YYXyyxx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,62,YYXXYYx,YYXyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,63,YYYxyXX,YYXyx,10,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,64,YYYxYXX,YYXyx,15,12,11,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,65,YYXyx,YYXyxyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,66,YYXYxyX,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,67,YYXYxYX,YYXyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,68,YYXYXYx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,69,YYXyx,YYxyXYX,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,70,YYXyx,YYxYXYX,10,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,71,YYYYYYX,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,72,YYXXYxxx,YYXyx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,73,YYXyx,YXXYxxYx,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,74,YYXyx,YXXYxYxx,14,13,12,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,75,YYXyx,YXXYxyxx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,76,YYXyx,YXXYxxyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,77,YYXyx,YXyXXyxx,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,78,YYXyx,YXXyXyxx,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,79,YYXyx,YXXYXyxx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,80,YYXyx,YXYXXyxx,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,81,YYXXXyxx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,82,YYXyx,YXYXYxxx,14,13,12,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,83,YYXyx,YXYxxxyX,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,84,YYYYXYxx,YYXyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,85,YYYXYxYx,YYXyx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,86,YYYXYxyx,YYXyx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,87,YYXYxYYx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,88,YYXYxyyx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,89,YYYxYXYx,YYXyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,90,YYYXyxyX,YYXyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,91,YYXyx,YXyXYxxx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,92,YYXyx,YXXXyxYx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,93,YYYxyXYx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,94,YYYXyxYX,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,95,YYXyx,YYXyyXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,96,YYXYYXyx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,97,YYYXyXyx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,98,YYYXYXyx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,99,YYYYXXyx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,100,YYXyx,YYxxxYXX,24,19,18,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,101,YYXyx,YYxxxyXX,19,15,14,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,102,YYYXYYxx,YYXyx,17,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,103,YYXYYxYx,YYXyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,104,YYXYYxyx,YYXyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,105,YYXyx,YYxYXYYx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,106,YYXyx,YYXyyxyX,10,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,107,YYXyx,YYxYYxyX,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,108,YYXyx,YYXyyxYX,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,109,YYXyXyyx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,110,YYXYXyyx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,111,YYYXXyyx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,112,YYYxxYYX,YYXyx,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,113,YYYxYxYX,YYXyx,14,12,11,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,114,YYYxyxYX,YYXyx,14,12,11,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,115,YYYxYxyX,YYXyx,10,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,116,YYYxyxyX,YYXyx,10,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,117,YYYxxyyX,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,118,YYYYxxYX,YYXyx,22,17,16,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,119,YYYYxxyX,YYXyx,14,13,12,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,120,YYYYYYYx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,121,YYYxYXyx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,122,YYYxyXyx,YYXyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,123,YYXyxYYx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,124,YYXyx,YYXyyXYx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,125,YYXyx,YYxYXyyx,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,126,YYXyx,YYxYXyyX,10,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,127,YYXyx,YXXyxxYx,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,128,YYXyx,YXyXXYxx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,129,YYXyx,YXXyxYxx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,130,YYXyx,YXXyXYxx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,131,YYYXyxYx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,132,YYYXyXYx,YYXyx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,133,YYXyx,YYXyyxYx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,134,YYXyXYYx,YYXyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,135,YYYxyXyX,YYXyx,10,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,136,YYYxYXyX,YYXyx,13,12,11,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,137,YYXXyxxx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,138,YYXXXYxx,YYXyx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,139,YYXyx,YXYXyxxx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,140,YYXyx,YXXXYxyx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,141,YYXyx,YXyXyxxx,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,142,YYXyx,YXXXYxYx,13,13,12,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,143,YYXyx,YYxxyXXX,18,15,14,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,144,YYXyx,YYxxYXXX,22,19,18,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,145,YYXyx,YXXYxxyX,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,146,YYXyx,YXYXXYxx,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,147,YYYYXyxx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,148,YYYYXXYx,YYXyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,149,YYXyx,YXYxxyXX,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,150,YYXyx,YXYxxYXX,13,13,12,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,151,YYYXyyxx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,152,YYYXXYYx,YYXyx,12,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,153,YYYxyyXX,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,154,YYYxYYXX,YYXyx,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,155,YYYYxyXX,YYXyx,13,13,12,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,156,YYYYxYXX,YYXyx,20,17,16,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,157,YYYXyxyx,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,158,YYXYxyyX,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,159,YYYXYxyX,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,160,YYYXYxYX,YYXyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,161,YYXYYXYx,YYXyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,162,YYYXYXYx,YYXyx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,163,YYXyx,YYXyyxyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,164,YYXYXYYx,YYXyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,165,YYYxyXYX,YYXyx,10,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,166,YYYxYXYX,YYXyx,13,12,11,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,167,YYXYYxyX,YYXyx,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,168,YYXYYxYX,YYXyx,11,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,169,YYYYYYYX,YYXyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,170,YYYXyyx,Yx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,171,YYYXyyx,YX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,172,YYYXyyx,YYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,173,YYYXyyx,YYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,174,YYYXyyx,YYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,175,YYYX,YYYXyyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,176,YYYXyyx,YXYxx,44,13,12,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,177,YYYXyyx,YXXyx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,178,YYYYx,YYYXyyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,179,YYYXyyx,YXyxx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,180,YYYXyyx,YXXYx,54,14,13,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,181,YYYYX,YYYXyyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,182,YYYXyyx,YYXYxx,63,23,22,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,183,YYYXyyx,YXYxYx,43,13,12,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,184,YYYXyyx,YXYxyx,43,13,12,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,185,YYYXyyx,YXyXyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,186,YYYXyyx,YXYXyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,187,YYYXyyx,YYXXyx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,188,YYYXyyx,YYxxYX,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,189,YYYXyyx,YYxxyX,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,190,YYYYYx,YYYXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,191,YYYXyyx,YXyxYx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,192,YYYXyyx,YXyXYx,53,14,13,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,193,YYYXyyx,YYXyxx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,194,YYYXyyx,YYXXYx,64,23,22,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,195,YYYXyyx,YYxyXX,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,196,YYYXyyx,YYxYXX,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,197,YYYXyyx,YXYxyX,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,198,YYYXyyx,YXYXYx,52,14,13,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,199,YYYYYX,YYYXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,200,YYYXYxx,YYYXyyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,201,YYYXyyx,YYXYxYx,59,23,22,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,202,YYYXyyx,YYXYxyx,59,23,22,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,203,YYYXyyx,YYxYXYx,44,13,12,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,204,YYYXyyx,YYXyxyX,43,13,12,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,205,YYYXyyx,YYxyXYx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,206,YYYXyyx,YYXyxYX,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,207,YYYXyyx,YYXyXyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,208,YYYXyyx,YYXYXyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,209,YYYXXyx,YYYXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,210,YYYXyyx,YYXYYxx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,211,YYYXyyx,YYxYxYX,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,212,YYYXyyx,YYxyxYX,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,213,YYYXyyx,YYxYxyX,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,214,YYYXyyx,YYxyxyX,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,215,YYYXyyx,YYXXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,216,YYYXyyx,YYYxxYX,134,23,22,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,217,YYYXyyx,YYYxxyX,112,27,26,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,218,YYYYYYx,YYYXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,219,YYYXyyx,YYxYXyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,220,YYYXyyx,YYxyXyx,52,14,13,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,221,YYYXyyx,YYXyxYx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,222,YYYXyyx,YYXyXYx,58,23,22,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,223,YYYXyyx,YYxyXyX,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,224,YYYXyyx,YYxYXyX,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,225,YYYXyxx,YYYXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,226,YYYXXYx,YYYXyyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,227,YYYXyyx,YYXyyxx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,228,YYYXyyx,YYXXYYx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,229,YYYXyyx,YYYxyXX,112,27,26,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,230,YYYXyyx,YYYxYXX,127,22,21,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,231,YYYXyyx,YYXyxyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,232,YYYXyyx,YYXYxyX,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,233,YYYXyyx,YYXYxYX,53,14,13,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,234,YYYXyyx,YYXYXYx,58,23,22,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,235,YYYXyyx,YYxyXYX,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,236,YYYXyyx,YYxYXYX,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,237,YYYYYYX,YYYXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,238,YYYYXYxx,YYYXyyx,133,23,21,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,239,YYYXYxYx,YYYXyyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,240,YYYXYxyx,YYYXyyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,241,YYYXyyx,YYXYxYYx,59,23,22,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,242,YYYXyyx,YYXYxyyx,58,23,22,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,243,YYYXyyx,YYYxYXYx,34,13,12,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,244,YYYXyxyX,YYYXyyx,32,13,12,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,245,YYYXyyx,YYYxyXYx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,246,YYYXyxYX,YYYXyyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,247,YYYXyyx,YYXyyXyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,248,YYYXyyx,YYXYYXyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,249,YYYXyXyx,YYYXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,250,YYYXYXyx,YYYXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,251,YYYYXXyx,YYYXyyx,57,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,252,YYYXyyx,YYxxxYXX,126,25,23,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,253,YYYXyyx,YYxxxyXX,68,28,27,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,254,YYYXYYxx,YYYXyyx,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,255,YYYXyyx,YYXYYxYx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,256,YYYXyyx,YYXYYxyx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,257,YYYXyyx,YYxYXYYx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,258,YYYXyyx,YYXyyxyX,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,259,YYYXyyx,YYxYYxyX,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,260,YYYXyyx,YYXyyxYX,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,261,YYYXyyx,YYXyXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,262,YYYXyyx,YYXYXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,263,YYYXXyyx,YYYXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,264,YYYXyyx,YYYxxYYX,77,34,33,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,265,YYYXyyx,YYYxYxYX,129,21,19,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,266,YYYXyyx,YYYxyxYX,155,21,19,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,267,YYYXyyx,YYYxYxyX,86,27,26,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,268,YYYXyyx,YYYxyxyX,86,27,26,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,269,YYYXyyx,YYYxxyyX,80,20,18,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,270,YYYYxxYX,YYYXyyx,13,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,271,YYYYxxyX,YYYXyyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,272,YYYYYYYx,YYYXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,273,YYYXyyx,YYYxYXyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,274,YYYXyyx,YYYxyXyx,41,14,13,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,275,YYYXyyx,YYXyxYYx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,276,YYYXyyx,YYXyyXYx,58,23,22,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,277,YYYXyyx,YYxYXyyx,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,278,YYYXyyx,YYxYXyyX,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,279,YYYXyxYx,YYYXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,280,YYYXyXYx,YYYXyyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,281,YYYXyyx,YYXyyxYx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,282,YYYXyyx,YYXyXYYx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,283,YYYXyyx,YYYxyXyX,86,27,26,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,284,YYYXyyx,YYYxYXyX,143,20,18,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,285,YYYXyyx,YYxxyXXX,68,28,27,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,286,YYYXyyx,YYxxYXXX,116,24,22,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,287,YYYYXyxx,YYYXyyx,57,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,288,YYYYXXYx,YYYXyyx,122,22,20,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,289,YYYXyyx,YYYXyyxx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,290,YYYXXYYx,YYYXyyx,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,291,YYYXyyx,YYYxyyXX,80,19,17,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,292,YYYXyyx,YYYxYYXX,76,34,33,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,293,YYYYxyXX,YYYXyyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,294,YYYYxYXX,YYYXyyx,15,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,295,YYYXyxyx,YYYXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,296,YYYXyyx,YYXYxyyX,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,297,YYYXYxyX,YYYXyyx,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,298,YYYXYxYX,YYYXyyx,43,14,13,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,299,YYYXyyx,YYXYYXYx,59,23,22,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,300,YYYXYXYx,YYYXyyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,301,YYYXyyx,YYXyyxyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,302,YYYXyyx,YYXYXYYx,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,303,YYYXyyx,YYYxyXYX,86,27,26,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,304,YYYXyyx,YYYxYXYX,117,20,18,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,305,YYYXyyx,YYXYYxyX,5,5,4,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,306,YYYXyyx,YYXYYxYX,8,8,7,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,307,YYYYYYYX,YYYXyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,308,YYYYXyyyx,Yx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,309,YYYYXyyyx,YX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,310,YYYYXyyyx,YYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,311,YYYYXyyyx,YYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,312,YYYYXyyyx,YYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,313,YYYYXyyyx,YYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,314,YYYYXyyyx,YXXyx,23,18,17,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,315,YYYYXyyyx,YYYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,316,YYYYXyyyx,YXyxx,17,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,317,YYYYX,YYYYXyyyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,318,YYYYXyyyx,YYXYxx,27,17,16,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,319,YYYYXyyyx,YXyXyx,16,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,320,YYYYXyyyx,YXYXyx,16,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,321,YYYYXyyyx,YYXXyx,10,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,322,YYYYXyyyx,YYxxYX,299,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,323,YYYYYx,YYYYXyyyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,324,YYYYXyyyx,YXyxYx,16,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,325,YYYYXyyyx,YYXyxx,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,326,YYYYXyyyx,YYXXYx,25,17,16,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,327,YYYYXyyyx,YYxYXX,303,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,328,YYYYXyyyx,YXYxyX,17,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,329,YYYYYX,YYYYXyyyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,330,YYYYXyyyx,YYYXYxx,904,75,71,4,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,331,YYYYXyyyx,YYXYxYx,27,17,16,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,332,YYYYXyyyx,YYXYxyx,27,17,16,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,333,YYYYXyyyx,YYxyXYx,16,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,334,YYYYXyyyx,YYXyxYX,17,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,335,YYYYXyyyx,YYXyXyx,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,336,YYYYXyyyx,YYXYXyx,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,337,YYYYXyyyx,YYXYYxx,56,20,19,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,338,YYYYXyyyx,YYxYxYX,269,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,339,YYYYXyyyx,YYxyxYX,284,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,340,YYYYXyyyx,YYXXyyx,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,341,YYYYXyyyx,YYYxxYX,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,342,YYYYXyyyx,YYYxxyX,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,343,YYYYYYx,YYYYXyyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,344,YYYYXyyyx,YYxYXyx,16,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,345,YYYYXyyyx,YYXyxYx,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,346,YYYYXyyyx,YYXyXYx,25,17,16,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,347,YYYYXyyyx,YYxYXyX,288,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,348,YYYYXyyyx,YYYXXYx,854,76,71,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,349,YYYYXyyyx,YYXyyxx,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,350,YYYYXyyyx,YYXXYYx,65,22,21,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,351,YYYYXyyyx,YYYxyXX,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,352,YYYYXyyyx,YYYxYXX,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,353,YYYYXyyyx,YYXyxyx,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,354,YYYYXyyyx,YYXYxyX,17,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,355,YYYYXyyyx,YYXYXYx,37,19,18,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,356,YYYYXyyyx,YYxYXYX,273,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,357,YYYYYYX,YYYYXyyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,358,YYYYXYxx,YYYYXyyyx,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,359,YYYYXyyyx,YYYXYxyx,906,75,71,4,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,360,YYYYXyyyx,YYXYxYYx,27,17,16,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,361,YYYYXyyyx,YYXYxyyx,27,17,16,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,362,YYYYXyyyx,YYYxyXYx,16,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,363,YYYYXyyyx,YYYXyxYX,17,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,364,YYYYXyyyx,YYXyyXyx,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,365,YYYYXyyyx,YYXYYXyx,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,366,YYYYXXyx,YYYYXyyyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,367,YYYYXyyyx,YYXYYxYx,55,20,19,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,368,YYYYXyyyx,YYXYYxyx,55,20,19,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,369,YYYYXyyyx,YYxYXYYx,267,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,370,YYYYXyyyx,YYXyyxyX,255,42,41,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,371,YYYYXyyyx,YYXyXyyx,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,372,YYYYXyyyx,YYXYXyyx,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,373,YYYYXyyyx,YYYXXyyx,16,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,374,YYYYXyyyx,YYYxxYYX,10,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,375,YYYYXyyyx,YYYxYxYX,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,376,YYYYXyyyx,YYYxyxYX,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,377,YYYYXyyyx,YYYxYxyX,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,378,YYYYXyyyx,YYYxyxyX,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,379,YYYYXyyyx,YYYxxyyX,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,380,YYYYXyyyx,YYYYxxyX,820,79,72,7,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,381,YYYYYYYx,YYYYXyyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,382,YYYYXyyyx,YYYxYXyx,16,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,383,YYYYXyyyx,YYXyxYYx,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,384,YYYYXyyyx,YYXyyXYx,25,17,16,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,385,YYYYXyyyx,YYxYXyyX,272,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,386,YYYYXyyyx,YYYXyXYx,856,76,71,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,387,YYYYXyyyx,YYXyyxYx,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,388,YYYYXyyyx,YYXyXYYx,64,22,21,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,389,YYYYXyyyx,YYYxyXyX,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,390,YYYYXyyyx,YYYxYXyX,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,391,YYYYXyxx,YYYYXyyyx,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,392,YYYYXXYx,YYYYXyyyx,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,393,YYYYXyyyx,YYYXyyxx,17,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,394,YYYYXyyyx,YYYxyyXX,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,395,YYYYXyyyx,YYYxYYXX,10,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,396,YYYYXyyyx,YYYYxyXX,911,72,67,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,397,YYYYXyyyx,YYXYxyyX,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,398,YYYYXyyyx,YYYXYxyX,17,16,15,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,399,YYYYXyyyx,YYXYYXYx,37,19,18,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,400,YYYYXyyyx,YYXyyxyx,11,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,401,YYYYXyyyx,YYXYXYYx,63,22,21,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,402,YYYYXyyyx,YYYxyXYX,6,6,5,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,403,YYYYXyyyx,YYYxYXYX,9,9,8,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,404,YYYYXyyyx,YYXYYxYX,272,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,405,YYYYYYYX,YYYYXyyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,406,YYYYYXyyyyx,Yx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,407,YYYYYXyyyyx,YX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,408,YYYYYXyyyyx,YYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,409,YYYYYXyyyyx,YYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,410,YYYYYXyyyyx,YYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,411,YYYYYXyyyyx,YYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,412,YYYYYXyyyyx,YXXyx,113,56,55,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,413,YYYYYXyyyyx,YYYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,414,YYYYYXyyyyx,YXyxx,50,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,415,YYYYYXyyyyx,YYYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,416,YYYYYXyyyyx,YXyXyx,43,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,417,YYYYYXyyyyx,YXYXyx,43,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,418,YYYYYXyyyyx,YYxxyX,120,31,30,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,419,YYYYYXyyyyx,YYYYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,420,YYYYYXyyyyx,YXyxYx,43,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,421,YYYYYXyyyyx,YYxyXX,110,22,21,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,422,YYYYYXyyyyx,YXYxyX,50,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,423,YYYYYX,YYYYYXyyyyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,424,YYYYYXyyyyx,YYXyxYX,50,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,425,YYYYYXyyyyx,YYXYYxx,120,27,25,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,426,YYYYYXyyyyx,YYxyxYX,323,44,41,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,427,YYYYYXyyyyx,YYxYxyX,134,33,32,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,428,YYYYYXyyyyx,YYxyxyX,134,33,32,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,429,YYYYYXyyyyx,YYXXyyx,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,430,YYYYYYx,YYYYYXyyyyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,431,YYYYYXyyyyx,YYxYXyx,43,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,432,YYYYYXyyyyx,YYxyXyX,130,31,30,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,433,YYYYYXyyyyx,YYxYXyX,283,44,41,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,434,YYYYYXyyyyx,YYXyyxx,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,435,YYYYYXyyyyx,YYXXYYx,120,27,25,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,436,YYYYYXyyyyx,YYxyXYX,130,31,30,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,437,YYYYYYX,YYYYYXyyyyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,438,YYYYYXyyyyx,YYYXYYxx,149,31,29,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,439,YYYYYXyyyyx,YYXYYxyx,122,27,25,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,440,YYYYYXyyyyx,YYXyyxyX,323,44,41,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,441,YYYYYXyyyyx,YYXyyxYX,134,33,32,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,442,YYYYYXyyyyx,YYXyXyyx,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,443,YYYYYXyyyyx,YYXYXyyx,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,444,YYYYYXyyyyx,YYYXXyyx,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,445,YYYYYXyyyyx,YYYYxxYX,10,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,446,YYYYYXyyyyx,YYYYxxyX,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,447,YYYYYYYx,YYYYYXyyyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,448,YYYYYXyyyyx,YYxYXyyx,110,22,21,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,449,YYYYYXyyyyx,YYxYXyyX,283,44,41,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,450,YYYYYXyyyyx,YYXyyxYx,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,451,YYYYYXyyyyx,YYXyXYYx,122,27,25,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,452,YYYYYXyyyyx,YYYXyyxx,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,453,YYYYYXyyyyx,YYYXXYYx,146,31,29,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,454,YYYYYXyyyyx,YYYYxyXX,7,7,6,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,455,YYYYYXyyyyx,YYYYxYXX,10,10,9,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,456,YYYYYXyyyyx,YYXyyxyx,11,11,10,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,457,YYYYYYYX,YYYYYXyyyyx,4,4,3,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,458,YYYYYYXyyyyyx,Yx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,459,YYYYYYXyyyyyx,YX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,460,YYYYYYXyyyyyx,YYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,461,YYYYYYXyyyyyx,YYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,462,YYYYYYXyyyyyx,YYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,463,YYYYYYXyyyyyx,YYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,464,YYYYYYXyyyyyx,YXXyx,415,118,117,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,465,YYYYYYXyyyyyx,YYYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,466,YYYYYYXyyyyyx,YXyxx,208,96,95,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,467,YYYYYYXyyyyyx,YYYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,468,YYYYYYXyyyyyx,YYYYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,469,YYYYYYXyyyyyx,YYYYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,470,YYYYYYXyyyyyx,YYYXYxx,106,19,16,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,471,YYYYYYXyyyyyx,YYYXXyx,77,22,21,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,472,YYYYYYXyyyyyx,YYXXyyx,20,18,17,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,473,YYYYYYXyyyyyx,YYYYYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,474,YYYYYYXyyyyyx,YYYXyxx,122,22,21,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,475,YYYYYYXyyyyyx,YYYXXYx,106,19,16,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,476,YYYYYYXyyyyyx,YYXyyxx,21,18,17,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,477,YYYYYYX,YYYYYYXyyyyyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,478,YYYYYYXyyyyyx,YYYXYxyx,106,19,16,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,479,YYYYYYXyyyyyx,YYYXyXyx,146,33,32,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,480,YYYYYYXyyyyyx,YYYXYXyx,146,33,32,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,481,YYYYYYXyyyyyx,YYXyXyyx,20,18,17,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,482,YYYYYYXyyyyyx,YYXYXyyx,20,18,17,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,483,YYYYYYXyyyyyx,YYYXXyyx,14,14,13,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,484,YYYYYYYx,YYYYYYXyyyyyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,485,YYYYYYXyyyyyx,YYYXyxYx,98,31,30,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,486,YYYYYYXyyyyyx,YYYXyXYx,106,19,16,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,487,YYYYYYXyyyyyx,YYXyyxYx,20,18,17,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,488,YYYYYYXyyyyyx,YYYXyyxx,14,14,13,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,489,YYYYYYXyyyyyx,YYYXXYYx,121,22,19,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,490,YYYYYYXyyyyyx,YYYXyxyx,98,31,30,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,491,YYYYYYXyyyyyx,YYXyyxyx,20,18,17,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,492,YYYYYYYX,YYYYYYXyyyyyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,493,YYYYYYYXyyyyyyx,Yx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,494,YYYYYYYXyyyyyyx,YX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,495,YYYYYYYXyyyyyyx,YYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,496,YYYYYYYXyyyyyyx,YYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,497,YYYYYYYXyyyyyyx,YYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,498,YYYYYYYXyyyyyyx,YYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,499,YYYYYYYXyyyyyyx,YYYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,500,YYYYYYYXyyyyyyx,YYYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,501,YYYYYYYXyyyyyyx,YYYYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,502,YYYYYYYXyyyyyyx,YYYYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,503,YYYYYYYXyyyyyyx,YYXXyyx,26,24,23,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,504,YYYYYYYXyyyyyyx,YYYYYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,505,YYYYYYYXyyyyyyx,YYXyyxx,28,24,23,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,506,YYYYYYYXyyyyyyx,YYYYYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,507,YYYYYYYXyyyyyyx,YYXyXyyx,26,24,23,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,508,YYYYYYYXyyyyyyx,YYXYXyyx,26,24,23,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,509,YYYYYYYXyyyyyyx,YYYxyxyX,584,44,40,4,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,510,YYYYYYYXyyyyyyx,YYYxxyyX,173,34,33,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,511,YYYYYYYXyyyyyyx,YYYYYYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,512,YYYYYYYXyyyyyyx,YYXyyxYx,26,24,23,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,513,YYYYYYYXyyyyyyx,YYYxyXyX,464,45,40,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,514,YYYYYYYXyyyyyyx,YYYxyyXX,147,25,24,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,515,YYYYYYYXyyyyyyx,YYXyyxyx,26,24,23,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,516,YYYYYYYX,YYYYYYYXyyyyyyx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,517,YYYYYYYYXyyyyyyyx,Yx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,518,YYYYYYYYXyyyyyyyx,YX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,519,YYYYYYYYXyyyyyyyx,YYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,520,YYYYYYYYXyyyyyyyx,YYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,521,YYYYYYYYXyyyyyyyx,YYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,522,YYYYYYYYXyyyyyyyx,YYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,523,YYYYYYYYXyyyyyyyx,YYYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,524,YYYYYYYYXyyyyyyyx,YYYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,525,YYYYYYYYXyyyyyyyx,YYYYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,526,YYYYYYYYXyyyyyyyx,YYYYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,527,YYYYYYYYXyyyyyyyx,YYXXyyx,4263,71,63,8,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,528,YYYYYYYYXyyyyyyyx,YYYYYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,529,YYYYYYYYXyyyyyyyx,YYXyyxx,4437,78,71,7,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,530,YYYYYYYYXyyyyyyyx,YYYYYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,531,YYYYYYYYXyyyyyyyx,YYYYYYYx,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,532,YYYYYYYYXyyyyyyyx,YYYYYYYX,3,3,2,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,533,YYYYXyyyx,YYYXYxYx,906,75,71,4,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,534,YYYYXyyyx,YYYXYXYx,947,70,66,4,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,535,YYYYYXyyyyx,YYxxYX,321,44,41,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,536,YYYYYXyyyyx,YYxYXX,362,44,41,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,537,YYYYYXyyyyx,YYxyXYx,43,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,538,YYYYYXyyyyx,YYxYxYX,284,44,41,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,539,YYYYYXyyyyx,YYYxxYX,622,74,68,6,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,540,YYYYYXyyyyx,YYYxYXX,664,87,82,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,541,YYYYYXyyyyx,YYXYxyX,50,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,542,YYYYYXyyyyx,YYxYXYX,283,44,41,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,543,YYYYYXyyyyx,YYYYXYxx,349,67,60,7,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,544,YYYYYXyyyyx,YYYxyXYx,43,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,545,YYYYYXyyyyx,YYYXyxYX,50,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,546,YYYYYXyyyyx,YYXYYxYx,110,27,25,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,547,YYYYYXyyyyx,YYxYXYYx,284,44,41,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,548,YYYYYXyyyyx,YYxYYxyX,130,31,30,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,549,YYYYYXyyyyx,YYYxYxYX,632,74,68,6,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,550,YYYYYXyyyyx,YYYxyxYX,638,73,68,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,551,YYYYYXyyyyx,YYYxYXyx,43,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,552,YYYYYXyyyyx,YYYxYXyX,680,88,82,6,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,553,YYYYYXyyyyx,YYYYXXYx,351,67,60,7,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,554,YYYYYXyyyyx,YYYXYxyX,50,40,39,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,555,YYYYYXyyyyx,YYXYXYYx,110,27,25,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,556,YYYYYXyyyyx,YYYxYXYX,674,88,82,6,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,557,YYYYYXyyyyx,YYXYYxyX,130,31,30,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,558,YYYYYXyyyyx,YYXYYxYX,283,44,41,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,559,YYYYYYXyyyyyx,YXyXyx,156,96,95,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,560,YYYYYYXyyyyyx,YXYXyx,156,96,95,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,561,YYYYYYXyyyyyx,YYXXyx,344,46,41,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,562,YYYYYYXyyyyyx,YXyxYx,156,96,95,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,563,YYYYYYXyyyyyx,YYXyxx,357,46,41,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,564,YYYYYYXyyyyyx,YXYxyX,184,96,95,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,565,YYYYYYXyyyyyx,YYxyXYx,156,96,95,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,566,YYYYYYXyyyyyx,YYXyxYX,184,96,95,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,567,YYYYYYXyyyyyx,YYXyXyx,357,46,41,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,568,YYYYYYXyyyyyx,YYXYXyx,357,46,41,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,569,YYYYYYXyyyyyx,YYxYXyx,156,96,95,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,570,YYYYYYXyyyyyx,YYXyxYx,357,46,41,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,571,YYYYYYXyyyyyx,YYXyxyx,357,46,41,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,572,YYYYYYXyyyyyx,YYXYxyX,184,96,95,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,573,YYYYYYXyyyyyx,YYYYXYxx,1189,57,47,10,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,574,YYYYYYXyyyyyx,YYYXYxYx,106,19,16,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,575,YYYYYYXyyyyyx,YYYxyXYx,156,96,95,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,576,YYYYYYXyyyyyx,YYYXyxYX,184,96,95,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,577,YYYYYYXyyyyyx,YYXyyXyx,357,46,41,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,578,YYYYYYXyyyyyx,YYXYYXyx,357,46,41,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,579,YYYYYYXyyyyyx,YYYXYYxx,160,37,34,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,580,YYYYYYXyyyyyx,YYYxxYYX,241,24,21,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,581,YYYYYYXyyyyyx,YYYYxxYX,482,110,102,8,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,582,YYYYYYXyyyyyx,YYYxYXyx,156,96,95,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,583,YYYYYYXyyyyyx,YYXyxYYx,357,46,41,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,584,YYYYYYXyyyyyx,YYYYXXYx,1148,52,43,9,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,585,YYYYYYXyyyyyx,YYYxYYXX,242,24,21,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,586,YYYYYYXyyyyyx,YYYYxYXX,482,109,102,7,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,587,YYYYYYXyyyyyx,YYXYxyyX,357,46,41,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,588,YYYYYYXyyyyyx,YYYXYxyX,184,96,95,1,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,589,YYYYYYXyyyyyx,YYYXYXYx,106,19,16,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,590,YYYYYYYXyyyyyyx,YXXyx,3450,263,259,4,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,591,YYYYYYYXyyyyyyx,YXyxx,2590,277,273,4,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,592,YYYYYYYXyyyyyyx,YXyXyx,3253,279,272,7,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,593,YYYYYYYXyyyyyyx,YXYXyx,3253,279,272,7,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,594,YYYYYYYXyyyyyyx,YXyxYx,3450,264,259,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,595,YYYYYYYXyyyyyyx,YXYxyX,3315,280,274,6,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,596,YYYYYYYXyyyyyyx,YYxyXYx,3253,279,272,7,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,597,YYYYYYYXyyyyyyx,YYXyxYX,3315,280,274,6,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,598,YYYYYYYXyyyyyyx,YYYxxYX,510,47,42,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,599,YYYYYYYXyyyyyyx,YYYxxyX,477,45,40,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,600,YYYYYYYXyyyyyyx,YYxYXyx,3458,266,260,6,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,601,YYYYYYYXyyyyyyx,YYYxyXX,464,45,40,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,602,YYYYYYYXyyyyyyx,YYYxYXX,560,47,42,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,603,YYYYYYYXyyyyyyx,YYXYxyX,3315,280,274,6,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,604,YYYYYYYXyyyyyyx,YYYxyXYx,3253,279,272,7,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,605,YYYYYYYXyyyyyyx,YYYXyxYX,3315,280,274,6,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,606,YYYYYYYXyyyyyyx,YYYxxYYX,324,47,44,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,607,YYYYYYYXyyyyyyx,YYYxYxYX,510,47,42,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,608,YYYYYYYXyyyyyyx,YYYxyxYX,510,47,42,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,609,YYYYYYYXyyyyyyx,YYYxYxyX,584,44,40,4,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,610,YYYYYYYXyyyyyyx,YYYxYXyx,3458,266,260,6,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,611,YYYYYYYXyyyyyyx,YYYxYXyX,560,47,42,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,612,YYYYYYYXyyyyyyx,YYYxYYXX,355,47,44,3,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,613,YYYYYYYXyyyyyyx,YYYXYxyX,3315,280,274,6,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,614,YYYYYYYXyyyyyyx,YYYxyXYX,464,45,40,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,615,YYYYYYYXyyyyyyx,YYYxYXYX,560,47,42,5,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,616,YYYYYYYYXyyyyyyyx,YXXyx,20798,780,770,10,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,617,YYYYYYYYXyyyyyyyx,YXyxx,10755,760,749,11,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,618,YYYYYYYYXyyyyyyyx,YXyXyx,20790,780,770,10,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,619,YYYYYYYYXyyyyyyyx,YXYXyx,8602,825,815,10,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,620,YYYYYYYYXyyyyyyyx,YXyxYx,10722,763,753,10,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,621,YYYYYYYYXyyyyyyyx,YXYxyX,10722,761,752,9,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,622,YYYYYYYYXyyyyyyyx,YYxyXYx,20819,780,770,10,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,623,YYYYYYYYXyyyyyyyx,YYXyxYX,20810,780,770,10,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,624,YYYYYYYYXyyyyyyyx,YYxYXyx,10776,760,749,11,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,625,YYYYYYYYXyyyyyyyx,YYXYxyX,10776,760,749,11,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,626,YYYYYYYYXyyyyyyyx,YYYYXYxx,291,66,62,4,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,627,YYYYYYYYXyyyyyyyx,YYYYXXyx,50,25,23,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,628,YYYYYYYYXyyyyyyyx,YYXyXyyx,4263,71,63,8,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,629,YYYYYYYYXyyyyyyyx,YYXYXyyx,4263,71,63,8,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,630,YYYYYYYYXyyyyyyyx,YYXyyxYx,4340,69,63,6,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,631,YYYYYYYYXyyyyyyyx,YYYYXyxx,63,25,23,2,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,632,YYYYYYYYXyyyyyyyx,YYYYXXYx,333,66,62,4,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,633,YYYYYYYYXyyyyyyyx,YYXyyxyx,4340,69,63,6,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,634,YYYYYYYXyyyyyyx,YYYXyyxx,329,55,47,8,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,635,YYYYYYYXyyyyyyx,YYYXXyyx,329,55,47,8,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,636,YYYYYYYYXyyyyyyyx,YYYXYxyX,10756,760,749,11,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,637,YYYYYYYYXyyyyyyyx,YYYXyxYX,20790,780,770,10,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,638,YYYYYYYYXyyyyyyyx,YYYxyXYx,20799,780,770,10,0,0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,639,YYYYYYYYXyyyyyyyx,YYYxYXyx,10756,760,749,11,0,0
+auto_dual,Sub + Auto Dual GS,0,YYXyx,Yx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,1,YYXyx,YX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,2,YYXyx,YYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,3,YYX,YYXyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,4,YYYx,YYXyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,5,YYYX,YYXyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,6,YYXyx,YXYxx,7,6,6,0,0,0
+auto_dual,Sub + Auto Dual GS,7,YYXyx,YXXyx,4,3,3,0,0,0
+auto_dual,Sub + Auto Dual GS,8,YYYYx,YYXyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,9,YYXyx,YXyxx,4,3,3,0,0,0
+auto_dual,Sub + Auto Dual GS,10,YYXyx,YXXYx,7,6,6,0,0,0
+auto_dual,Sub + Auto Dual GS,11,YYYYX,YYXyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,12,YYXYxx,YYXyx,5,4,4,0,0,0
+auto_dual,Sub + Auto Dual GS,13,YYXyx,YXYxYx,7,7,6,0,1,0
+auto_dual,Sub + Auto Dual GS,14,YYXyx,YXYxyx,7,7,6,0,1,0
+auto_dual,Sub + Auto Dual GS,15,YYXyx,YXyXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,16,YYXyx,YXYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,17,YYXXyx,YYXyx,4,3,3,0,0,0
+auto_dual,Sub + Auto Dual GS,18,YYXyx,YYxxYX,10,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,19,YYXyx,YYxxyX,8,7,7,0,0,0
+auto_dual,Sub + Auto Dual GS,20,YYYYYx,YYXyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,21,YYXyx,YXyxYx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,22,YYXyx,YXyXYx,7,7,6,0,1,0
+auto_dual,Sub + Auto Dual GS,23,YYXyx,YYXyxx,4,3,3,0,0,0
+auto_dual,Sub + Auto Dual GS,24,YYXXYx,YYXyx,5,4,4,0,0,0
+auto_dual,Sub + Auto Dual GS,25,YYXyx,YYxyXX,8,7,7,0,0,0
+auto_dual,Sub + Auto Dual GS,26,YYXyx,YYxYXX,9,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,27,YYXyx,YXYxyX,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,28,YYXyx,YXYXYx,7,7,6,0,1,0
+auto_dual,Sub + Auto Dual GS,29,YYYYYX,YYXyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,30,YYXyx,YXXYxxx,10,9,9,0,0,0
+auto_dual,Sub + Auto Dual GS,31,YYXyx,YXXXyxx,9,8,8,0,0,0
+auto_dual,Sub + Auto Dual GS,32,YYYXYxx,YYXyx,8,7,7,0,0,0
+auto_dual,Sub + Auto Dual GS,33,YYXYxYx,YYXyx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,34,YYXYxyx,YYXyx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,35,YYXyx,YYxYXYx,7,7,6,0,1,0
+auto_dual,Sub + Auto Dual GS,36,YYXyx,YYXyxyX,7,7,6,0,1,0
+auto_dual,Sub + Auto Dual GS,37,YYXyx,YYxyXYx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,38,YYXyxYX,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,39,YYXyXyx,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,40,YYXYXyx,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,41,YYYXXyx,YYXyx,4,3,3,0,0,0
+auto_dual,Sub + Auto Dual GS,42,YYXYYxx,YYXyx,6,5,5,0,0,0
+auto_dual,Sub + Auto Dual GS,43,YYXyx,YYxYxYX,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,44,YYXyx,YYxyxYX,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,45,YYXyx,YYxYxyX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,46,YYXyx,YYxyxyX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,47,YYXXyyx,YYXyx,4,3,3,0,0,0
+auto_dual,Sub + Auto Dual GS,48,YYYxxYX,YYXyx,14,11,10,0,1,0
+auto_dual,Sub + Auto Dual GS,49,YYYxxyX,YYXyx,10,9,9,0,0,0
+auto_dual,Sub + Auto Dual GS,50,YYYYYYx,YYXyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,51,YYXyx,YYxYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,52,YYXyx,YYxyXyx,7,7,6,0,1,0
+auto_dual,Sub + Auto Dual GS,53,YYXyxYx,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,54,YYXyXYx,YYXyx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,55,YYXyx,YYxyXyX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,56,YYXyx,YYxYXyX,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,57,YYXyx,YXXyxxx,9,8,8,0,0,0
+auto_dual,Sub + Auto Dual GS,58,YYXyx,YXXXYxx,10,9,9,0,0,0
+auto_dual,Sub + Auto Dual GS,59,YYYXyxx,YYXyx,4,3,3,0,0,0
+auto_dual,Sub + Auto Dual GS,60,YYYXXYx,YYXyx,8,7,7,0,0,0
+auto_dual,Sub + Auto Dual GS,61,YYXyx,YYXyyxx,4,3,3,0,0,0
+auto_dual,Sub + Auto Dual GS,62,YYXXYYx,YYXyx,6,5,5,0,0,0
+auto_dual,Sub + Auto Dual GS,63,YYYxyXX,YYXyx,10,9,9,0,0,0
+auto_dual,Sub + Auto Dual GS,64,YYYxYXX,YYXyx,13,11,10,0,1,0
+auto_dual,Sub + Auto Dual GS,65,YYXyx,YYXyxyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,66,YYXYxyX,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,67,YYXYxYX,YYXyx,7,7,6,0,1,0
+auto_dual,Sub + Auto Dual GS,68,YYXYXYx,YYXyx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,69,YYXyx,YYxyXYX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,70,YYXyx,YYxYXYX,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,71,YYYYYYX,YYXyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,72,YYXXYxxx,YYXyx,8,7,7,0,0,0
+auto_dual,Sub + Auto Dual GS,73,YYXyx,YXXYxxYx,16,10,10,0,0,0
+auto_dual,Sub + Auto Dual GS,74,YYXyx,YXXYxYxx,18,12,12,0,0,0
+auto_dual,Sub + Auto Dual GS,75,YYXyx,YXXYxyxx,46,21,20,0,1,0
+auto_dual,Sub + Auto Dual GS,76,YYXyx,YXXYxxyx,51,25,24,0,1,0
+auto_dual,Sub + Auto Dual GS,77,YYXyx,YXyXXyxx,35,22,21,0,1,0
+auto_dual,Sub + Auto Dual GS,78,YYXyx,YXXyXyxx,38,24,23,0,1,0
+auto_dual,Sub + Auto Dual GS,79,YYXyx,YXXYXyxx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,80,YYXyx,YXYXXyxx,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,81,YYXXXyxx,YYXyx,5,4,4,0,0,0
+auto_dual,Sub + Auto Dual GS,82,YYXyx,YXYXYxxx,14,12,12,0,0,0
+auto_dual,Sub + Auto Dual GS,83,YYXyx,YXYxxxyX,16,10,10,0,0,0
+auto_dual,Sub + Auto Dual GS,84,YYYYXYxx,YYXyx,9,8,8,0,0,0
+auto_dual,Sub + Auto Dual GS,85,YYYXYxYx,YYXyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,86,YYYXYxyx,YYXyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,87,YYXYxYYx,YYXyx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,88,YYXYxyyx,YYXyx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,89,YYYxYXYx,YYXyx,7,7,6,0,1,0
+auto_dual,Sub + Auto Dual GS,90,YYYXyxyX,YYXyx,7,7,6,0,1,0
+auto_dual,Sub + Auto Dual GS,91,YYXyx,YXyXYxxx,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,92,YYXyx,YXXXyxYx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,93,YYYxyXYx,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,94,YYYXyxYX,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,95,YYXyx,YYXyyXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,96,YYXYYXyx,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,97,YYYXyXyx,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,98,YYYXYXyx,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,99,YYYYXXyx,YYXyx,5,4,4,0,0,0
+auto_dual,Sub + Auto Dual GS,100,YYXyx,YYxxxYXX,19,18,18,0,0,0
+auto_dual,Sub + Auto Dual GS,101,YYXyx,YYxxxyXX,15,14,14,0,0,0
+auto_dual,Sub + Auto Dual GS,102,YYYXYYxx,YYXyx,12,10,10,0,0,0
+auto_dual,Sub + Auto Dual GS,103,YYXYYxYx,YYXyx,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,104,YYXYYxyx,YYXyx,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,105,YYXyx,YYxYXYYx,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,106,YYXyx,YYXyyxyX,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,107,YYXyx,YYxYYxyX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,108,YYXyx,YYXyyxYX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,109,YYXyXyyx,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,110,YYXYXyyx,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,111,YYYXXyyx,YYXyx,5,4,4,0,0,0
+auto_dual,Sub + Auto Dual GS,112,YYYxxYYX,YYXyx,7,6,6,0,0,0
+auto_dual,Sub + Auto Dual GS,113,YYYxYxYX,YYXyx,12,12,11,0,1,0
+auto_dual,Sub + Auto Dual GS,114,YYYxyxYX,YYXyx,12,12,11,0,1,0
+auto_dual,Sub + Auto Dual GS,115,YYYxYxyX,YYXyx,10,10,9,0,1,0
+auto_dual,Sub + Auto Dual GS,116,YYYxyxyX,YYXyx,10,10,9,0,1,0
+auto_dual,Sub + Auto Dual GS,117,YYYxxyyX,YYXyx,5,4,4,0,0,0
+auto_dual,Sub + Auto Dual GS,118,YYYYxxYX,YYXyx,17,14,13,0,1,0
+auto_dual,Sub + Auto Dual GS,119,YYYYxxyX,YYXyx,13,12,12,0,0,0
+auto_dual,Sub + Auto Dual GS,120,YYYYYYYx,YYXyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,121,YYYxYXyx,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,122,YYYxyXyx,YYXyx,7,7,6,0,1,0
+auto_dual,Sub + Auto Dual GS,123,YYXyxYYx,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,124,YYXyx,YYXyyXYx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,125,YYXyx,YYxYXyyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,126,YYXyx,YYxYXyyX,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,127,YYXyx,YXXyxxYx,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,128,YYXyx,YXyXXYxx,45,23,22,0,1,0
+auto_dual,Sub + Auto Dual GS,129,YYXyx,YXXyxYxx,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,130,YYXyx,YXXyXYxx,42,21,20,0,1,0
+auto_dual,Sub + Auto Dual GS,131,YYYXyxYx,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,132,YYYXyXYx,YYXyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,133,YYXyx,YYXyyxYx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,134,YYXyXYYx,YYXyx,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,135,YYYxyXyX,YYXyx,10,10,9,0,1,0
+auto_dual,Sub + Auto Dual GS,136,YYYxYXyX,YYXyx,13,12,11,0,1,0
+auto_dual,Sub + Auto Dual GS,137,YYXXyxxx,YYXyx,5,4,4,0,0,0
+auto_dual,Sub + Auto Dual GS,138,YYXXXYxx,YYXyx,8,7,7,0,0,0
+auto_dual,Sub + Auto Dual GS,139,YYXyx,YXYXyxxx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,140,YYXyx,YXXXYxyx,40,12,11,0,1,0
+auto_dual,Sub + Auto Dual GS,141,YYXyx,YXyXyxxx,16,10,10,0,0,0
+auto_dual,Sub + Auto Dual GS,142,YYXyx,YXXXYxYx,15,12,12,0,0,0
+auto_dual,Sub + Auto Dual GS,143,YYXyx,YYxxyXXX,16,14,14,0,0,0
+auto_dual,Sub + Auto Dual GS,144,YYXyx,YYxxYXXX,21,18,18,0,0,0
+auto_dual,Sub + Auto Dual GS,145,YYXyx,YXXYxxyX,49,22,21,0,1,0
+auto_dual,Sub + Auto Dual GS,146,YYXyx,YXYXXYxx,16,10,10,0,0,0
+auto_dual,Sub + Auto Dual GS,147,YYYYXyxx,YYXyx,5,4,4,0,0,0
+auto_dual,Sub + Auto Dual GS,148,YYYYXXYx,YYXyx,9,8,8,0,0,0
+auto_dual,Sub + Auto Dual GS,149,YYXyx,YXYxxyXX,47,24,23,0,1,0
+auto_dual,Sub + Auto Dual GS,150,YYXyx,YXYxxYXX,19,12,12,0,0,0
+auto_dual,Sub + Auto Dual GS,151,YYYXyyxx,YYXyx,5,4,4,0,0,0
+auto_dual,Sub + Auto Dual GS,152,YYYXXYYx,YYXyx,17,10,10,0,0,0
+auto_dual,Sub + Auto Dual GS,153,YYYxyyXX,YYXyx,5,4,4,0,0,0
+auto_dual,Sub + Auto Dual GS,154,YYYxYYXX,YYXyx,7,6,6,0,0,0
+auto_dual,Sub + Auto Dual GS,155,YYYYxyXX,YYXyx,14,12,12,0,0,0
+auto_dual,Sub + Auto Dual GS,156,YYYYxYXX,YYXyx,17,14,13,0,1,0
+auto_dual,Sub + Auto Dual GS,157,YYYXyxyx,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,158,YYXYxyyX,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,159,YYYXYxyX,YYXyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,160,YYYXYxYX,YYXyx,7,7,6,0,1,0
+auto_dual,Sub + Auto Dual GS,161,YYXYYXYx,YYXyx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,162,YYYXYXYx,YYXyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,163,YYXyx,YYXyyxyx,4,4,3,0,1,0
+auto_dual,Sub + Auto Dual GS,164,YYXYXYYx,YYXyx,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,165,YYYxyXYX,YYXyx,10,10,9,0,1,0
+auto_dual,Sub + Auto Dual GS,166,YYYxYXYX,YYXyx,13,12,11,0,1,0
+auto_dual,Sub + Auto Dual GS,167,YYXYYxyX,YYXyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,168,YYXYYxYX,YYXyx,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,169,YYYYYYYX,YYXyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,170,YYYXyyx,Yx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,171,YYYXyyx,YX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,172,YYYXyyx,YYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,173,YYYXyyx,YYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,174,YYYXyyx,YYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,175,YYYX,YYYXyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,176,YYYXyyx,YXYxx,31,13,12,0,1,0
+auto_dual,Sub + Auto Dual GS,177,YYYXyyx,YXXyx,8,7,7,0,0,0
+auto_dual,Sub + Auto Dual GS,178,YYYYx,YYYXyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,179,YYYXyyx,YXyxx,8,7,7,0,0,0
+auto_dual,Sub + Auto Dual GS,180,YYYXyyx,YXXYx,30,13,12,0,1,0
+auto_dual,Sub + Auto Dual GS,181,YYYYX,YYYXyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,182,YYYXyyx,YYXYxx,31,15,14,0,1,0
+auto_dual,Sub + Auto Dual GS,183,YYYXyyx,YXYxYx,40,13,12,0,1,0
+auto_dual,Sub + Auto Dual GS,184,YYYXyyx,YXYxyx,41,12,12,0,0,0
+auto_dual,Sub + Auto Dual GS,185,YYYXyyx,YXyXyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,186,YYYXyyx,YXYXyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,187,YYYXyyx,YYXXyx,8,7,7,0,0,0
+auto_dual,Sub + Auto Dual GS,188,YYYXyyx,YYxxYX,8,7,7,0,0,0
+auto_dual,Sub + Auto Dual GS,189,YYYXyyx,YYxxyX,5,4,4,0,0,0
+auto_dual,Sub + Auto Dual GS,190,YYYYYx,YYYXyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,191,YYYXyyx,YXyxYx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,192,YYYXyyx,YXyXYx,41,12,12,0,0,0
+auto_dual,Sub + Auto Dual GS,193,YYYXyyx,YYXyxx,8,7,7,0,0,0
+auto_dual,Sub + Auto Dual GS,194,YYYXyyx,YYXXYx,52,24,23,0,1,0
+auto_dual,Sub + Auto Dual GS,195,YYYXyyx,YYxyXX,5,4,4,0,0,0
+auto_dual,Sub + Auto Dual GS,196,YYYXyyx,YYxYXX,8,7,7,0,0,0
+auto_dual,Sub + Auto Dual GS,197,YYYXyyx,YXYxyX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,198,YYYXyyx,YXYXYx,40,13,12,0,1,0
+auto_dual,Sub + Auto Dual GS,199,YYYYYX,YYYXyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,200,YYYXYxx,YYYXyyx,6,5,5,0,0,0
+auto_dual,Sub + Auto Dual GS,201,YYYXyyx,YYXYxYx,32,15,14,0,1,0
+auto_dual,Sub + Auto Dual GS,202,YYYXyyx,YYXYxyx,33,14,14,0,0,0
+auto_dual,Sub + Auto Dual GS,203,YYYXyyx,YYxYXYx,41,13,12,0,1,0
+auto_dual,Sub + Auto Dual GS,204,YYYXyyx,YYXyxyX,41,13,12,0,1,0
+auto_dual,Sub + Auto Dual GS,205,YYYXyyx,YYxyXYx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,206,YYYXyyx,YYXyxYX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,207,YYYXyyx,YYXyXyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,208,YYYXyyx,YYXYXyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,209,YYYXXyx,YYYXyyx,6,5,5,0,0,0
+auto_dual,Sub + Auto Dual GS,210,YYYXyyx,YYXYYxx,9,8,8,0,0,0
+auto_dual,Sub + Auto Dual GS,211,YYYXyyx,YYxYxYX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,212,YYYXyyx,YYxyxYX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,213,YYYXyyx,YYxYxyX,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,214,YYYXyyx,YYxyxyX,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,215,YYYXyyx,YYXXyyx,5,4,4,0,0,0
+auto_dual,Sub + Auto Dual GS,216,YYYXyyx,YYYxxYX,78,20,18,0,2,0
+auto_dual,Sub + Auto Dual GS,217,YYYXyyx,YYYxxyX,52,18,18,0,0,0
+auto_dual,Sub + Auto Dual GS,218,YYYYYYx,YYYXyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,219,YYYXyyx,YYxYXyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,220,YYYXyyx,YYxyXyx,40,13,12,0,1,0
+auto_dual,Sub + Auto Dual GS,221,YYYXyyx,YYXyxYx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,222,YYYXyyx,YYXyXYx,55,23,23,0,0,0
+auto_dual,Sub + Auto Dual GS,223,YYYXyyx,YYxyXyX,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,224,YYYXyyx,YYxYXyX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,225,YYYXyxx,YYYXyyx,6,5,5,0,0,0
+auto_dual,Sub + Auto Dual GS,226,YYYXXYx,YYYXyyx,6,5,5,0,0,0
+auto_dual,Sub + Auto Dual GS,227,YYYXyyx,YYXyyxx,5,4,4,0,0,0
+auto_dual,Sub + Auto Dual GS,228,YYYXyyx,YYXXYYx,9,8,8,0,0,0
+auto_dual,Sub + Auto Dual GS,229,YYYXyyx,YYYxyXX,46,18,18,0,0,0
+auto_dual,Sub + Auto Dual GS,230,YYYXyyx,YYYxYXX,84,20,18,0,2,0
+auto_dual,Sub + Auto Dual GS,231,YYYXyyx,YYXyxyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,232,YYYXyyx,YYXYxyX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,233,YYYXyyx,YYXYxYX,40,13,12,0,1,0
+auto_dual,Sub + Auto Dual GS,234,YYYXyyx,YYXYXYx,54,24,23,0,1,0
+auto_dual,Sub + Auto Dual GS,235,YYYXyyx,YYxyXYX,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,236,YYYXyyx,YYxYXYX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,237,YYYYYYX,YYYXyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,238,YYYYXYxx,YYYXyyx,74,21,20,0,1,0
+auto_dual,Sub + Auto Dual GS,239,YYYXYxYx,YYYXyyx,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,240,YYYXYxyx,YYYXyyx,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,241,YYYXyyx,YYXYxYYx,33,15,14,0,1,0
+auto_dual,Sub + Auto Dual GS,242,YYYXyyx,YYXYxyyx,33,15,14,0,1,0
+auto_dual,Sub + Auto Dual GS,243,YYYXyyx,YYYxYXYx,41,13,12,0,1,0
+auto_dual,Sub + Auto Dual GS,244,YYYXyxyX,YYYXyyx,41,13,12,0,1,0
+auto_dual,Sub + Auto Dual GS,245,YYYXyyx,YYYxyXYx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,246,YYYXyxYX,YYYXyyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,247,YYYXyyx,YYXyyXyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,248,YYYXyyx,YYXYYXyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,249,YYYXyXyx,YYYXyyx,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,250,YYYXYXyx,YYYXyyx,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,251,YYYYXXyx,YYYXyyx,55,13,13,0,0,0
+auto_dual,Sub + Auto Dual GS,252,YYYXyyx,YYxxxYXX,71,23,22,0,1,0
+auto_dual,Sub + Auto Dual GS,253,YYYXyyx,YYxxxyXX,53,19,19,0,0,0
+auto_dual,Sub + Auto Dual GS,254,YYYXYYxx,YYYXyyx,7,6,6,0,0,0
+auto_dual,Sub + Auto Dual GS,255,YYYXyyx,YYXYYxYx,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,256,YYYXyyx,YYXYYxyx,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,257,YYYXyyx,YYxYXYYx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,258,YYYXyyx,YYXyyxyX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,259,YYYXyyx,YYxYYxyX,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,260,YYYXyyx,YYXyyxYX,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,261,YYYXyyx,YYXyXyyx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,262,YYYXyyx,YYXYXyyx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,263,YYYXXyyx,YYYXyyx,4,3,3,0,0,0
+auto_dual,Sub + Auto Dual GS,264,YYYXyyx,YYYxxYYX,66,26,25,0,1,0
+auto_dual,Sub + Auto Dual GS,265,YYYXyyx,YYYxYxYX,79,20,18,0,2,0
+auto_dual,Sub + Auto Dual GS,266,YYYXyyx,YYYxyxYX,97,20,18,0,2,0
+auto_dual,Sub + Auto Dual GS,267,YYYXyyx,YYYxYxyX,52,19,18,0,1,0
+auto_dual,Sub + Auto Dual GS,268,YYYXyyx,YYYxyxyX,52,19,18,0,1,0
+auto_dual,Sub + Auto Dual GS,269,YYYXyyx,YYYxxyyX,48,18,17,0,1,0
+auto_dual,Sub + Auto Dual GS,270,YYYYxxYX,YYYXyyx,12,10,9,0,1,0
+auto_dual,Sub + Auto Dual GS,271,YYYYxxyX,YYYXyyx,10,9,9,0,0,0
+auto_dual,Sub + Auto Dual GS,272,YYYYYYYx,YYYXyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,273,YYYXyyx,YYYxYXyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,274,YYYXyyx,YYYxyXyx,40,13,12,0,1,0
+auto_dual,Sub + Auto Dual GS,275,YYYXyyx,YYXyxYYx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,276,YYYXyyx,YYXyyXYx,54,24,23,0,1,0
+auto_dual,Sub + Auto Dual GS,277,YYYXyyx,YYxYXyyx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,278,YYYXyyx,YYxYXyyX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,279,YYYXyxYx,YYYXyyx,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,280,YYYXyXYx,YYYXyyx,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,281,YYYXyyx,YYXyyxYx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,282,YYYXyyx,YYXyXYYx,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,283,YYYXyyx,YYYxyXyX,46,19,18,0,1,0
+auto_dual,Sub + Auto Dual GS,284,YYYXyyx,YYYxYXyX,105,20,18,0,2,0
+auto_dual,Sub + Auto Dual GS,285,YYYXyyx,YYxxyXXX,47,19,19,0,0,0
+auto_dual,Sub + Auto Dual GS,286,YYYXyyx,YYxxYXXX,82,23,22,0,1,0
+auto_dual,Sub + Auto Dual GS,287,YYYYXyxx,YYYXyyx,55,13,13,0,0,0
+auto_dual,Sub + Auto Dual GS,288,YYYYXXYx,YYYXyyx,84,21,20,0,1,0
+auto_dual,Sub + Auto Dual GS,289,YYYXyyx,YYYXyyxx,4,3,3,0,0,0
+auto_dual,Sub + Auto Dual GS,290,YYYXXYYx,YYYXyyx,7,6,6,0,0,0
+auto_dual,Sub + Auto Dual GS,291,YYYXyyx,YYYxyyXX,56,18,17,0,1,0
+auto_dual,Sub + Auto Dual GS,292,YYYXyyx,YYYxYYXX,61,26,25,0,1,0
+auto_dual,Sub + Auto Dual GS,293,YYYYxyXX,YYYXyyx,10,9,9,0,0,0
+auto_dual,Sub + Auto Dual GS,294,YYYYxYXX,YYYXyyx,11,10,9,0,1,0
+auto_dual,Sub + Auto Dual GS,295,YYYXyxyx,YYYXyyx,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,296,YYYXyyx,YYXYxyyX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,297,YYYXYxyX,YYYXyyx,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,298,YYYXYxYX,YYYXyyx,40,13,12,0,1,0
+auto_dual,Sub + Auto Dual GS,299,YYYXyyx,YYXYYXYx,54,24,23,0,1,0
+auto_dual,Sub + Auto Dual GS,300,YYYXYXYx,YYYXyyx,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,301,YYYXyyx,YYXyyxyx,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,302,YYYXyyx,YYXYXYYx,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,303,YYYXyyx,YYYxyXYX,46,19,18,0,1,0
+auto_dual,Sub + Auto Dual GS,304,YYYXyyx,YYYxYXYX,88,20,18,0,2,0
+auto_dual,Sub + Auto Dual GS,305,YYYXyyx,YYXYYxyX,5,5,4,0,1,0
+auto_dual,Sub + Auto Dual GS,306,YYYXyyx,YYXYYxYX,8,8,7,0,1,0
+auto_dual,Sub + Auto Dual GS,307,YYYYYYYX,YYYXyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,308,YYYYXyyyx,Yx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,309,YYYYXyyyx,YX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,310,YYYYXyyyx,YYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,311,YYYYXyyyx,YYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,312,YYYYXyyyx,YYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,313,YYYYXyyyx,YYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,314,YYYYXyyyx,YXXyx,16,15,15,0,0,0
+auto_dual,Sub + Auto Dual GS,315,YYYYXyyyx,YYYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,316,YYYYXyyyx,YXyxx,23,17,17,0,0,0
+auto_dual,Sub + Auto Dual GS,317,YYYYX,YYYYXyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,318,YYYYXyyyx,YYXYxx,28,16,16,0,0,0
+auto_dual,Sub + Auto Dual GS,319,YYYYXyyyx,YXyXyx,16,16,15,0,1,0
+auto_dual,Sub + Auto Dual GS,320,YYYYXyyyx,YXYXyx,16,16,15,0,1,0
+auto_dual,Sub + Auto Dual GS,321,YYYYXyyyx,YYXXyx,10,8,8,0,0,0
+auto_dual,Sub + Auto Dual GS,322,YYYYXyyyx,YYxxYX,196,42,41,0,1,0
+auto_dual,Sub + Auto Dual GS,323,YYYYYx,YYYYXyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,324,YYYYXyyyx,YXyxYx,23,18,17,0,1,0
+auto_dual,Sub + Auto Dual GS,325,YYYYXyyyx,YYXyxx,10,8,8,0,0,0
+auto_dual,Sub + Auto Dual GS,326,YYYYXyyyx,YYXXYx,32,16,16,0,0,0
+auto_dual,Sub + Auto Dual GS,327,YYYYXyyyx,YYxYXX,188,42,41,0,1,0
+auto_dual,Sub + Auto Dual GS,328,YYYYXyyyx,YXYxyX,23,18,17,0,1,0
+auto_dual,Sub + Auto Dual GS,329,YYYYYX,YYYYXyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,330,YYYYXyyyx,YYYXYxx,247,64,62,0,2,0
+auto_dual,Sub + Auto Dual GS,331,YYYYXyyyx,YYXYxYx,28,17,16,0,1,0
+auto_dual,Sub + Auto Dual GS,332,YYYYXyyyx,YYXYxyx,28,17,16,0,1,0
+auto_dual,Sub + Auto Dual GS,333,YYYYXyyyx,YYxyXYx,16,16,15,0,1,0
+auto_dual,Sub + Auto Dual GS,334,YYYYXyyyx,YYXyxYX,16,16,15,0,1,0
+auto_dual,Sub + Auto Dual GS,335,YYYYXyyyx,YYXyXyx,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,336,YYYYXyyyx,YYXYXyx,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,337,YYYYXyyyx,YYXYYxx,36,20,19,0,1,0
+auto_dual,Sub + Auto Dual GS,338,YYYYXyyyx,YYxYxYX,195,42,41,0,1,0
+auto_dual,Sub + Auto Dual GS,339,YYYYXyyyx,YYxyxYX,198,42,41,0,1,0
+auto_dual,Sub + Auto Dual GS,340,YYYYXyyyx,YYXXyyx,10,8,8,0,0,0
+auto_dual,Sub + Auto Dual GS,341,YYYYXyyyx,YYYxxYX,9,8,8,0,0,0
+auto_dual,Sub + Auto Dual GS,342,YYYYXyyyx,YYYxxyX,6,5,5,0,0,0
+auto_dual,Sub + Auto Dual GS,343,YYYYYYx,YYYYXyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,344,YYYYXyyyx,YYxYXyx,23,18,17,0,1,0
+auto_dual,Sub + Auto Dual GS,345,YYYYXyyyx,YYXyxYx,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,346,YYYYXyyyx,YYXyXYx,32,17,16,0,1,0
+auto_dual,Sub + Auto Dual GS,347,YYYYXyyyx,YYxYXyX,190,42,41,0,1,0
+auto_dual,Sub + Auto Dual GS,348,YYYYXyyyx,YYYXXYx,325,69,67,0,2,0
+auto_dual,Sub + Auto Dual GS,349,YYYYXyyyx,YYXyyxx,10,8,8,0,0,0
+auto_dual,Sub + Auto Dual GS,350,YYYYXyyyx,YYXXYYx,39,20,19,0,1,0
+auto_dual,Sub + Auto Dual GS,351,YYYYXyyyx,YYYxyXX,6,5,5,0,0,0
+auto_dual,Sub + Auto Dual GS,352,YYYYXyyyx,YYYxYXX,9,8,8,0,0,0
+auto_dual,Sub + Auto Dual GS,353,YYYYXyyyx,YYXyxyx,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,354,YYYYXyyyx,YYXYxyX,23,18,17,0,1,0
+auto_dual,Sub + Auto Dual GS,355,YYYYXyyyx,YYXYXYx,32,17,16,0,1,0
+auto_dual,Sub + Auto Dual GS,356,YYYYXyyyx,YYxYXYX,187,42,41,0,1,0
+auto_dual,Sub + Auto Dual GS,357,YYYYYYX,YYYYXyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,358,YYYYXYxx,YYYYXyyyx,7,6,6,0,0,0
+auto_dual,Sub + Auto Dual GS,359,YYYYXyyyx,YYYXYxyx,247,65,62,0,3,0
+auto_dual,Sub + Auto Dual GS,360,YYYYXyyyx,YYXYxYYx,28,17,16,0,1,0
+auto_dual,Sub + Auto Dual GS,361,YYYYXyyyx,YYXYxyyx,28,17,16,0,1,0
+auto_dual,Sub + Auto Dual GS,362,YYYYXyyyx,YYYxyXYx,16,16,15,0,1,0
+auto_dual,Sub + Auto Dual GS,363,YYYYXyyyx,YYYXyxYX,16,16,15,0,1,0
+auto_dual,Sub + Auto Dual GS,364,YYYYXyyyx,YYXyyXyx,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,365,YYYYXyyyx,YYXYYXyx,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,366,YYYYXXyx,YYYYXyyyx,6,5,5,0,0,0
+auto_dual,Sub + Auto Dual GS,367,YYYYXyyyx,YYXYYxYx,45,20,19,0,1,0
+auto_dual,Sub + Auto Dual GS,368,YYYYXyyyx,YYXYYxyx,46,19,19,0,0,0
+auto_dual,Sub + Auto Dual GS,369,YYYYXyyyx,YYxYXYYx,200,42,41,0,1,0
+auto_dual,Sub + Auto Dual GS,370,YYYYXyyyx,YYXyyxyX,201,41,41,0,0,0
+auto_dual,Sub + Auto Dual GS,371,YYYYXyyyx,YYXyXyyx,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,372,YYYYXyyyx,YYXYXyyx,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,373,YYYYXyyyx,YYYXXyyx,23,17,17,0,0,0
+auto_dual,Sub + Auto Dual GS,374,YYYYXyyyx,YYYxxYYX,10,9,9,0,0,0
+auto_dual,Sub + Auto Dual GS,375,YYYYXyyyx,YYYxYxYX,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,376,YYYYXyyyx,YYYxyxYX,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,377,YYYYXyyyx,YYYxYxyX,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,378,YYYYXyyyx,YYYxyxyX,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,379,YYYYXyyyx,YYYxxyyX,6,5,5,0,0,0
+auto_dual,Sub + Auto Dual GS,380,YYYYXyyyx,YYYYxxyX,247,65,63,0,2,0
+auto_dual,Sub + Auto Dual GS,381,YYYYYYYx,YYYYXyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,382,YYYYXyyyx,YYYxYXyx,23,18,17,0,1,0
+auto_dual,Sub + Auto Dual GS,383,YYYYXyyyx,YYXyxYYx,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,384,YYYYXyyyx,YYXyyXYx,32,17,16,0,1,0
+auto_dual,Sub + Auto Dual GS,385,YYYYXyyyx,YYxYXyyX,194,41,41,0,0,0
+auto_dual,Sub + Auto Dual GS,386,YYYYXyyyx,YYYXyXYx,325,70,67,0,3,0
+auto_dual,Sub + Auto Dual GS,387,YYYYXyyyx,YYXyyxYx,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,388,YYYYXyyyx,YYXyXYYx,50,19,19,0,0,0
+auto_dual,Sub + Auto Dual GS,389,YYYYXyyyx,YYYxyXyX,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,390,YYYYXyyyx,YYYxYXyX,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,391,YYYYXyxx,YYYYXyyyx,6,5,5,0,0,0
+auto_dual,Sub + Auto Dual GS,392,YYYYXXYx,YYYYXyyyx,7,6,6,0,0,0
+auto_dual,Sub + Auto Dual GS,393,YYYYXyyyx,YYYXyyxx,16,15,15,0,0,0
+auto_dual,Sub + Auto Dual GS,394,YYYYXyyyx,YYYxyyXX,6,5,5,0,0,0
+auto_dual,Sub + Auto Dual GS,395,YYYYXyyyx,YYYxYYXX,10,9,9,0,0,0
+auto_dual,Sub + Auto Dual GS,396,YYYYXyyyx,YYYYxyXX,325,70,68,0,2,0
+auto_dual,Sub + Auto Dual GS,397,YYYYXyyyx,YYXYxyyX,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,398,YYYYXyyyx,YYYXYxyX,23,18,17,0,1,0
+auto_dual,Sub + Auto Dual GS,399,YYYYXyyyx,YYXYYXYx,32,17,16,0,1,0
+auto_dual,Sub + Auto Dual GS,400,YYYYXyyyx,YYXyyxyx,10,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,401,YYYYXyyyx,YYXYXYYx,49,20,19,0,1,0
+auto_dual,Sub + Auto Dual GS,402,YYYYXyyyx,YYYxyXYX,6,6,5,0,1,0
+auto_dual,Sub + Auto Dual GS,403,YYYYXyyyx,YYYxYXYX,9,9,8,0,1,0
+auto_dual,Sub + Auto Dual GS,404,YYYYXyyyx,YYXYYxYX,193,42,41,0,1,0
+auto_dual,Sub + Auto Dual GS,405,YYYYYYYX,YYYYXyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,406,YYYYYXyyyyx,Yx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,407,YYYYYXyyyyx,YX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,408,YYYYYXyyyyx,YYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,409,YYYYYXyyyyx,YYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,410,YYYYYXyyyyx,YYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,411,YYYYYXyyyyx,YYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,412,YYYYYXyyyyx,YXXyx,48,39,39,0,0,0
+auto_dual,Sub + Auto Dual GS,413,YYYYYXyyyyx,YYYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,414,YYYYYXyyyyx,YXyxx,113,55,55,0,0,0
+auto_dual,Sub + Auto Dual GS,415,YYYYYXyyyyx,YYYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,416,YYYYYXyyyyx,YXyXyx,48,40,39,0,1,0
+auto_dual,Sub + Auto Dual GS,417,YYYYYXyyyyx,YXYXyx,48,40,39,0,1,0
+auto_dual,Sub + Auto Dual GS,418,YYYYYXyyyyx,YYxxyX,129,30,30,0,0,0
+auto_dual,Sub + Auto Dual GS,419,YYYYYXyyyyx,YYYYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,420,YYYYYXyyyyx,YXyxYx,113,56,55,0,1,0
+auto_dual,Sub + Auto Dual GS,421,YYYYYXyyyyx,YYxyXX,120,30,30,0,0,0
+auto_dual,Sub + Auto Dual GS,422,YYYYYXyyyyx,YXYxyX,113,56,55,0,1,0
+auto_dual,Sub + Auto Dual GS,423,YYYYYX,YYYYYXyyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,424,YYYYYXyyyyx,YYXyxYX,48,40,39,0,1,0
+auto_dual,Sub + Auto Dual GS,425,YYYYYXyyyyx,YYXYYxx,82,27,25,0,2,0
+auto_dual,Sub + Auto Dual GS,426,YYYYYXyyyyx,YYxyxYX,197,35,32,0,3,0
+auto_dual,Sub + Auto Dual GS,427,YYYYYXyyyyx,YYxYxyX,129,31,30,0,1,0
+auto_dual,Sub + Auto Dual GS,428,YYYYYXyyyyx,YYxyxyX,129,31,30,0,1,0
+auto_dual,Sub + Auto Dual GS,429,YYYYYXyyyyx,YYXXyyx,10,9,9,0,0,0
+auto_dual,Sub + Auto Dual GS,430,YYYYYYx,YYYYYXyyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,431,YYYYYXyyyyx,YYxYXyx,113,56,55,0,1,0
+auto_dual,Sub + Auto Dual GS,432,YYYYYXyyyyx,YYxyXyX,120,31,30,0,1,0
+auto_dual,Sub + Auto Dual GS,433,YYYYYXyyyyx,YYxYXyX,217,43,40,0,3,0
+auto_dual,Sub + Auto Dual GS,434,YYYYYXyyyyx,YYXyyxx,10,9,9,0,0,0
+auto_dual,Sub + Auto Dual GS,435,YYYYYXyyyyx,YYXXYYx,75,27,25,0,2,0
+auto_dual,Sub + Auto Dual GS,436,YYYYYXyyyyx,YYxyXYX,120,31,30,0,1,0
+auto_dual,Sub + Auto Dual GS,437,YYYYYYX,YYYYYXyyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,438,YYYYYXyyyyx,YYYXYYxx,95,31,29,0,2,0
+auto_dual,Sub + Auto Dual GS,439,YYYYYXyyyyx,YYXYYxyx,82,26,25,0,1,0
+auto_dual,Sub + Auto Dual GS,440,YYYYYXyyyyx,YYXyyxyX,197,35,32,0,3,0
+auto_dual,Sub + Auto Dual GS,441,YYYYYXyyyyx,YYXyyxYX,129,31,30,0,1,0
+auto_dual,Sub + Auto Dual GS,442,YYYYYXyyyyx,YYXyXyyx,10,10,9,0,1,0
+auto_dual,Sub + Auto Dual GS,443,YYYYYXyyyyx,YYXYXyyx,10,10,9,0,1,0
+auto_dual,Sub + Auto Dual GS,444,YYYYYXyyyyx,YYYXXyyx,10,9,9,0,0,0
+auto_dual,Sub + Auto Dual GS,445,YYYYYXyyyyx,YYYYxxYX,10,9,9,0,0,0
+auto_dual,Sub + Auto Dual GS,446,YYYYYXyyyyx,YYYYxxyX,7,6,6,0,0,0
+auto_dual,Sub + Auto Dual GS,447,YYYYYYYx,YYYYYXyyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,448,YYYYYXyyyyx,YYxYXyyx,120,31,30,0,1,0
+auto_dual,Sub + Auto Dual GS,449,YYYYYXyyyyx,YYxYXyyX,217,43,40,0,3,0
+auto_dual,Sub + Auto Dual GS,450,YYYYYXyyyyx,YYXyyxYx,10,10,9,0,1,0
+auto_dual,Sub + Auto Dual GS,451,YYYYYXyyyyx,YYXyXYYx,75,26,25,0,1,0
+auto_dual,Sub + Auto Dual GS,452,YYYYYXyyyyx,YYYXyyxx,10,9,9,0,0,0
+auto_dual,Sub + Auto Dual GS,453,YYYYYXyyyyx,YYYXXYYx,88,31,29,0,2,0
+auto_dual,Sub + Auto Dual GS,454,YYYYYXyyyyx,YYYYxyXX,7,6,6,0,0,0
+auto_dual,Sub + Auto Dual GS,455,YYYYYXyyyyx,YYYYxYXX,10,9,9,0,0,0
+auto_dual,Sub + Auto Dual GS,456,YYYYYXyyyyx,YYXyyxyx,10,10,9,0,1,0
+auto_dual,Sub + Auto Dual GS,457,YYYYYYYX,YYYYYXyyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,458,YYYYYYXyyyyyx,Yx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,459,YYYYYYXyyyyyx,YX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,460,YYYYYYXyyyyyx,YYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,461,YYYYYYXyyyyyx,YYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,462,YYYYYYXyyyyyx,YYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,463,YYYYYYXyyyyyx,YYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,464,YYYYYYXyyyyyx,YXXyx,265,119,119,0,0,0
+auto_dual,Sub + Auto Dual GS,465,YYYYYYXyyyyyx,YYYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,466,YYYYYYXyyyyyx,YXyxx,379,117,117,0,0,0
+auto_dual,Sub + Auto Dual GS,467,YYYYYYXyyyyyx,YYYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,468,YYYYYYXyyyyyx,YYYYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,469,YYYYYYXyyyyyx,YYYYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,470,YYYYYYXyyyyyx,YYYXYxx,50,18,16,0,2,0
+auto_dual,Sub + Auto Dual GS,471,YYYYYYXyyyyyx,YYYXXyx,145,30,30,0,0,0
+auto_dual,Sub + Auto Dual GS,472,YYYYYYXyyyyyx,YYXXyyx,18,17,17,0,0,0
+auto_dual,Sub + Auto Dual GS,473,YYYYYYXyyyyyx,YYYYYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,474,YYYYYYXyyyyyx,YYYXyxx,77,21,21,0,0,0
+auto_dual,Sub + Auto Dual GS,475,YYYYYYXyyyyyx,YYYXXYx,50,18,16,0,2,0
+auto_dual,Sub + Auto Dual GS,476,YYYYYYXyyyyyx,YYXyyxx,24,19,19,0,0,0
+auto_dual,Sub + Auto Dual GS,477,YYYYYYX,YYYYYYXyyyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,478,YYYYYYXyyyyyx,YYYXYxyx,50,19,16,0,3,0
+auto_dual,Sub + Auto Dual GS,479,YYYYYYXyyyyyx,YYYXyXyx,145,31,30,0,1,0
+auto_dual,Sub + Auto Dual GS,480,YYYYYYXyyyyyx,YYYXYXyx,145,31,30,0,1,0
+auto_dual,Sub + Auto Dual GS,481,YYYYYYXyyyyyx,YYXyXyyx,18,18,17,0,1,0
+auto_dual,Sub + Auto Dual GS,482,YYYYYYXyyyyyx,YYXYXyyx,18,18,17,0,1,0
+auto_dual,Sub + Auto Dual GS,483,YYYYYYXyyyyyx,YYYXXyyx,11,10,10,0,0,0
+auto_dual,Sub + Auto Dual GS,484,YYYYYYYx,YYYYYYXyyyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,485,YYYYYYXyyyyyx,YYYXyxYx,77,22,21,0,1,0
+auto_dual,Sub + Auto Dual GS,486,YYYYYYXyyyyyx,YYYXyXYx,50,19,16,0,3,0
+auto_dual,Sub + Auto Dual GS,487,YYYYYYXyyyyyx,YYXyyxYx,24,20,19,0,1,0
+auto_dual,Sub + Auto Dual GS,488,YYYYYYXyyyyyx,YYYXyyxx,11,10,10,0,0,0
+auto_dual,Sub + Auto Dual GS,489,YYYYYYXyyyyyx,YYYXXYYx,101,36,34,0,2,0
+auto_dual,Sub + Auto Dual GS,490,YYYYYYXyyyyyx,YYYXyxyx,77,22,21,0,1,0
+auto_dual,Sub + Auto Dual GS,491,YYYYYYXyyyyyx,YYXyyxyx,24,20,19,0,1,0
+auto_dual,Sub + Auto Dual GS,492,YYYYYYYX,YYYYYYXyyyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,493,YYYYYYYXyyyyyyx,Yx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,494,YYYYYYYXyyyyyyx,YX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,495,YYYYYYYXyyyyyyx,YYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,496,YYYYYYYXyyyyyyx,YYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,497,YYYYYYYXyyyyyyx,YYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,498,YYYYYYYXyyyyyyx,YYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,499,YYYYYYYXyyyyyyx,YYYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,500,YYYYYYYXyyyyyyx,YYYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,501,YYYYYYYXyyyyyyx,YYYYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,502,YYYYYYYXyyyyyyx,YYYYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,503,YYYYYYYXyyyyyyx,YYXXyyx,24,23,23,0,0,0
+auto_dual,Sub + Auto Dual GS,504,YYYYYYYXyyyyyyx,YYYYYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,505,YYYYYYYXyyyyyyx,YYXyyxx,32,25,25,0,0,0
+auto_dual,Sub + Auto Dual GS,506,YYYYYYYXyyyyyyx,YYYYYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,507,YYYYYYYXyyyyyyx,YYXyXyyx,24,24,23,0,1,0
+auto_dual,Sub + Auto Dual GS,508,YYYYYYYXyyyyyyx,YYXYXyyx,24,24,23,0,1,0
+auto_dual,Sub + Auto Dual GS,509,YYYYYYYXyyyyyyx,YYYxyxyX,241,45,42,0,3,0
+auto_dual,Sub + Auto Dual GS,510,YYYYYYYXyyyyyyx,YYYxxyyX,170,33,33,0,0,0
+auto_dual,Sub + Auto Dual GS,511,YYYYYYYXyyyyyyx,YYYYYYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,512,YYYYYYYXyyyyyyx,YYXyyxYx,32,26,25,0,1,0
+auto_dual,Sub + Auto Dual GS,513,YYYYYYYXyyyyyyx,YYYxyXyX,197,43,40,0,3,0
+auto_dual,Sub + Auto Dual GS,514,YYYYYYYXyyyyyyx,YYYxyyXX,158,31,31,0,0,0
+auto_dual,Sub + Auto Dual GS,515,YYYYYYYXyyyyyyx,YYXyyxyx,32,26,25,0,1,0
+auto_dual,Sub + Auto Dual GS,516,YYYYYYYX,YYYYYYYXyyyyyyx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,517,YYYYYYYYXyyyyyyyx,Yx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,518,YYYYYYYYXyyyyyyyx,YX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,519,YYYYYYYYXyyyyyyyx,YYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,520,YYYYYYYYXyyyyyyyx,YYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,521,YYYYYYYYXyyyyyyyx,YYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,522,YYYYYYYYXyyyyyyyx,YYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,523,YYYYYYYYXyyyyyyyx,YYYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,524,YYYYYYYYXyyyyyyyx,YYYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,525,YYYYYYYYXyyyyyyyx,YYYYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,526,YYYYYYYYXyyyyyyyx,YYYYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,527,YYYYYYYYXyyyyyyyx,YYXXyyx,473,49,49,0,0,0
+auto_dual,Sub + Auto Dual GS,528,YYYYYYYYXyyyyyyyx,YYYYYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,529,YYYYYYYYXyyyyyyyx,YYXyyxx,584,71,71,0,0,0
+auto_dual,Sub + Auto Dual GS,530,YYYYYYYYXyyyyyyyx,YYYYYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,531,YYYYYYYYXyyyyyyyx,YYYYYYYx,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,532,YYYYYYYYXyyyyyyyx,YYYYYYYX,3,3,2,0,1,0
+auto_dual,Sub + Auto Dual GS,533,YYYYXyyyx,YYYXYxYx,247,65,62,0,3,0
+auto_dual,Sub + Auto Dual GS,534,YYYYXyyyx,YYYXYXYx,325,70,67,0,3,0
+auto_dual,Sub + Auto Dual GS,535,YYYYYXyyyyx,YYxxYX,197,34,32,0,2,0
+auto_dual,Sub + Auto Dual GS,536,YYYYYXyyyyx,YYxYXX,217,42,40,0,2,0
+auto_dual,Sub + Auto Dual GS,537,YYYYYXyyyyx,YYxyXYx,48,40,39,0,1,0
+auto_dual,Sub + Auto Dual GS,538,YYYYYXyyyyx,YYxYxYX,197,35,32,0,3,0
+auto_dual,Sub + Auto Dual GS,539,YYYYYXyyyyx,YYYxxYX,296,90,88,0,2,0
+auto_dual,Sub + Auto Dual GS,540,YYYYYXyyyyx,YYYxYXX,356,96,94,0,2,0
+auto_dual,Sub + Auto Dual GS,541,YYYYYXyyyyx,YYXYxyX,113,56,55,0,1,0
+auto_dual,Sub + Auto Dual GS,542,YYYYYXyyyyx,YYxYXYX,217,43,40,0,3,0
+auto_dual,Sub + Auto Dual GS,543,YYYYYXyyyyx,YYYYXYxx,186,61,59,0,2,0
+auto_dual,Sub + Auto Dual GS,544,YYYYYXyyyyx,YYYxyXYx,48,40,39,0,1,0
+auto_dual,Sub + Auto Dual GS,545,YYYYYXyyyyx,YYYXyxYX,48,40,39,0,1,0
+auto_dual,Sub + Auto Dual GS,546,YYYYYXyyyyx,YYXYYxYx,82,27,25,0,2,0
+auto_dual,Sub + Auto Dual GS,547,YYYYYXyyyyx,YYxYXYYx,197,35,32,0,3,0
+auto_dual,Sub + Auto Dual GS,548,YYYYYXyyyyx,YYxYYxyX,129,31,30,0,1,0
+auto_dual,Sub + Auto Dual GS,549,YYYYYXyyyyx,YYYxYxYX,296,91,88,0,3,0
+auto_dual,Sub + Auto Dual GS,550,YYYYYXyyyyx,YYYxyxYX,296,91,88,0,3,0
+auto_dual,Sub + Auto Dual GS,551,YYYYYXyyyyx,YYYxYXyx,113,56,55,0,1,0
+auto_dual,Sub + Auto Dual GS,552,YYYYYXyyyyx,YYYxYXyX,356,97,94,0,3,0
+auto_dual,Sub + Auto Dual GS,553,YYYYYXyyyyx,YYYYXXYx,250,77,75,0,2,0
+auto_dual,Sub + Auto Dual GS,554,YYYYYXyyyyx,YYYXYxyX,113,56,55,0,1,0
+auto_dual,Sub + Auto Dual GS,555,YYYYYXyyyyx,YYXYXYYx,75,27,25,0,2,0
+auto_dual,Sub + Auto Dual GS,556,YYYYYXyyyyx,YYYxYXYX,356,97,94,0,3,0
+auto_dual,Sub + Auto Dual GS,557,YYYYYXyyyyx,YYXYYxyX,120,31,30,0,1,0
+auto_dual,Sub + Auto Dual GS,558,YYYYYXyyyyx,YYXYYxYX,217,43,40,0,3,0
+auto_dual,Sub + Auto Dual GS,559,YYYYYYXyyyyyx,YXyXyx,265,120,119,0,1,0
+auto_dual,Sub + Auto Dual GS,560,YYYYYYXyyyyyx,YXYXyx,265,120,119,0,1,0
+auto_dual,Sub + Auto Dual GS,561,YYYYYYXyyyyyx,YYXXyx,212,41,38,0,3,0
+auto_dual,Sub + Auto Dual GS,562,YYYYYYXyyyyyx,YXyxYx,379,118,117,0,1,0
+auto_dual,Sub + Auto Dual GS,563,YYYYYYXyyyyyx,YYXyxx,192,33,30,0,3,0
+auto_dual,Sub + Auto Dual GS,564,YYYYYYXyyyyyx,YXYxyX,379,118,117,0,1,0
+auto_dual,Sub + Auto Dual GS,565,YYYYYYXyyyyyx,YYxyXYx,265,120,119,0,1,0
+auto_dual,Sub + Auto Dual GS,566,YYYYYYXyyyyyx,YYXyxYX,265,120,119,0,1,0
+auto_dual,Sub + Auto Dual GS,567,YYYYYYXyyyyyx,YYXyXyx,212,42,38,0,4,0
+auto_dual,Sub + Auto Dual GS,568,YYYYYYXyyyyyx,YYXYXyx,212,42,38,0,4,0
+auto_dual,Sub + Auto Dual GS,569,YYYYYYXyyyyyx,YYxYXyx,379,118,117,0,1,0
+auto_dual,Sub + Auto Dual GS,570,YYYYYYXyyyyyx,YYXyxYx,192,34,30,0,4,0
+auto_dual,Sub + Auto Dual GS,571,YYYYYYXyyyyyx,YYXyxyx,192,34,30,0,4,0
+auto_dual,Sub + Auto Dual GS,572,YYYYYYXyyyyyx,YYXYxyX,379,118,117,0,1,0
+auto_dual,Sub + Auto Dual GS,573,YYYYYYXyyyyyx,YYYYXYxx,421,48,39,0,9,0
+auto_dual,Sub + Auto Dual GS,574,YYYYYYXyyyyyx,YYYXYxYx,50,19,16,0,3,0
+auto_dual,Sub + Auto Dual GS,575,YYYYYYXyyyyyx,YYYxyXYx,265,120,119,0,1,0
+auto_dual,Sub + Auto Dual GS,576,YYYYYYXyyyyyx,YYYXyxYX,265,120,119,0,1,0
+auto_dual,Sub + Auto Dual GS,577,YYYYYYXyyyyyx,YYXyyXyx,212,42,38,0,4,0
+auto_dual,Sub + Auto Dual GS,578,YYYYYYXyyyyyx,YYXYYXyx,212,42,38,0,4,0
+auto_dual,Sub + Auto Dual GS,579,YYYYYYXyyyyyx,YYYXYYxx,117,36,34,0,2,0
+auto_dual,Sub + Auto Dual GS,580,YYYYYYXyyyyyx,YYYxxYYX,121,26,23,0,3,0
+auto_dual,Sub + Auto Dual GS,581,YYYYYYXyyyyyx,YYYYxxYX,469,139,136,0,3,0
+auto_dual,Sub + Auto Dual GS,582,YYYYYYXyyyyyx,YYYxYXyx,379,118,117,0,1,0
+auto_dual,Sub + Auto Dual GS,583,YYYYYYXyyyyyx,YYXyxYYx,192,34,30,0,4,0
+auto_dual,Sub + Auto Dual GS,584,YYYYYYXyyyyyx,YYYYXXYx,422,46,38,0,8,0
+auto_dual,Sub + Auto Dual GS,585,YYYYYYXyyyyyx,YYYxYYXX,113,24,21,0,3,0
+auto_dual,Sub + Auto Dual GS,586,YYYYYYXyyyyyx,YYYYxYXX,418,129,126,0,3,0
+auto_dual,Sub + Auto Dual GS,587,YYYYYYXyyyyyx,YYXYxyyX,192,34,30,0,4,0
+auto_dual,Sub + Auto Dual GS,588,YYYYYYXyyyyyx,YYYXYxyX,379,118,117,0,1,0
+auto_dual,Sub + Auto Dual GS,589,YYYYYYXyyyyyx,YYYXYXYx,50,19,16,0,3,0
+auto_dual,Sub + Auto Dual GS,590,YYYYYYYXyyyyyyx,YXXyx,953,294,288,0,6,0
+auto_dual,Sub + Auto Dual GS,591,YYYYYYYXyyyyyyx,YXyxx,2810,385,377,0,8,0
+auto_dual,Sub + Auto Dual GS,592,YYYYYYYXyyyyyyx,YXyXyx,953,294,288,0,6,0
+auto_dual,Sub + Auto Dual GS,593,YYYYYYYXyyyyyyx,YXYXyx,1079,274,270,0,4,0
+auto_dual,Sub + Auto Dual GS,594,YYYYYYYXyyyyyyx,YXyxYx,2810,384,377,0,7,0
+auto_dual,Sub + Auto Dual GS,595,YYYYYYYXyyyyyyx,YXYxyX,2810,385,377,0,8,0
+auto_dual,Sub + Auto Dual GS,596,YYYYYYYXyyyyyyx,YYxyXYx,953,294,288,0,6,0
+auto_dual,Sub + Auto Dual GS,597,YYYYYYYXyyyyyyx,YYXyxYX,953,294,288,0,6,0
+auto_dual,Sub + Auto Dual GS,598,YYYYYYYXyyyyyyx,YYYxxYX,226,36,33,0,3,0
+auto_dual,Sub + Auto Dual GS,599,YYYYYYYXyyyyyyx,YYYxxyX,241,44,42,0,2,0
+auto_dual,Sub + Auto Dual GS,600,YYYYYYYXyyyyyyx,YYxYXyx,2810,385,377,0,8,0
+auto_dual,Sub + Auto Dual GS,601,YYYYYYYXyyyyyyx,YYYxyXX,197,42,40,0,2,0
+auto_dual,Sub + Auto Dual GS,602,YYYYYYYXyyyyyyx,YYYxYXX,198,45,42,0,3,0
+auto_dual,Sub + Auto Dual GS,603,YYYYYYYXyyyyyyx,YYXYxyX,2810,385,377,0,8,0
+auto_dual,Sub + Auto Dual GS,604,YYYYYYYXyyyyyyx,YYYxyXYx,953,294,288,0,6,0
+auto_dual,Sub + Auto Dual GS,605,YYYYYYYXyyyyyyx,YYYXyxYX,953,294,288,0,6,0
+auto_dual,Sub + Auto Dual GS,606,YYYYYYYXyyyyyyx,YYYxxYYX,157,38,36,0,2,0
+auto_dual,Sub + Auto Dual GS,607,YYYYYYYXyyyyyyx,YYYxYxYX,226,37,33,0,4,0
+auto_dual,Sub + Auto Dual GS,608,YYYYYYYXyyyyyyx,YYYxyxYX,226,37,33,0,4,0
+auto_dual,Sub + Auto Dual GS,609,YYYYYYYXyyyyyyx,YYYxYxyX,241,45,42,0,3,0
+auto_dual,Sub + Auto Dual GS,610,YYYYYYYXyyyyyyx,YYYxYXyx,2810,385,377,0,8,0
+auto_dual,Sub + Auto Dual GS,611,YYYYYYYXyyyyyyx,YYYxYXyX,198,46,42,0,4,0
+auto_dual,Sub + Auto Dual GS,612,YYYYYYYXyyyyyyx,YYYxYYXX,236,44,42,0,2,0
+auto_dual,Sub + Auto Dual GS,613,YYYYYYYXyyyyyyx,YYYXYxyX,2810,385,377,0,8,0
+auto_dual,Sub + Auto Dual GS,614,YYYYYYYXyyyyyyx,YYYxyXYX,197,43,40,0,3,0
+auto_dual,Sub + Auto Dual GS,615,YYYYYYYXyyyyyyx,YYYxYXYX,198,46,42,0,4,0
+auto_dual,Sub + Auto Dual GS,616,YYYYYYYYXyyyyyyyx,YXXyx,5570,778,770,0,8,0
+auto_dual,Sub + Auto Dual GS,617,YYYYYYYYXyyyyyyyx,YXyxx,17954,939,929,0,10,0
+auto_dual,Sub + Auto Dual GS,618,YYYYYYYYXyyyyyyyx,YXyXyx,5571,777,770,0,7,0
+auto_dual,Sub + Auto Dual GS,619,YYYYYYYYXyyyyyyyx,YXYXyx,5571,778,770,0,8,0
+auto_dual,Sub + Auto Dual GS,620,YYYYYYYYXyyyyyyyx,YXyxYx,7537,939,929,0,10,0
+auto_dual,Sub + Auto Dual GS,621,YYYYYYYYXyyyyyyyx,YXYxyX,17966,938,929,0,9,0
+auto_dual,Sub + Auto Dual GS,622,YYYYYYYYXyyyyyyyx,YYxyXYx,5571,778,770,0,8,0
+auto_dual,Sub + Auto Dual GS,623,YYYYYYYYXyyyyyyyx,YYXyxYX,5571,778,770,0,8,0
+auto_dual,Sub + Auto Dual GS,624,YYYYYYYYXyyyyyyyx,YYxYXyx,17955,939,929,0,10,0
+auto_dual,Sub + Auto Dual GS,625,YYYYYYYYXyyyyyyyx,YYXYxyX,17955,939,929,0,10,0
+auto_dual,Sub + Auto Dual GS,626,YYYYYYYYXyyyyyyyx,YYYYXYxx,199,70,68,0,2,0
+auto_dual,Sub + Auto Dual GS,627,YYYYYYYYXyyyyyyyx,YYYYXXyx,51,26,25,0,1,0
+auto_dual,Sub + Auto Dual GS,628,YYYYYYYYXyyyyyyyx,YYXyXyyx,473,50,49,0,1,0
+auto_dual,Sub + Auto Dual GS,629,YYYYYYYYXyyyyyyyx,YYXYXyyx,473,50,49,0,1,0
+auto_dual,Sub + Auto Dual GS,630,YYYYYYYYXyyyyyyyx,YYXyyxYx,584,72,71,0,1,0
+auto_dual,Sub + Auto Dual GS,631,YYYYYYYYXyyyyyyyx,YYYYXyxx,51,24,23,0,1,0
+auto_dual,Sub + Auto Dual GS,632,YYYYYYYYXyyyyyyyx,YYYYXXYx,181,56,54,0,2,0
+auto_dual,Sub + Auto Dual GS,633,YYYYYYYYXyyyyyyyx,YYXyyxyx,584,72,71,0,1,0
+auto_dual,Sub + Auto Dual GS,634,YYYYYYYXyyyyyyx,YYYXyyxx,153,38,34,0,4,0
+auto_dual,Sub + Auto Dual GS,635,YYYYYYYXyyyyyyx,YYYXXyyx,221,47,43,0,4,0
+auto_dual,Sub + Auto Dual GS,636,YYYYYYYYXyyyyyyyx,YYYXYxyX,17955,939,929,0,10,0
+auto_dual,Sub + Auto Dual GS,637,YYYYYYYYXyyyyyyyx,YYYXyxYX,5571,778,770,0,8,0
+auto_dual,Sub + Auto Dual GS,638,YYYYYYYYXyyyyyyyx,YYYxyXYx,5571,778,770,0,8,0
+auto_dual,Sub + Auto Dual GS,639,YYYYYYYYXyyyyyyyx,YYYxYXyx,17955,939,929,0,10,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,0,YYXyx,Yx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,1,YYXyx,YX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,2,YYXyx,YYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,3,YYX,YYXyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,4,YYYx,YYXyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,5,YYYX,YYXyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,6,YYXyx,YXYxx,7,6,6,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,7,YYXyx,YXXyx,4,3,3,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,8,YYYYx,YYXyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,9,YYXyx,YXyxx,4,3,3,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,10,YYXyx,YXXYx,7,6,6,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,11,YYYYX,YYXyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,12,YYXYxx,YYXyx,5,4,4,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,13,YYXyx,YXYxYx,7,7,6,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,14,YYXyx,YXYxyx,7,7,6,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,15,YYXyx,YXyXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,16,YYXyx,YXYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,17,YYXXyx,YYXyx,4,3,3,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,18,YYXyx,YYxxYX,10,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,19,YYXyx,YYxxyX,8,7,7,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,20,YYYYYx,YYXyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,21,YYXyx,YXyxYx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,22,YYXyx,YXyXYx,7,7,6,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,23,YYXyx,YYXyxx,4,3,3,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,24,YYXXYx,YYXyx,5,4,4,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,25,YYXyx,YYxyXX,8,7,7,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,26,YYXyx,YYxYXX,9,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,27,YYXyx,YXYxyX,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,28,YYXyx,YXYXYx,7,7,6,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,29,YYYYYX,YYXyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,30,YYXyx,YXXYxxx,10,9,9,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,31,YYXyx,YXXXyxx,9,8,8,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,32,YYYXYxx,YYXyx,8,7,7,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,33,YYXYxYx,YYXyx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,34,YYXYxyx,YYXyx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,35,YYXyx,YYxYXYx,7,7,6,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,36,YYXyx,YYXyxyX,7,7,6,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,37,YYXyx,YYxyXYx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,38,YYXyxYX,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,39,YYXyXyx,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,40,YYXYXyx,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,41,YYYXXyx,YYXyx,4,3,3,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,42,YYXYYxx,YYXyx,6,5,5,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,43,YYXyx,YYxYxYX,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,44,YYXyx,YYxyxYX,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,45,YYXyx,YYxYxyX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,46,YYXyx,YYxyxyX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,47,YYXXyyx,YYXyx,4,3,3,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,48,YYYxxYX,YYXyx,14,11,10,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,49,YYYxxyX,YYXyx,10,9,9,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,50,YYYYYYx,YYXyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,51,YYXyx,YYxYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,52,YYXyx,YYxyXyx,7,7,6,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,53,YYXyxYx,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,54,YYXyXYx,YYXyx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,55,YYXyx,YYxyXyX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,56,YYXyx,YYxYXyX,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,57,YYXyx,YXXyxxx,9,8,8,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,58,YYXyx,YXXXYxx,10,9,9,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,59,YYYXyxx,YYXyx,4,3,3,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,60,YYYXXYx,YYXyx,8,7,7,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,61,YYXyx,YYXyyxx,4,3,3,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,62,YYXXYYx,YYXyx,6,5,5,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,63,YYYxyXX,YYXyx,10,9,9,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,64,YYYxYXX,YYXyx,13,11,10,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,65,YYXyx,YYXyxyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,66,YYXYxyX,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,67,YYXYxYX,YYXyx,7,7,6,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,68,YYXYXYx,YYXyx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,69,YYXyx,YYxyXYX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,70,YYXyx,YYxYXYX,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,71,YYYYYYX,YYXyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,72,YYXXYxxx,YYXyx,8,7,7,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,73,YYXyx,YXXYxxYx,16,10,10,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,74,YYXyx,YXXYxYxx,18,12,12,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,75,YYXyx,YXXYxyxx,46,21,20,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,76,YYXyx,YXXYxxyx,51,25,24,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,77,YYXyx,YXyXXyxx,35,22,21,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,78,YYXyx,YXXyXyxx,38,24,23,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,79,YYXyx,YXXYXyxx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,80,YYXyx,YXYXXyxx,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,81,YYXXXyxx,YYXyx,5,4,4,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,82,YYXyx,YXYXYxxx,14,12,12,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,83,YYXyx,YXYxxxyX,16,10,10,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,84,YYYYXYxx,YYXyx,7,7,6,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,85,YYYXYxYx,YYXyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,86,YYYXYxyx,YYXyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,87,YYXYxYYx,YYXyx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,88,YYXYxyyx,YYXyx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,89,YYYxYXYx,YYXyx,7,7,6,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,90,YYYXyxyX,YYXyx,7,7,6,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,91,YYXyx,YXyXYxxx,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,92,YYXyx,YXXXyxYx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,93,YYYxyXYx,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,94,YYYXyxYX,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,95,YYXyx,YYXyyXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,96,YYXYYXyx,YYXyx,6,6,5,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,97,YYYXyXyx,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,98,YYYXYXyx,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,99,YYYYXXyx,YYXyx,6,6,5,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,100,YYXyx,YYxxxYXX,19,18,18,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,101,YYXyx,YYxxxyXX,15,14,14,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,102,YYYXYYxx,YYXyx,12,10,10,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,103,YYXYYxYx,YYXyx,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,104,YYXYYxyx,YYXyx,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,105,YYXyx,YYxYXYYx,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,106,YYXyx,YYXyyxyX,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,107,YYXyx,YYxYYxyX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,108,YYXyx,YYXyyxYX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,109,YYXyXyyx,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,110,YYXYXyyx,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,111,YYYXXyyx,YYXyx,5,4,4,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,112,YYYxxYYX,YYXyx,7,6,6,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,113,YYYxYxYX,YYXyx,12,12,11,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,114,YYYxyxYX,YYXyx,12,12,11,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,115,YYYxYxyX,YYXyx,10,10,9,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,116,YYYxyxyX,YYXyx,10,10,9,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,117,YYYxxyyX,YYXyx,5,4,4,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,118,YYYYxxYX,YYXyx,17,14,13,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,119,YYYYxxyX,YYXyx,13,12,12,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,120,YYYYYYYx,YYXyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,121,YYYxYXyx,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,122,YYYxyXyx,YYXyx,7,7,6,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,123,YYXyxYYx,YYXyx,6,6,5,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,124,YYXyx,YYXyyXYx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,125,YYXyx,YYxYXyyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,126,YYXyx,YYxYXyyX,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,127,YYXyx,YXXyxxYx,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,128,YYXyx,YXyXXYxx,45,23,22,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,129,YYXyx,YXXyxYxx,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,130,YYXyx,YXXyXYxx,42,21,20,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,131,YYYXyxYx,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,132,YYYXyXYx,YYXyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,133,YYXyx,YYXyyxYx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,134,YYXyXYYx,YYXyx,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,135,YYYxyXyX,YYXyx,10,10,9,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,136,YYYxYXyX,YYXyx,13,12,11,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,137,YYXXyxxx,YYXyx,5,4,4,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,138,YYXXXYxx,YYXyx,8,7,7,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,139,YYXyx,YXYXyxxx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,140,YYXyx,YXXXYxyx,40,12,11,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,141,YYXyx,YXyXyxxx,16,10,10,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,142,YYXyx,YXXXYxYx,15,12,12,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,143,YYXyx,YYxxyXXX,16,14,14,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,144,YYXyx,YYxxYXXX,21,18,18,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,145,YYXyx,YXXYxxyX,49,22,21,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,146,YYXyx,YXYXXYxx,16,10,10,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,147,YYYYXyxx,YYXyx,6,6,5,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,148,YYYYXXYx,YYXyx,7,7,6,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,149,YYXyx,YXYxxyXX,47,24,23,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,150,YYXyx,YXYxxYXX,19,12,12,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,151,YYYXyyxx,YYXyx,5,4,4,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,152,YYYXXYYx,YYXyx,17,10,10,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,153,YYYxyyXX,YYXyx,5,4,4,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,154,YYYxYYXX,YYXyx,7,6,6,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,155,YYYYxyXX,YYXyx,14,12,12,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,156,YYYYxYXX,YYXyx,17,14,13,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,157,YYYXyxyx,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,158,YYXYxyyX,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,159,YYYXYxyX,YYXyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,160,YYYXYxYX,YYXyx,7,7,6,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,161,YYXYYXYx,YYXyx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,162,YYYXYXYx,YYXyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,163,YYXyx,YYXyyxyx,4,4,3,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,164,YYXYXYYx,YYXyx,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,165,YYYxyXYX,YYXyx,10,10,9,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,166,YYYxYXYX,YYXyx,13,12,11,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,167,YYXYYxyX,YYXyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,168,YYXYYxYX,YYXyx,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,169,YYYYYYYX,YYXyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,170,YYYXyyx,Yx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,171,YYYXyyx,YX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,172,YYYXyyx,YYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,173,YYYXyyx,YYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,174,YYYXyyx,YYYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,175,YYYX,YYYXyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,176,YYYXyyx,YXYxx,31,13,12,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,177,YYYXyyx,YXXyx,8,7,7,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,178,YYYYx,YYYXyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,179,YYYXyyx,YXyxx,8,7,7,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,180,YYYXyyx,YXXYx,30,13,12,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,181,YYYYX,YYYXyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,182,YYYXyyx,YYXYxx,31,15,14,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,183,YYYXyyx,YXYxYx,40,13,12,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,184,YYYXyyx,YXYxyx,41,12,12,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,185,YYYXyyx,YXyXyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,186,YYYXyyx,YXYXyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,187,YYYXyyx,YYXXyx,8,7,7,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,188,YYYXyyx,YYxxYX,8,7,7,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,189,YYYXyyx,YYxxyX,5,4,4,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,190,YYYYYx,YYYXyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,191,YYYXyyx,YXyxYx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,192,YYYXyyx,YXyXYx,41,12,12,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,193,YYYXyyx,YYXyxx,8,7,7,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,194,YYYXyyx,YYXXYx,52,24,23,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,195,YYYXyyx,YYxyXX,5,4,4,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,196,YYYXyyx,YYxYXX,8,7,7,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,197,YYYXyyx,YXYxyX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,198,YYYXyyx,YXYXYx,40,13,12,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,199,YYYYYX,YYYXyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,200,YYYXYxx,YYYXyyx,6,5,5,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,201,YYYXyyx,YYXYxYx,32,15,14,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,202,YYYXyyx,YYXYxyx,33,14,14,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,203,YYYXyyx,YYxYXYx,41,13,12,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,204,YYYXyyx,YYXyxyX,41,13,12,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,205,YYYXyyx,YYxyXYx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,206,YYYXyyx,YYXyxYX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,207,YYYXyyx,YYXyXyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,208,YYYXyyx,YYXYXyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,209,YYYXXyx,YYYXyyx,6,5,5,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,210,YYYXyyx,YYXYYxx,9,8,8,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,211,YYYXyyx,YYxYxYX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,212,YYYXyyx,YYxyxYX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,213,YYYXyyx,YYxYxyX,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,214,YYYXyyx,YYxyxyX,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,215,YYYXyyx,YYXXyyx,5,4,4,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,216,YYYXyyx,YYYxxYX,78,20,18,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,217,YYYXyyx,YYYxxyX,52,18,18,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,218,YYYYYYx,YYYXyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,219,YYYXyyx,YYxYXyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,220,YYYXyyx,YYxyXyx,40,13,12,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,221,YYYXyyx,YYXyxYx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,222,YYYXyyx,YYXyXYx,55,23,23,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,223,YYYXyyx,YYxyXyX,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,224,YYYXyyx,YYxYXyX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,225,YYYXyxx,YYYXyyx,6,5,5,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,226,YYYXXYx,YYYXyyx,6,5,5,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,227,YYYXyyx,YYXyyxx,5,4,4,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,228,YYYXyyx,YYXXYYx,9,8,8,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,229,YYYXyyx,YYYxyXX,46,18,18,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,230,YYYXyyx,YYYxYXX,84,20,18,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,231,YYYXyyx,YYXyxyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,232,YYYXyyx,YYXYxyX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,233,YYYXyyx,YYXYxYX,40,13,12,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,234,YYYXyyx,YYXYXYx,54,24,23,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,235,YYYXyyx,YYxyXYX,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,236,YYYXyyx,YYxYXYX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,237,YYYYYYX,YYYXyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,238,YYYYXYxx,YYYXyyx,74,21,20,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,239,YYYXYxYx,YYYXyyx,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,240,YYYXYxyx,YYYXyyx,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,241,YYYXyyx,YYXYxYYx,33,15,14,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,242,YYYXyyx,YYXYxyyx,33,15,14,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,243,YYYXyyx,YYYxYXYx,41,13,12,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,244,YYYXyxyX,YYYXyyx,41,13,12,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,245,YYYXyyx,YYYxyXYx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,246,YYYXyxYX,YYYXyyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,247,YYYXyyx,YYXyyXyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,248,YYYXyyx,YYXYYXyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,249,YYYXyXyx,YYYXyyx,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,250,YYYXYXyx,YYYXyyx,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,251,YYYYXXyx,YYYXyyx,55,13,13,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,252,YYYXyyx,YYxxxYXX,71,23,22,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,253,YYYXyyx,YYxxxyXX,53,19,19,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,254,YYYXYYxx,YYYXyyx,5,5,4,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,255,YYYXyyx,YYXYYxYx,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,256,YYYXyyx,YYXYYxyx,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,257,YYYXyyx,YYxYXYYx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,258,YYYXyyx,YYXyyxyX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,259,YYYXyyx,YYxYYxyX,5,5,4,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,260,YYYXyyx,YYXyyxYX,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,261,YYYXyyx,YYXyXyyx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,262,YYYXyyx,YYXYXyyx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,263,YYYXXyyx,YYYXyyx,4,3,3,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,264,YYYXyyx,YYYxxYYX,66,26,25,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,265,YYYXyyx,YYYxYxYX,79,20,18,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,266,YYYXyyx,YYYxyxYX,97,20,18,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,267,YYYXyyx,YYYxYxyX,52,19,18,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,268,YYYXyyx,YYYxyxyX,52,19,18,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,269,YYYXyyx,YYYxxyyX,48,18,17,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,270,YYYYxxYX,YYYXyyx,12,10,9,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,271,YYYYxxyX,YYYXyyx,34,12,10,0,1,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,272,YYYYYYYx,YYYXyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,273,YYYXyyx,YYYxYXyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,274,YYYXyyx,YYYxyXyx,40,13,12,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,275,YYYXyyx,YYXyxYYx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,276,YYYXyyx,YYXyyXYx,54,24,23,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,277,YYYXyyx,YYxYXyyx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,278,YYYXyyx,YYxYXyyX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,279,YYYXyxYx,YYYXyyx,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,280,YYYXyXYx,YYYXyyx,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,281,YYYXyyx,YYXyyxYx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,282,YYYXyyx,YYXyXYYx,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,283,YYYXyyx,YYYxyXyX,46,19,18,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,284,YYYXyyx,YYYxYXyX,105,20,18,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,285,YYYXyyx,YYxxyXXX,47,19,19,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,286,YYYXyyx,YYxxYXXX,82,23,22,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,287,YYYYXyxx,YYYXyyx,55,13,13,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,288,YYYYXXYx,YYYXyyx,84,21,20,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,289,YYYXyyx,YYYXyyxx,4,3,3,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,290,YYYXXYYx,YYYXyyx,5,5,4,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,291,YYYXyyx,YYYxyyXX,56,18,17,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,292,YYYXyyx,YYYxYYXX,61,26,25,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,293,YYYYxyXX,YYYXyyx,34,12,10,0,1,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,294,YYYYxYXX,YYYXyyx,11,10,9,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,295,YYYXyxyx,YYYXyyx,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,296,YYYXyyx,YYXYxyyX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,297,YYYXYxyX,YYYXyyx,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,298,YYYXYxYX,YYYXyyx,40,13,12,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,299,YYYXyyx,YYXYYXYx,54,24,23,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,300,YYYXYXYx,YYYXyyx,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,301,YYYXyyx,YYXyyxyx,5,5,4,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,302,YYYXyyx,YYXYXYYx,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,303,YYYXyyx,YYYxyXYX,46,19,18,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,304,YYYXyyx,YYYxYXYX,88,20,18,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,305,YYYXyyx,YYXYYxyX,5,5,4,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,306,YYYXyyx,YYXYYxYX,8,8,7,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,307,YYYYYYYX,YYYXyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,308,YYYYXyyyx,Yx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,309,YYYYXyyyx,YX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,310,YYYYXyyyx,YYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,311,YYYYXyyyx,YYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,312,YYYYXyyyx,YYYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,313,YYYYXyyyx,YYYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,314,YYYYXyyyx,YXXyx,16,15,15,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,315,YYYYXyyyx,YYYYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,316,YYYYXyyyx,YXyxx,23,17,17,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,317,YYYYX,YYYYXyyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,318,YYYYXyyyx,YYXYxx,28,16,16,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,319,YYYYXyyyx,YXyXyx,16,16,15,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,320,YYYYXyyyx,YXYXyx,16,16,15,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,321,YYYYXyyyx,YYXXyx,10,8,8,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,322,YYYYXyyyx,YYxxYX,196,42,41,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,323,YYYYYx,YYYYXyyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,324,YYYYXyyyx,YXyxYx,23,18,17,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,325,YYYYXyyyx,YYXyxx,10,8,8,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,326,YYYYXyyyx,YYXXYx,32,16,16,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,327,YYYYXyyyx,YYxYXX,188,42,41,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,328,YYYYXyyyx,YXYxyX,23,18,17,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,329,YYYYYX,YYYYXyyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,330,YYYYXyyyx,YYYXYxx,247,64,62,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,331,YYYYXyyyx,YYXYxYx,28,17,16,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,332,YYYYXyyyx,YYXYxyx,28,17,16,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,333,YYYYXyyyx,YYxyXYx,16,16,15,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,334,YYYYXyyyx,YYXyxYX,16,16,15,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,335,YYYYXyyyx,YYXyXyx,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,336,YYYYXyyyx,YYXYXyx,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,337,YYYYXyyyx,YYXYYxx,36,20,19,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,338,YYYYXyyyx,YYxYxYX,195,42,41,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,339,YYYYXyyyx,YYxyxYX,198,42,41,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,340,YYYYXyyyx,YYXXyyx,10,8,8,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,341,YYYYXyyyx,YYYxxYX,9,8,8,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,342,YYYYXyyyx,YYYxxyX,6,5,5,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,343,YYYYYYx,YYYYXyyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,344,YYYYXyyyx,YYxYXyx,23,18,17,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,345,YYYYXyyyx,YYXyxYx,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,346,YYYYXyyyx,YYXyXYx,32,17,16,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,347,YYYYXyyyx,YYxYXyX,190,42,41,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,348,YYYYXyyyx,YYYXXYx,325,69,67,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,349,YYYYXyyyx,YYXyyxx,10,8,8,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,350,YYYYXyyyx,YYXXYYx,39,20,19,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,351,YYYYXyyyx,YYYxyXX,6,5,5,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,352,YYYYXyyyx,YYYxYXX,9,8,8,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,353,YYYYXyyyx,YYXyxyx,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,354,YYYYXyyyx,YYXYxyX,23,18,17,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,355,YYYYXyyyx,YYXYXYx,32,17,16,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,356,YYYYXyyyx,YYxYXYX,187,42,41,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,357,YYYYYYX,YYYYXyyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,358,YYYYXYxx,YYYYXyyyx,8,6,5,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,359,YYYYXyyyx,YYYXYxyx,247,65,62,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,360,YYYYXyyyx,YYXYxYYx,28,17,16,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,361,YYYYXyyyx,YYXYxyyx,28,17,16,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,362,YYYYXyyyx,YYYxyXYx,16,16,15,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,363,YYYYXyyyx,YYYXyxYX,16,16,15,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,364,YYYYXyyyx,YYXyyXyx,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,365,YYYYXyyyx,YYXYYXyx,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,366,YYYYXXyx,YYYYXyyyx,6,6,5,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,367,YYYYXyyyx,YYXYYxYx,45,20,19,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,368,YYYYXyyyx,YYXYYxyx,179,30,29,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,369,YYYYXyyyx,YYxYXYYx,200,42,41,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,370,YYYYXyyyx,YYXyyxyX,201,41,41,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,371,YYYYXyyyx,YYXyXyyx,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,372,YYYYXyyyx,YYXYXyyx,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,373,YYYYXyyyx,YYYXXyyx,23,17,17,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,374,YYYYXyyyx,YYYxxYYX,9,9,8,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,375,YYYYXyyyx,YYYxYxYX,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,376,YYYYXyyyx,YYYxyxYX,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,377,YYYYXyyyx,YYYxYxyX,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,378,YYYYXyyyx,YYYxyxyX,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,379,YYYYXyyyx,YYYxxyyX,6,5,5,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,380,YYYYXyyyx,YYYYxxyX,247,65,63,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,381,YYYYYYYx,YYYYXyyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,382,YYYYXyyyx,YYYxYXyx,23,18,17,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,383,YYYYXyyyx,YYXyxYYx,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,384,YYYYXyyyx,YYXyyXYx,32,17,16,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,385,YYYYXyyyx,YYxYXyyX,194,41,41,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,386,YYYYXyyyx,YYYXyXYx,325,70,67,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,387,YYYYXyyyx,YYXyyxYx,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,388,YYYYXyyyx,YYXyXYYx,21,9,8,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,389,YYYYXyyyx,YYYxyXyX,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,390,YYYYXyyyx,YYYxYXyX,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,391,YYYYXyxx,YYYYXyyyx,6,6,5,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,392,YYYYXXYx,YYYYXyyyx,8,6,5,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,393,YYYYXyyyx,YYYXyyxx,16,15,15,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,394,YYYYXyyyx,YYYxyyXX,6,5,5,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,395,YYYYXyyyx,YYYxYYXX,9,9,8,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,396,YYYYXyyyx,YYYYxyXX,325,70,68,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,397,YYYYXyyyx,YYXYxyyX,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,398,YYYYXyyyx,YYYXYxyX,23,18,17,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,399,YYYYXyyyx,YYXYYXYx,32,17,16,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,400,YYYYXyyyx,YYXyyxyx,10,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,401,YYYYXyyyx,YYXYXYYx,49,20,19,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,402,YYYYXyyyx,YYYxyXYX,6,6,5,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,403,YYYYXyyyx,YYYxYXYX,9,9,8,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,404,YYYYXyyyx,YYXYYxYX,193,42,41,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,405,YYYYYYYX,YYYYXyyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,406,YYYYYXyyyyx,Yx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,407,YYYYYXyyyyx,YX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,408,YYYYYXyyyyx,YYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,409,YYYYYXyyyyx,YYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,410,YYYYYXyyyyx,YYYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,411,YYYYYXyyyyx,YYYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,412,YYYYYXyyyyx,YXXyx,48,39,39,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,413,YYYYYXyyyyx,YYYYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,414,YYYYYXyyyyx,YXyxx,113,55,55,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,415,YYYYYXyyyyx,YYYYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,416,YYYYYXyyyyx,YXyXyx,48,40,39,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,417,YYYYYXyyyyx,YXYXyx,48,40,39,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,418,YYYYYXyyyyx,YYxxyX,129,30,30,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,419,YYYYYXyyyyx,YYYYYx,5,5,4,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,420,YYYYYXyyyyx,YXyxYx,113,56,55,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,421,YYYYYXyyyyx,YYxyXX,120,30,30,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,422,YYYYYXyyyyx,YXYxyX,113,56,55,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,423,YYYYYX,YYYYYXyyyyx,5,5,4,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,424,YYYYYXyyyyx,YYXyxYX,48,40,39,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,425,YYYYYXyyyyx,YYXYYxx,82,27,25,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,426,YYYYYXyyyyx,YYxyxYX,197,35,32,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,427,YYYYYXyyyyx,YYxYxyX,129,31,30,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,428,YYYYYXyyyyx,YYxyxyX,129,31,30,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,429,YYYYYXyyyyx,YYXXyyx,10,9,9,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,430,YYYYYYx,YYYYYXyyyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,431,YYYYYXyyyyx,YYxYXyx,113,56,55,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,432,YYYYYXyyyyx,YYxyXyX,120,31,30,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,433,YYYYYXyyyyx,YYxYXyX,217,43,40,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,434,YYYYYXyyyyx,YYXyyxx,10,9,9,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,435,YYYYYXyyyyx,YYXXYYx,75,27,25,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,436,YYYYYXyyyyx,YYxyXYX,120,31,30,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,437,YYYYYYX,YYYYYXyyyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,438,YYYYYXyyyyx,YYYXYYxx,32,19,18,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,439,YYYYYXyyyyx,YYXYYxyx,115,38,36,0,1,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,440,YYYYYXyyyyx,YYXyyxyX,197,35,32,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,441,YYYYYXyyyyx,YYXyyxYX,129,31,30,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,442,YYYYYXyyyyx,YYXyXyyx,10,10,9,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,443,YYYYYXyyyyx,YYXYXyyx,10,10,9,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,444,YYYYYXyyyyx,YYYXXyyx,10,9,9,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,445,YYYYYXyyyyx,YYYYxxYX,8,7,6,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,446,YYYYYXyyyyx,YYYYxxyX,5,5,4,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,447,YYYYYYYx,YYYYYXyyyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,448,YYYYYXyyyyx,YYxYXyyx,120,31,30,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,449,YYYYYXyyyyx,YYxYXyyX,217,43,40,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,450,YYYYYXyyyyx,YYXyyxYx,10,10,9,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,451,YYYYYXyyyyx,YYXyXYYx,162,40,38,0,1,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,452,YYYYYXyyyyx,YYYXyyxx,10,9,9,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,453,YYYYYXyyyyx,YYYXXYYx,38,19,18,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,454,YYYYYXyyyyx,YYYYxyXX,5,5,4,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,455,YYYYYXyyyyx,YYYYxYXX,9,8,7,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,456,YYYYYXyyyyx,YYXyyxyx,10,10,9,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,457,YYYYYYYX,YYYYYXyyyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,458,YYYYYYXyyyyyx,Yx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,459,YYYYYYXyyyyyx,YX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,460,YYYYYYXyyyyyx,YYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,461,YYYYYYXyyyyyx,YYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,462,YYYYYYXyyyyyx,YYYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,463,YYYYYYXyyyyyx,YYYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,464,YYYYYYXyyyyyx,YXXyx,265,119,119,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,465,YYYYYYXyyyyyx,YYYYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,466,YYYYYYXyyyyyx,YXyxx,379,117,117,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,467,YYYYYYXyyyyyx,YYYYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,468,YYYYYYXyyyyyx,YYYYYx,5,5,4,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,469,YYYYYYXyyyyyx,YYYYYX,5,5,4,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,470,YYYYYYXyyyyyx,YYYXYxx,50,18,16,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,471,YYYYYYXyyyyyx,YYYXXyx,145,30,30,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,472,YYYYYYXyyyyyx,YYXXyyx,18,17,17,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,473,YYYYYYXyyyyyx,YYYYYYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,474,YYYYYYXyyyyyx,YYYXyxx,77,21,21,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,475,YYYYYYXyyyyyx,YYYXXYx,50,18,16,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,476,YYYYYYXyyyyyx,YYXyyxx,24,19,19,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,477,YYYYYYX,YYYYYYXyyyyyx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,478,YYYYYYXyyyyyx,YYYXYxyx,50,19,16,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,479,YYYYYYXyyyyyx,YYYXyXyx,145,31,30,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,480,YYYYYYXyyyyyx,YYYXYXyx,145,31,30,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,481,YYYYYYXyyyyyx,YYXyXyyx,18,18,17,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,482,YYYYYYXyyyyyx,YYXYXyyx,18,18,17,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,483,YYYYYYXyyyyyx,YYYXXyyx,11,10,10,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,484,YYYYYYYx,YYYYYYXyyyyyx,6,6,5,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,485,YYYYYYXyyyyyx,YYYXyxYx,77,22,21,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,486,YYYYYYXyyyyyx,YYYXyXYx,50,19,16,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,487,YYYYYYXyyyyyx,YYXyyxYx,24,20,19,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,488,YYYYYYXyyyyyx,YYYXyyxx,11,10,10,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,489,YYYYYYXyyyyyx,YYYXXYYx,103,36,34,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,490,YYYYYYXyyyyyx,YYYXyxyx,77,22,21,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,491,YYYYYYXyyyyyx,YYXyyxyx,24,20,19,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,492,YYYYYYYX,YYYYYYXyyyyyx,6,6,5,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,493,YYYYYYYXyyyyyyx,Yx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,494,YYYYYYYXyyyyyyx,YX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,495,YYYYYYYXyyyyyyx,YYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,496,YYYYYYYXyyyyyyx,YYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,497,YYYYYYYXyyyyyyx,YYYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,498,YYYYYYYXyyyyyyx,YYYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,499,YYYYYYYXyyyyyyx,YYYYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,500,YYYYYYYXyyyyyyx,YYYYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,501,YYYYYYYXyyyyyyx,YYYYYx,5,5,4,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,502,YYYYYYYXyyyyyyx,YYYYYX,5,5,4,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,503,YYYYYYYXyyyyyyx,YYXXyyx,24,23,23,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,504,YYYYYYYXyyyyyyx,YYYYYYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,505,YYYYYYYXyyyyyyx,YYXyyxx,32,25,25,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,506,YYYYYYYXyyyyyyx,YYYYYYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,507,YYYYYYYXyyyyyyx,YYXyXyyx,24,24,23,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,508,YYYYYYYXyyyyyyx,YYXYXyyx,24,24,23,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,509,YYYYYYYXyyyyyyx,YYYxyxyX,241,45,42,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,510,YYYYYYYXyyyyyyx,YYYxxyyX,170,33,33,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,511,YYYYYYYXyyyyyyx,YYYYYYYx,6,6,5,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,512,YYYYYYYXyyyyyyx,YYXyyxYx,32,26,25,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,513,YYYYYYYXyyyyyyx,YYYxyXyX,197,43,40,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,514,YYYYYYYXyyyyyyx,YYYxyyXX,158,31,31,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,515,YYYYYYYXyyyyyyx,YYXyyxyx,32,26,25,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,516,YYYYYYYX,YYYYYYYXyyyyyyx,6,6,5,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,517,YYYYYYYYXyyyyyyyx,Yx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,518,YYYYYYYYXyyyyyyyx,YX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,519,YYYYYYYYXyyyyyyyx,YYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,520,YYYYYYYYXyyyyyyyx,YYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,521,YYYYYYYYXyyyyyyyx,YYYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,522,YYYYYYYYXyyyyyyyx,YYYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,523,YYYYYYYYXyyyyyyyx,YYYYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,524,YYYYYYYYXyyyyyyyx,YYYYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,525,YYYYYYYYXyyyyyyyx,YYYYYx,5,5,4,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,526,YYYYYYYYXyyyyyyyx,YYYYYX,5,5,4,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,527,YYYYYYYYXyyyyyyyx,YYXXyyx,476,49,49,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,528,YYYYYYYYXyyyyyyyx,YYYYYYx,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,529,YYYYYYYYXyyyyyyyx,YYXyyxx,587,71,71,0,0,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,530,YYYYYYYYXyyyyyyyx,YYYYYYX,3,3,2,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,531,YYYYYYYYXyyyyyyyx,YYYYYYYx,6,6,5,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,532,YYYYYYYYXyyyyyyyx,YYYYYYYX,6,6,5,0,0,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,533,YYYYXyyyx,YYYXYxYx,247,65,62,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,534,YYYYXyyyx,YYYXYXYx,325,70,67,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,535,YYYYYXyyyyx,YYxxYX,197,34,32,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,536,YYYYYXyyyyx,YYxYXX,217,42,40,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,537,YYYYYXyyyyx,YYxyXYx,48,40,39,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,538,YYYYYXyyyyx,YYxYxYX,197,35,32,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,539,YYYYYXyyyyx,YYYxxYX,296,90,88,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,540,YYYYYXyyyyx,YYYxYXX,356,96,94,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,541,YYYYYXyyyyx,YYXYxyX,113,56,55,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,542,YYYYYXyyyyx,YYxYXYX,217,43,40,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,543,YYYYYXyyyyx,YYYYXYxx,187,61,59,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,544,YYYYYXyyyyx,YYYxyXYx,48,40,39,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,545,YYYYYXyyyyx,YYYXyxYX,48,40,39,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,546,YYYYYXyyyyx,YYXYYxYx,82,27,25,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,547,YYYYYXyyyyx,YYxYXYYx,197,35,32,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,548,YYYYYXyyyyx,YYxYYxyX,192,41,38,0,2,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,549,YYYYYXyyyyx,YYYxYxYX,296,91,88,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,550,YYYYYXyyyyx,YYYxyxYX,296,91,88,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,551,YYYYYXyyyyx,YYYxYXyx,113,56,55,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,552,YYYYYXyyyyx,YYYxYXyX,356,97,94,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,553,YYYYYXyyyyx,YYYYXXYx,251,77,75,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,554,YYYYYXyyyyx,YYYXYxyX,113,56,55,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,555,YYYYYXyyyyx,YYXYXYYx,75,27,25,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,556,YYYYYXyyyyx,YYYxYXYX,356,97,94,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,557,YYYYYXyyyyx,YYXYYxyX,202,42,39,0,2,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,558,YYYYYXyyyyx,YYXYYxYX,217,43,40,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,559,YYYYYYXyyyyyx,YXyXyx,265,120,119,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,560,YYYYYYXyyyyyx,YXYXyx,265,120,119,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,561,YYYYYYXyyyyyx,YYXXyx,212,41,38,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,562,YYYYYYXyyyyyx,YXyxYx,379,118,117,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,563,YYYYYYXyyyyyx,YYXyxx,192,33,30,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,564,YYYYYYXyyyyyx,YXYxyX,379,118,117,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,565,YYYYYYXyyyyyx,YYxyXYx,265,120,119,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,566,YYYYYYXyyyyyx,YYXyxYX,265,120,119,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,567,YYYYYYXyyyyyx,YYXyXyx,212,42,38,0,4,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,568,YYYYYYXyyyyyx,YYXYXyx,212,42,38,0,4,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,569,YYYYYYXyyyyyx,YYxYXyx,379,118,117,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,570,YYYYYYXyyyyyx,YYXyxYx,192,34,30,0,4,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,571,YYYYYYXyyyyyx,YYXyxyx,192,34,30,0,4,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,572,YYYYYYXyyyyyx,YYXYxyX,379,118,117,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,573,YYYYYYXyyyyyx,YYYYXYxx,252,46,40,0,5,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,574,YYYYYYXyyyyyx,YYYXYxYx,50,19,16,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,575,YYYYYYXyyyyyx,YYYxyXYx,265,120,119,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,576,YYYYYYXyyyyyx,YYYXyxYX,265,120,119,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,577,YYYYYYXyyyyyx,YYXyyXyx,212,42,38,0,4,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,578,YYYYYYXyyyyyx,YYXYYXyx,232,42,38,0,4,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,579,YYYYYYXyyyyyx,YYYXYYxx,119,36,34,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,580,YYYYYYXyyyyyx,YYYxxYYX,167,60,58,0,1,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,581,YYYYYYXyyyyyx,YYYYxxYX,473,139,136,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,582,YYYYYYXyyyyyx,YYYxYXyx,379,118,117,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,583,YYYYYYXyyyyyx,YYXyxYYx,212,34,30,0,4,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,584,YYYYYYXyyyyyx,YYYYXXYx,261,47,41,0,5,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,585,YYYYYYXyyyyyx,YYYxYYXX,300,62,60,0,1,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,586,YYYYYYXyyyyyx,YYYYxYXX,422,129,126,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,587,YYYYYYXyyyyyx,YYXYxyyX,192,34,30,0,4,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,588,YYYYYYXyyyyyx,YYYXYxyX,379,118,117,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,589,YYYYYYXyyyyyx,YYYXYXYx,50,19,16,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,590,YYYYYYYXyyyyyyx,YXXyx,958,294,288,0,6,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,591,YYYYYYYXyyyyyyx,YXyxx,2818,385,377,0,8,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,592,YYYYYYYXyyyyyyx,YXyXyx,958,294,288,0,6,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,593,YYYYYYYXyyyyyyx,YXYXyx,1082,274,270,0,4,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,594,YYYYYYYXyyyyyyx,YXyxYx,2818,384,377,0,7,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,595,YYYYYYYXyyyyyyx,YXYxyX,2818,385,377,0,8,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,596,YYYYYYYXyyyyyyx,YYxyXYx,958,294,288,0,6,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,597,YYYYYYYXyyyyyyx,YYXyxYX,958,294,288,0,6,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,598,YYYYYYYXyyyyyyx,YYYxxYX,226,36,33,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,599,YYYYYYYXyyyyyyx,YYYxxyX,241,44,42,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,600,YYYYYYYXyyyyyyx,YYxYXyx,2818,385,377,0,8,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,601,YYYYYYYXyyyyyyx,YYYxyXX,197,42,40,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,602,YYYYYYYXyyyyyyx,YYYxYXX,198,45,42,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,603,YYYYYYYXyyyyyyx,YYXYxyX,2818,385,377,0,8,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,604,YYYYYYYXyyyyyyx,YYYxyXYx,958,294,288,0,6,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,605,YYYYYYYXyyyyyyx,YYYXyxYX,958,294,288,0,6,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,606,YYYYYYYXyyyyyyx,YYYxxYYX,160,38,36,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,607,YYYYYYYXyyyyyyx,YYYxYxYX,226,37,33,0,4,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,608,YYYYYYYXyyyyyyx,YYYxyxYX,226,37,33,0,4,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,609,YYYYYYYXyyyyyyx,YYYxYxyX,241,45,42,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,610,YYYYYYYXyyyyyyx,YYYxYXyx,2818,385,377,0,8,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,611,YYYYYYYXyyyyyyx,YYYxYXyX,198,46,42,0,4,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,612,YYYYYYYXyyyyyyx,YYYxYYXX,239,44,42,0,2,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,613,YYYYYYYXyyyyyyx,YYYXYxyX,2818,385,377,0,8,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,614,YYYYYYYXyyyyyyx,YYYxyXYX,197,43,40,0,3,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,615,YYYYYYYXyyyyyyx,YYYxYXYX,198,46,42,0,4,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,616,YYYYYYYYXyyyyyyyx,YXXyx,5578,778,770,0,8,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,617,YYYYYYYYXyyyyyyyx,YXyxx,17965,939,929,0,10,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,618,YYYYYYYYXyyyyyyyx,YXyXyx,5579,777,770,0,7,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,619,YYYYYYYYXyyyyyyyx,YXYXyx,5579,778,770,0,8,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,620,YYYYYYYYXyyyyyyyx,YXyxYx,7548,939,929,0,10,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,621,YYYYYYYYXyyyyyyyx,YXYxyX,17977,938,929,0,9,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,622,YYYYYYYYXyyyyyyyx,YYxyXYx,5579,778,770,0,8,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,623,YYYYYYYYXyyyyyyyx,YYXyxYX,5579,778,770,0,8,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,624,YYYYYYYYXyyyyyyyx,YYxYXyx,17966,939,929,0,10,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,625,YYYYYYYYXyyyyyyyx,YYXYxyX,17966,939,929,0,10,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,626,YYYYYYYYXyyyyyyyx,YYYYXYxx,82,32,28,0,2,2
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,627,YYYYYYYYXyyyyyyyx,YYYYXXyx,67,26,23,0,1,2
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,628,YYYYYYYYXyyyyyyyx,YYXyXyyx,476,50,49,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,629,YYYYYYYYXyyyyyyyx,YYXYXyyx,476,50,49,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,630,YYYYYYYYXyyyyyyyx,YYXyyxYx,587,72,71,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,631,YYYYYYYYXyyyyyyyx,YYYYXyxx,67,24,21,0,1,2
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,632,YYYYYYYYXyyyyyyyx,YYYYXXYx,71,30,26,0,2,2
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,633,YYYYYYYYXyyyyyyyx,YYXyyxyx,587,72,71,0,1,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,634,YYYYYYYXyyyyyyx,YYYXyyxx,153,31,26,0,4,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,635,YYYYYYYXyyyyyyx,YYYXXyyx,153,31,26,0,4,1
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,636,YYYYYYYYXyyyyyyyx,YYYXYxyX,17966,939,929,0,10,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,637,YYYYYYYYXyyyyyyyx,YYYXyxYX,5579,778,770,0,8,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,638,YYYYYYYYXyyyyyyyx,YYYxyXYx,5579,778,770,0,8,0
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,639,YYYYYYYYXyyyyyyyx,YYYxYXyx,17966,939,929,0,10,0

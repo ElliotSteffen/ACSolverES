@@ -1,0 +1,5 @@
+algorithm,algorithm_label,presentations,mean_nodes,median_nodes,geometric_mean_nodes,total_nodes,mean_path_length,median_path_length,fewer_nodes_vs_sub_only,equal_nodes_vs_sub_only,more_nodes_vs_sub_only,median_node_ratio_vs_sub_only
+sub_only,Sub-only GS,640,4962.9640625,11.0,39.82767836926381,3176297,36.7703125,9.0,0,640,0,1.0
+single_auto_cov_dual,Sub + Single-Auto-COV Dual GS,640,513.575,10.0,24.125508377579134,328688,40.75,10.0,385,113,142,0.8
+auto_dual,Sub + Auto Dual GS,640,337.5359375,10.0,21.57896562752203,216023,44.01875,9.0,392,122,126,0.75
+auto_nonauto_cov_triple,Sub + Auto + Non-Auto COV Triple GS,640,337.95625,10.0,21.897797481416525,216292,44.0953125,9.0,397,110,133,0.75

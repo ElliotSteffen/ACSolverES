@@ -1,0 +1,4 @@
+-e .
+
+# Install the test extra when validating a release:
+# python -m pip install -e ".[test]"

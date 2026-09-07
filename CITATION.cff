@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use ACSolverES, please cite this software and the upstream works listed in THIRD_PARTY_NOTICES.md."
+title: "ACSolverES: Greedy-search experiments for Andrews-Curtis presentations"
+type: software
+authors:
+  - family-names: "Steffen"
+    given-names: "Elliot"
+repository-code: "https://github.com/ElliotSteffen/ACSolverES"
+url: "https://github.com/ElliotSteffen/ACSolverES"
+version: 0.1.0
+date-released: 2026-09-04
+license: MIT
+keywords:
+  - Andrews-Curtis conjecture
+  - combinatorial group theory
+  - greedy search
+  - change of variables
+  - automorphisms

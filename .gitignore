@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Native builds
+build/
+dist/
+*.pyd
+*.so
+*.dylib
+
+# Environments and editors
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# Runtime-only files
+*.log
+*.pid
+*.tmp
+checkpoints/
+
+# Local reruns; the curated paper results are committed explicitly.
+results/local_*/

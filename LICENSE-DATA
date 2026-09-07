@@ -1,0 +1,21 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Elliot Steffen
+Contains adapted benchmark material copyright (c) 2026 Math & AI Lab at Caltech
+
+This license applies to the CSV data, result tables, and data-derived figures in
+this repository. It does not replace the MIT license that applies to software.
+
+The benchmark presentations and externally supplied baseline data are adapted
+from material distributed with ACSolverX under CC BY 4.0. ACSolverES converts
+representations, selects benchmark subsets, and adds new algorithm outputs,
+summary tables, and figures. See THIRD_PARTY_NOTICES.md and the data-directory
+README files for attribution and modification details.
+
+You are free to share and adapt this material for any purpose under the terms
+of CC BY 4.0. You must give appropriate credit, link to the license, and
+indicate whether changes were made. Attribution must not imply endorsement by
+the original authors or licensors.
+
+License summary: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
